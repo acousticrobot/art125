@@ -13,7 +13,7 @@ Exploration of trends and topics in contemporary art from 1945 to the present, i
 
 ### Required texts/other materials:
 
-- *Twentieth- Century American Art*, Erika Doss, Oxford History of Art
+  - *Twentieth- Century American Art*, Erika Doss, Oxford History of Art
 
 ### Last Revised 2012
 
@@ -77,3 +77,6 @@ Goal E. Computer Literacy. Students will use computers to access, analyze or pre
 Goal F. Collaboration and Cooperation. Students will develop the interpersonal skills required for effective performance in group situations.
 
 Goal G. Intra-Cultural and Inter-Cultural Responsibility. Students will demonstrate an awareness of the responsibilities of intelligent citizenship in a diverse and pluralistic society, and will demonstrate cultural, global, and environmental awareness.
+
+<!-- page version 2.0  -->	
+<!-- next page: [[art125Unit1]] -->

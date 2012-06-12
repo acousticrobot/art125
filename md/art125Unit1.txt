@@ -1,4 +1,3 @@
-<!-- version 4 -->
 
 # Unit Student Learning Objectives
 ### Unit 1: Modern Art (one week)
@@ -110,18 +109,28 @@ And I cannot insist enough that Modernism has never meant, and does not mean now
 ### Presentation: Artist Slideshows (ULO 1-4)
 
   1. European Influence: Hans Hofmann, Arshile Gorky
+
   * Line and gesture: Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning
+
   * Color Field: Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still
+
   * Second Generation: Helen Frankenthaler, Morris Louis
  
 ### Interactive activities: artwork identification, and terminology (multiple chance, self assess)(ULO 1, 2)
+  
   * Identify artwork images from the slideshows
-  * Identify Abstract Expressionists [names from slide shows mixed with artists from other units].
-  * Identify artists as Color Field Painters [Rothko, Newman, Frankenthaler, Louis, Hoffman]
-  * "Push-pull" who used this term and what does it mean? [Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane]
-  * "Soak and Stain", who used this term and what does it mean? [Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.]
-  * "Zip" who used this term, and what does it mean? [Newman, it refers to the vertical stripes bisecting fields of color]
-  * "Zero Point" who used this term, and what does it mean? []
+
+  * Identify Abstract Expressionists *[names from slide shows mixed with artists from other units]*
+
+  * Identify artists as Color Field Painters *[Rothko, Newman, Frankenthaler, Louis, Hoffman]*
+
+  * "Push-pull" who used this term and what does it mean? *[Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane]*
+
+  * "Soak and Stain", who used this term and what does it mean? *[Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.]*
+
+  * "Zip" who used this term, and what does it mean? *[Newman, it refers to the vertical stripes bisecting fields of color]*
+
+  * "Zero Point" who used this term, and what does it mean? *[Ad Reinhardt, the point where two colors are indistinguishable]*
 
 ### Discussion Board relating to readings (ULO 1-4) 
 
@@ -131,7 +140,7 @@ And I cannot insist enough that Modernism has never meant, and does not mean now
     
 ### Optional links for further self-study (ULO 1-4)
 
-You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
 
   * [MOMA's "Abstract Expressionist New York" show](http://www.moma.org/interactives/exhibitions/2010/abexny/), with tons of on-line interactive features
   * [Review of the MoMA show](http://www.theartstory.org/review-abex.htm), and additional information on the Ab-Exers
@@ -146,4 +155,8 @@ You will not be tested on the following material, but if you are interested in s
   * Full text of [*Lament for Ignacio Sanchez Mejias*](http://boppin.com/lorca/lament.html) by Frederico Garcia Lorca
   * Mark Rothko at the [National Gallery of Art](http://www.nga.gov/feature/rothko/)	
   * [The Clyfford Still Museum](http://www.clyffordstillmuseum.org/) *under construction in Denver*	
-  * Clyfford Still, [why you such a hater?](http://blogs.artinfo.com/modernartnotes/2010/09/clyfford-stills-dysfunctional-relationship-with-moma/)	
+  * Clyfford Still, [why you such a hater?](http://blogs.artinfo.com/modernartnotes/2010/09/clyfford-stills-dysfunctional-relationship-with-moma/)
+
+<!-- page version 4.0  -->	
+<!-- previous page: [[art125Outline]] -->	
+<!-- next page: [[art125Unit1]] -->	
