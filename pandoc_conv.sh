@@ -7,11 +7,11 @@ find . -name \*.txt -type f -exec pandoc -f markdown -t docx -o {}.docx {} \;
 
 
 # move new files to ART125/units and ART125/word
-find . -name "*.txt.html" -exec mv {} ../units \;
+find . -name "*.txt.html" -exec mv {} ../HTMLraw \;
 find . -name "*.txt.docx" -exec mv {} ../word_files \;
 
 # and remove .txt from the name
-cd ../units
+cd ../HTMLraw
 for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1html/'` ; done
 
 
