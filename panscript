@@ -28,4 +28,4 @@ CMT1="bash batch "
 CMT2=$(date +"%Y-%m-%d-%T")
 CMT=$STR1" "$STR2
 
-git commit -a -m echo $CMT
+git commit -a -m "bash batch " $CMT
