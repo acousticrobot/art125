@@ -10,9 +10,13 @@ find . -name \*.txt -type f -exec pandoc -f markdown -t docx -o {}.docx {} \;
 find . -name "*.txt.html" -exec mv {} ../HTMLraw \;
 find . -name "*.txt.docx" -exec mv {} ../word_files \;
 
-# and remove .txt from the name
 cd ../HTMLraw
+
+# REMOVE FOR INSERTING INTO HTML DOCS:
+# get the charset on top so it displays ok
 for file in *.txt.html; do (echo '<meta charset="utf-8">'; cat $file) > tmp; mv tmp $file; done
+
+# Remove .txt from the name
 for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1html/'` ; done
 
 
