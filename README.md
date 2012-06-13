@@ -1,9 +1,8 @@
-art125
-======
+## art125
 
 MCCC Art 125
 
-## files:
+### files:
 
   * **HTMLraw:** HTML files no head or body tags just the guts. Batch generated with pandoc
   * **md:** markdown originals all content edited here
