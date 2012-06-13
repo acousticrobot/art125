@@ -12,8 +12,11 @@ find . -name "*.txt.docx" -exec mv {} ../word_files \;
 
 # and remove .txt from the name
 cd ../HTMLraw
+for file in *.txt.html; do (echo '<meta charset="utf-8">'; cat $file) > tmp; mv tmp $file; done
 for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1html/'` ; done
 
 
 cd ../word_files
 for file in *.txt.docx ; do mv $file `echo $file | sed 's/\(.*\.\)txt.docx/\1docx/'` ; done
+
+
