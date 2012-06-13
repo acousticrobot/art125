@@ -19,11 +19,11 @@ for file in *.txt.html; do (echo '<meta charset="utf-8">'; cat $file) > tmp; mv 
 # Remove .txt from the name
 for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1html/'` ; done
 
-
+# Remove .txt from the name
 cd ../word_files
 for file in *.txt.docx ; do mv $file `echo $file | sed 's/\(.*\.\)txt.docx/\1docx/'` ; done
 
-#when you can, add this data:
-CMT="bash batch "
+# batch commit all new files with timestamp
+CMT="pandoc batch process"
 CMT=$CMT$(date +"%Y-%m-%d-%T")
 git commit -a -m "$CMT"
