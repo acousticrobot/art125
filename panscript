@@ -21,11 +21,17 @@ for file in *.txt.html; do (echo '<meta charset="utf-8">'; cat $file) > tmp; mv 
 # Remove .txt from the name
 for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1html/'` ; done
 
+# Copy files and add HTML header and footer
+cd ..
+cp -a HTMLraw/. HTMLfmt
+cd HTMLfmt
+for file in *.html; do (cat ../_HEADER.txt $file ../_FOOTER.txt) > tmp; mv tmp $file; done
+
 # Remove .txt from the name
 cd ../word_files
 for file in *.txt.docx ; do mv $file `echo $file | sed 's/\(.*\.\)txt.docx/\1docx/'` ; done
 
 # batch commit all new files with timestamp
-CMT="pandoc batch process"
+CMT="pandoc batch "
 CMT=$CMT$(date +"%Y-%m-%d-%T")
 git commit -a -m "$CMT"
