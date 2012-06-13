@@ -23,9 +23,7 @@ for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1htm
 cd ../word_files
 for file in *.txt.docx ; do mv $file `echo $file | sed 's/\(.*\.\)txt.docx/\1docx/'` ; done
 
-
-CMT1="bash batch "
-CMT2=$(date +"%Y-%m-%d-%T")
-CMT=$STR1" "$STR2
-
-git commit -a -m "bash batch " $CMT
+#when you can, add this data:
+CMT="bash batch "
+CMT=$CMT$(date +"%Y-%m-%d-%T")
+git commit -a -m "$CMT"
