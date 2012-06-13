@@ -1,0 +1,143 @@
+  
+# Unit Student Learning Objectives
+### Unit X:  XXX_TITLE (one week)
+
+At the end of this unit, students will be able to:
+
+<!-- example -->
+
+  1. Identify artists and describe qualities associated with Pop Art, Op Art, and Super Realism (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  * Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  * Question the theory and philosophy behind the movement, with emphasis on Warhol and commercialism. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
+
+<!-- example -->
+
+# Unit Student Assessments & Activities
+
+## Unit X:  XXX_TITLE
+
+### Introduction (ULO 3-4)
+
+<!-- example -->
+
+![RICHARD HAMILTON, *Just What Is It That Makes Today’s Homes So Different, So Appealing?*, 1956. Collage][Hamilton001]
+
+The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* and that's where we start our class today. We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
+
+
+So, what was it that makes these artists so different, so appealing? With a little background into the **Black Mountain College**, **happenings**, and the work of **John Cage**, a musician and composer who used chance to structure musical compositions.  His piece *4'33"* is a performance where a pianist sits at a piano for four minutes and forty three seconds without playing anything.  The background noise in the auditorium during that time is what he considers the music of the piece.  By examining such works, pop artists began to bring ideas such as **chance** and **performance** into the visual arts.
+
+Now that you know a little about **Greenberg** and his drive to push every artistic medium back to is own roots, you can imagine that performance opened up possibilities for artists such as Rauschenberg and Johns. Possibilities which fit outside of the formalist, non-representational work that was receiving most of the attention. Contrary to Greenberg’s wish for each medium to be isolated, we see pieces with representation and narrative, paintings which are also sculptures, sculptures which also serve as backdrops for performance.
+
+Often a distinction arises between the critical nature of British pop art, and the American Pop Art's unapologetic embrace of consumer culture. But let’s not be too broad in this generalization, as the underlying unease we see in the Abstract Expressionists also shows up in pieces like the giant *F-111* by **James Rosenquist**, which features a young child blissfully having her hair done at a beauty salon, while a nuclear mushroom cloud erupts in the background. Or **Andy Warhol**’s pieces from the Birmingham Race riots and the car accidents from his disaster series.
+
+[hamilton001]: ../images/hamilton.1956.JustWhatSoAppealing.jpg "The Hero"
+
+<!-- END example -->
+
+### Textbook :  Read Chapter 7 Neo-Dada and Pop Art (ULO 1-3). 
+
+Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Study Guide Review Questions below.
+
+### Study Guide Review Questions (self assess): (ULO 1-3)
+
+The answer to these questions can be found in chapter X of *Twentieth Century American Art* by Erika Doss.
+
+<!-- from original homeworks -->
+
+  * Question *[answer]*
+  * ...
+
+### **Readings**: (ULO 3, 4) 
+
+#### Introduction 
+
+*insert intro here... If you are interested, you can find the [full text](http://www.example.com) and more information about the author at [this website](http://www.example.com).*
+
+#### Main Points
+
+Before we begin, I want to outline the most important points to look for in this article:
+
+  1. ...
+  2. ...
+  
+#### "Title of Article"
+
+.....
+.....
+  
+### Presentation: Artist Slideshows (ULO 1-4)
+
+<!-- example -->
+
+  * Beginnings of pop: 
+	  * Hamilton
+	  * Cage
+	
+  * A blending of media
+	  * Johns
+	  * Rauschenberg
+	  * Claes Oldenburg
+	
+  * Pop and commercialism
+    * Roy Lichtenstein
+    * James Rosenquist
+    * Andy Warhol
+
+  * Super realism
+	  * Chuck Close
+    * Duane Hanson
+
+<!-- example -->
+    
+### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
+
+  * Identify artwork images from the slideshows
+
+  * Identify names of UNIT_X Artists
+	  * Artist a
+	  * Artist b
+	  * ...
+
+  * Identify names of UNIT_X_SUBSET Artists
+    * Artist a
+    * Artist b
+    * ...
+
+	* What was Black Mountain College and what were happenings?
+	
+  * This is a Long Question?*[This is a short answer.]*
+  * ...
+
+#### Multiple Choice
+
+  *  Question:
+	  1. answer
+	  2. answer
+	  3. **correct answer**
+	  4. answer
+
+  * ...
+
+### Discussion Board relating to slideshows and readings (ULO 1-4) 
+
+  1. Written answer to a question
+
+  2. Oral answer to an image and question
+
+### Additional Artists to Study (ULO 1)
+    
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
+
+  * artist a
+  * artist b
+  * ...
+
+### Optional links for further self-study (ULO 1-4)
+
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
+
+  * link a to [site a](http://example.com)
+  * link b to [site b](http://example.com)
+  * ...
+  
