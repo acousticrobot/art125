@@ -1,5 +1,7 @@
+# Unit X:  XXX_TITLE
   
-# Unit Student Learning Objectives
+## Unit Student Learning Objectives
+
 ### Unit X:  XXX_TITLE (one week)
 
 At the end of this unit, students will be able to:
@@ -12,9 +14,7 @@ At the end of this unit, students will be able to:
 
 <!-- example -->
 
-# Unit Student Assessments & Activities
-
-## Unit X:  XXX_TITLE
+## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
