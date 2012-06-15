@@ -1,0 +1,28 @@
+[reference](http://manual.macromates.com/en/regular_expressions)
+
+#### Strip out Course Goal Mapping:
+
+Find/Replace:
+
+\(Course Goals.*\)
+\n\n<!--@G$0G@-->\n
+
+#### Return Course Goal Mapping:
+Find/Delete Both:
+
+\n\n<!--@G
+	
+G@-->\n
+
+#### Add / Hide hyperlinks
+
+Find/Replace
+
+<!--@H | <!-- <@H -->
+
+H@--> | <!-- H@> -->
+	
+### Fix Numbered Lists
+
+  1. (.*)\n  1. (.*)\n  1. (.*)\n  1. (.*)\n  1. (.*)\n
+  1. ($1)\n  2. ($2)\n  3. ($3)\n  4. ($4)\n  5. ($5)\n
