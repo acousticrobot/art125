@@ -111,18 +111,6 @@ Before we begin, I want to outline the most important points to look for in this
     
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
-#### Identify artwork images from the slideshows
-
-Q: This is an artwork by:
-ANSWER:
-A:
-B:
-C:
-D: 
-POINTS: 5
-TYPE: MC
-IMAGE: http://jonathangabel.com/images/art125/
-
 #### Identify names of XXX Artists
 
 Q: Select all the artists who are Abstract Expressionists 
@@ -140,7 +128,21 @@ ANSWER: A,B,C,D,E
 POINTS: 5
 TYPE: MS
 
-#### Multiple Choice
+#### Identify artwork images from the slideshows
+
+run randomIDQ.py
+
+Q: This is an artwork by:
+ANSWER:
+A:
+B:
+C:
+D: 
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/
+
+#### Multiple Choice Definitions
 
 Q: 
 A. 
@@ -150,6 +152,15 @@ D.
 ANSWER: A,B
 POINTS: 5
 TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
 
 Q:
 ANSWER: 
@@ -163,11 +174,23 @@ TYPE: SA
 
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
-### Discussion Board relating to slideshows and readings (ULO 1-4) 
+#### Discussion Board Question
 
-  1. Written answer to a question
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
 
-  2. Oral answer to an image and question
+First, you will start a thread by answering the Essay question below. 
+
+Then you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the due dates for these posts.
+
+##### Essay Question:
+
+Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+
+#### Voice Thread Question
+
+Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
 
 ### Additional Artists to Study (ULO 1)
     

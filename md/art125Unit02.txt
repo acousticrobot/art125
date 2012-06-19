@@ -188,83 +188,218 @@ And I cannot insist enough that Modernism has never meant, and does not mean now
  
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
   
-  * Identify artwork images from the slideshows
-	  * Helen Frankenthaler
-	  * Arshile Gorky
-	  * Hans Hofmann
-	  * Willem De Kooning
-	  * Morris Louis
-	  * Barnett Newman
-	  * Jackson Pollock
-	  * Ad Reinhardt
-	  * Marc Rothko
+#### Identify artwork images from the slideshows
 
-  * Identify names of Abstract Expressionists
-	  * Helen Frankenthaler
-	  * Willem De Kooning
-	  * Morris Louis
-	  * Barnett Newman
-	  * Jackson Pollock
-	  * Ad Reinhardt
-	  * Marc Rothko
+Q: This Artwork is by:
+A. Willem De Kooning
+B. Ad Reinhardt
+C. Marc Rothko
+D. Hans Hofmann
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/dekooning.50.woman1.jpg
 
-  * Identify artists as Color Field Painters *[Rothko, Newman, Frankenthaler, Louis, Hoffman]*
+Q: This Artwork is by:
+A. Helen Frankenthaler
+B. Arshile Gorky
+C. Marc Rothko
+D. Barnett Newman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/frankenthaler.63.canal.jpg
 
-  * "Push-pull" who used this term and what does it mean? *[Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane]*
+Q: This Artwork is by:
+A. Arshile Gorky
+B. Jackson Pollock
+C. Helen Frankenthaler
+D. Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/gorky.44.theLiverisTheCocksComb.jpg
 
-  * "Soak and Stain", who used this term and what does it mean? *[Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.]*
+Q: This Artwork is by:
+A. Hans Hofmann
+B. Morris Louis
+C. Arshile Gorky
+D. Marc Rothko
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/hofmann.62.sanctum.jpg
 
-  * "Zip" who used this term, and what does it mean? *[Newman, it refers to the vertical stripes bisecting fields of color]*
+Q: This Artwork is by:
+A. Morris Louis
+B. Willem De Kooning
+C. Marc Rothko
+D. Ad Reinhardt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/louis.59.saraband.jpg
 
-  * "Zero Point" who used this term, and what does it mean? *[Ad Reinhardt, the point where two colors are indistinguishable]*
+Q: This Artwork is by:
+A. Barnett Newman
+B. Arshile Gorky
+C. Hans Hofmann
+D. Helen Frankenthaler
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/newman.48.onement.jpg
 
-#### Multiple Choice
+Q: This Artwork is by:
+A. Jackson Pollock
+B. Marc Rothko
+C. Ad Reinhardt
+D. Helen Frankenthaler
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/pollock.50.autumnRhythm.jpg
 
-1.  Which of these Abstract Expressionists is also a good example of a color field painter?
-  1. Jackson Pollock
-  2. **Marc Rothko**
-  3. Willem De Kooning
-  4. Franz Kline
+Q: This Artwork is by:
+A. Ad Reinhardt
+B. Marc Rothko
+C. Barnett Newman
+D. Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/reinhardt.60-66.abstractpainting.jpg
 
-*  Abstract Expressionism demonstrated Individualism by:
-  1. **placing emphasis on each artist’s unique style, their “signature mark”.**
-  2. admiring artists who were not social, but worked alone in isolation.
-  3. including subject matter that was anti-communist.
-  4. celebrating the heroic male artist.
+Q: This Artwork is by:
+A. Marc Rothko
+B. Hans Hofmann
+C. Ad Reinhardt
+D. Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/rothko.57.orangeandyellow.jpg
 
-*  How does Pollock respond when asked “Do you think there can be a purely American Art?”:
-  1. “The important paintings of the last hundred years was done in France.”
-  2. “Yes, I don’t see why the problems of modern painting can’t be solved as well here as elsewhere.”
-  3. **“The idea seems absurd to me, just like the idea of creating a purely American mathematics or physics would seem absurd.”**
-  4. “The important paintings of the next hundred years will be American.”
+Q: Select all the artists who are Abstract Expressionists 
+A. Helen Frankenthaler
+B. Willem De Kooning
+C. Morris Louis
+D. Barnett Newman
+E. Jackson Pollock
+F. Ad Reinhardt
+G. Marc Rothko
+H. Pablo Picasso
+I. Andy Warhol
+J. Robert Smithson
+ANSWER: A,B,C,D,E,F,G
+POINTS: 5
+TYPE: MS
 
-*  Discussing the influence of “primitive” art is problematic because:
-  1. it ignores the influence of contemporary society.
-  2. it ignores the influence other cultures have on ours.
-  3. it ignores the fact that America was built by slaves.
-  4. **it debases earlier societies and reduces them into one simple, static, and child-like culture.**
+Q: Select all the artists who are Color Field Painters 
+A. Marc Rothko
+B. Barnett Newman
+C. Hans Hofmann
+D. Ad Reinhardt
+E. Gordon Matta-Clark
+F. Robert Morris
+G. Donald Judd
+ANSWER: A,B,C,D
+POINTS: 5
+TYPE: MS
 
-*  According to Greenberg, what is unique about criticism during the age of modernism?  
-  1. Modernists are more critical than artists of any other time period.
-  2. **Modernist are unique in that they turned their criticism inward.**
-  3. Modernists and critics really got along.
-  4. Modernism turned it's criticism towards literature.
+Q: "Push-pull" who used this term and what does it mean?
+A. Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane
+B. Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.
+C. Barnett Newman, it refers to the vertical stripes bisecting fields of color 
+D. Ad Reinhardt, the point where two colors are indistinguishable
+ANSWER: A
+POINTS: 5
+TYPE: MC
 
-*  What did Greenberg mean when he said “What had to be exhibited was not only that which was unique and irreducible in art in general, but also that which was unique and irreducible in each particular art.”?
-  1. **Each of the arts should concentrate on the qualities unique to itself.**
-  2. Thin washes of paint break the irreducibility of artistic space.
-  3. Paintings based on narrative relied too much on copying music.
-  4. Confusion among the arts results from confusion of society’s morals.
+Q: "Soak and Stain", who used this term and what does it mean?
+A. Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane
+B. Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.
+C. Barnett Newman, it refers to the vertical stripes bisecting fields of color 
+D. Ad Reinhardt, the point where two colors are indistinguishable
+ANSWER: B
+POINTS: 5
+TYPE: MC
 
-*  Which of the following can not be seen as influencing the formation of Abstract Expressionism:  
-  1. The horrors of World War II
-  2. European artists teaching in the United States
-  3. The rise of the United States as a world power
-  4. **Minimalism**
+Q: "Zip" who used this term, and what does it mean?
+A. Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane
+B. Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.
+C. Barnett Newman, it refers to the vertical stripes bisecting fields of color 
+D. Ad Reinhardt, the point where two colors are indistinguishable
+ANSWER: C
+POINTS: 5
+TYPE: MC
+
+Q: "Zero Point" who used this term, and what does it mean?
+A. Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane
+B. Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.
+C. Barnett Newman, it refers to the vertical stripes bisecting fields of color 
+D. Ad Reinhardt, the point where two colors are indistinguishable
+ANSWER: D
+POINTS: 5
+TYPE: MC
+
+Q: Which of these Abstract Expressionists is also a good example of a color field painter?
+A. Marc Rothko
+B. Jackson Pollock
+C. Willem De Kooning
+D. Franz Kline
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Abstract Expressionism demonstrated Individualism by:
+A. placing emphasis on each artist’s unique style, their “signature mark”.
+B. admiring artists who were not social, but worked alone in isolation.
+C. including subject matter that was anti-communist.
+D. celebrating the heroic male artist.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Discussing the influence of “primitive” art is problematic because:
+A. it ignores the richness of other cultures.
+B. it ignores the influence other cultures have on ours.
+C. it ignores the fact that America was built by slaves.
+D. it ignores the influence of contemporary society.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: According to Greenberg, what is unique about criticism during the age of modernism?   
+A. Modernist are unique in that they turned their criticism inward.
+B. Modernists are more critical than artists of any other time period.
+C. Modernists and critics really got along. 
+D. Modernism turned it's criticism towards literature.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: What did Greenberg mean when he said “What had to be exhibited was not only that which was unique and irreducible in art in general, but also that which was unique and irreducible in each particular art.”?
+A. Each of the arts should concentrate on the qualities unique to itself.
+B. Thin washes of paint break the irreducibility of artistic space.
+C. Paintings based on narrative relied too much on copying music.
+D. Confusion among the arts results from confusion of society’s morals.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Which of the following can not be seen as influencing the formation of Abstract Expressionism:   
+A. Minimalism
+B. The horrors of World War II
+C. European artists teaching in the United States 
+D. The rise of the United States as a world power
+ANSWER: A
+POINTS: 5
+TYPE: MC
 
 ### Discussion Board relating to slideshows and readings (ULO 1-4) 
 
-  1. Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  The artists names again are: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis
+  1. Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis
 
   1. Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
 

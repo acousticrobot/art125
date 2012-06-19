@@ -1,12 +1,12 @@
 import random
 
-
 # define artsits and image set lists by unit
 
-u1set = [	"Helen Frankenthaler","Arshile Gorky","Hans Hofmann","Willem De Kooning",
+u1set = [	"Willem De Kooning","Helen Frankenthaler","Arshile Gorky","Hans Hofmann",
 						"Morris Louis","Barnett Newman","Jackson Pollock","Ad Reinhardt","Marc Rothko"]
-u1img = [	"Frankenthaler.","Gorky.","Hofmann.","DeKooning.",
-					"Louis.","Newman.","Pollock.","Reinhardt.","Rothko."]
+u1img = [	"dekooning.50.woman1.jpg", "frankenthaler.63.canal.jpg","gorky.44.theLiverisTheCocksComb.jpg", 
+					"hofmann.62.sanctum.jpg", "louis.59.saraband.jpg","newman.48.onement.jpg",
+					"pollock.50.autumnRhythm.jpg","reinhardt.60-66.abstractpainting.jpg","rothko.57.orangeandyellow.jpg"]
 
 # define bank of artists
 
@@ -28,7 +28,7 @@ def unique_list(seq):
 def random_artists(aset,iset):
 	qlist = ["B.","C.", "D."]
 	for x in range(len(aset)):
-		print "Question: This Artwork is by:"
+		print "Q: This Artwork is by:"
 		print "A.", aset[x]
 		rand = []
 		for p in range(len(qlist)):
