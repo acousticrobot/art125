@@ -36,7 +36,7 @@ Whether formalist or metaphysical in intent, all of these artists had an interes
 
 ### Textbook :  Read Chapter 6 Abstract Expressionism (ULO 1-3). 
 
-Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages 119-137. Then test your understanding by answering the Textbook Review Questions in the next section.
+Please read Chapter 6 in *Twentieth Century American Art* by Erika Doss, pages 119-137. Then test your understanding by answering the Textbook Review Questions in the next section.
 
 ### Textbook Review Questions (self assess): (ULO 1-3)
 
@@ -117,7 +117,8 @@ ANSWER: Despite many of the progressive ideas held by the American Abstract Expr
 POINTS: 5
 TYPE: SA
 
-### **Readings**: Clement Greenberg (ULO 3, 4) 
+### **Readings**: (ULO 3, 4)
+### Clement Greenberg "Modernist Painting"
 
 #### Introduction 
 
@@ -188,13 +189,19 @@ And I cannot insist enough that Modernism has never meant, and does not mean now
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
   
   * Identify artwork images from the slideshows
-
-  * Identify names of Abstract Expressionists
-	  * Helen Frankenthaler
+	  * Helen Frankenthaler
 	  * Arshile Gorky
 	  * Hans Hofmann
 	  * Willem De Kooning
-	  * Lee Krasner
+	  * Morris Louis
+	  * Barnett Newman
+	  * Jackson Pollock
+	  * Ad Reinhardt
+	  * Marc Rothko
+
+  * Identify names of Abstract Expressionists
+	  * Helen Frankenthaler
+	  * Willem De Kooning
 	  * Morris Louis
 	  * Barnett Newman
 	  * Jackson Pollock
