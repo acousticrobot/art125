@@ -280,6 +280,8 @@ POINTS: 5
 TYPE: MC
 IMAGE: http://jonathangabel.com/images/art125/rothko.57.orangeandyellow.jpg
 
+#### Identify Artists Names and Term Definitions
+
 Q: Select all the artists who are Abstract Expressionists 
 A. Helen Frankenthaler
 B. Willem De Kooning
@@ -307,7 +309,7 @@ ANSWER: A,B,C,D
 POINTS: 5
 TYPE: MS
 
-Q: "Push-pull" who used this term and what does it mean?
+Q: "Push-Pull" who used this term and what does it mean?
 A. Hans Hoffman, the use of color and line to push space into or pull space out of the picture plane
 B. Helen Frankenthaler, applying paint directly to the raw canvas so that it literally penetrates and becomes one with the canvas.
 C. Barnett Newman, it refers to the vertical stripes bisecting fields of color 
@@ -342,6 +344,8 @@ D. Ad Reinhardt, the point where two colors are indistinguishable
 ANSWER: D
 POINTS: 5
 TYPE: MC
+
+#### Unit Content Questions
 
 Q: Which of these Abstract Expressionists is also a good example of a color field painter?
 A. Marc Rothko
@@ -397,11 +401,23 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-### Discussion Board relating to slideshows and readings (ULO 1-4) 
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
-  1. Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
 
-  1. Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
+**First**, you will start a thread by answering the Essay question below. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the **due dates** for these posts.
+
+#### Essay Question:
+
+Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+
+### Voice Thread Question relating to slideshows and readings (ULO 1-4)
+
+Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
 
 ### Additional Artists to Study (ULO 1)
 
