@@ -1,6 +1,6 @@
 # Unit 2:  Abstract Expressionism 
 
-### The New York Art World 1945 - 1955
+### The New York Art World 1945 - 1955, Abstract Expressionism and Color Field Painting
 
 ## Unit Student Learning Objectives
 
@@ -36,33 +36,86 @@ Whether formalist or metaphysical in intent, all of these artists had an interes
 
 ### Textbook :  Read Chapter 6 Abstract Expressionism (ULO 1-3). 
 
-Please read Chapter 6 in *Twentieth Century American Art* by Erika Doss, pages 119-137. Then test your understanding by answering the Study Guide Review Questions below.
+Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages 119-137. Then test your understanding by answering the Textbook Review Questions in the next section.
 
-### Study Guide Review Questions (self assess): (ULO 1-3)
+### Textbook Review Questions (self assess): (ULO 1-3)
 
 The answer to these questions can be found in chapter 6 of *Twentieth Century American Art* by Erika Doss.
 
-  * Two other names for Abstract Expressionism are: *[action painting, New York school]*
+Q: Two other names for Abstract Expressionism are:
+A. Action Painting
+B. New York school
+C. Action Performance
+D. Neo-Expressionism
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
 
-  * What U.S and international events between 1940 and 1950 occurred that influenced the way artists at that time viewed the world? *[End of the New Deal, World War II, rise of US as a superpower]*
+Q: What U.S and international events between 1940 and 1950 occurred that influenced the way artists at that time viewed the world?
+A. End of the New Deal
+B. World War II
+C. Rise of US as a Superpower
+D. Cuban Missile Crisis
+ANSWER: A,B,C
+POINTS: 5
+TYPE: MS
 
-  * What change did this bring to the art of that time? *[NY became the center of the art world, artists sought new forms of expression different from New Realism, artists turned towards individual expression]*
+Q: What change did this bring to the art of that time?
+A. NY became the center of the art world.
+B. Artists sought forms of expression different from New Realism.
+C. Artists turned towards individual expression.
+D. Artists returned to social themes.
+ANSWER: A,B,C
+POINTS: 5
+TYPE: MS
 
-  * Clement Greenberg was a(n): *[art critic]*
+Q: Clement Greenberg was a(n):
+ANSWER: art critic
+POINTS: 5
+TYPE: FB
 
-  * Who said "The modern painter cannot express this age, the airplane, the atom bomb, the radio, in the old forms of the Renaissance or of any other past culture. Each age finds its own technique."? *[Jackson Pollock]*
+Q:Who said "The modern painter cannot express this age, the airplane, the atom bomb, the radio, in the old forms of the Renaissance or of any other past culture. Each age finds its own technique."?
+ANSWER: Jackson Pollock
+POINTS: 5
+TYPE: FB
 
-  * By 1960 New York had how many galleries? *[300]*
+Q: By 1960 New York had how many galleries?
+A. 30
+B. 300
+C. 600
+D. 1200
+ANSWER: B
+POINTS: 5
+TYPE: MC
 
-  * How did Europe feel about the new American Art? *[It was "a joke in bad taste"]*
+Q: How did Europe feel about the new American Art?
+A. It was "a joke in bad taste"
+B. It stole from European Modernism
+C. It was better than American New Realism
+D. It was good enough to make New York the center of the Art World
+ANSWER: A
+POINTS: 5
+TYPE: MC
 
-  * Explain the importance of Individualism at this time. *[Individualism and self-expression were seen as aspects of American freedoms, in contrast to communism's totalitarianism.]*
+Q: Explain the importance of Individualism at this time.
+ANSWER: Individualism and self-expression were seen as aspects of American freedoms, in contrast to communism's totalitarianism.
+POINTS: 5
+TYPE: SA
 
-  * Explain why Motherwell says Abstract-Expressionism “arose from a feeling of being ill at ease in the universe.” *[After the horrors of WWII and the anxiety of the cold war, artists looked for new means to express the human condition.]*
+Q: Explain why Motherwell says Abstract-Expressionism “arose from a feeling of being ill at ease in the universe.”
+ANSWER: After the horrors of WWII and the anxiety of the cold war, artists looked for new means to express the human condition.
+POINTS: 5
+TYPE: SA
 
-  * Why does the author find Pollock’s interest in the ‘primitive’ to be problematic? *[Calling another society "primitive" makes that society seem simple or dumb compared to ours. Simply stealing the look of another cultures artwork without understanding the history and traditions behind it amounts to "cultural cannibalism."]* 
+Q: Why does the author find Pollock’s interest in the ‘primitive’ to be problematic?
+ANSWER: Calling another society "primitive" makes that society seem simple or dumb compared to ours. Simply stealing the look of another cultures artwork without understanding the history and traditions behind it amounts to "cultural cannibalism."
+POINTS: 5
+TYPE: SA
 
-  * Why are the most famous Abstract-Expressionists white and male? *[Despite many of the progressive ideas held by the American Abstract Expressionists, racism and sexism were still common.]*
+Q: Why are the most famous Abstract-Expressionists white and male?
+ANSWER: Despite many of the progressive ideas held by the American Abstract Expressionists, racism and sexism were still common.
+POINTS: 5
+TYPE: SA
 
 ### **Readings**: Clement Greenberg (ULO 3, 4) 
 
