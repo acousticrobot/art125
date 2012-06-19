@@ -35,11 +35,11 @@ Gloria K Fiero, McGraw-Hill
   * Various periodicals including: *Artforum*, *Art in America*, *Bomb*, and *Flash Art*
   * Various internet sites including [A sky filled with Shooting Stars](http://www.askyfilledwithshootingstars.com/wordpress/),[Who Killed Bambi?](http://www.whokilledbambi.co.uk/)
 
-### Course goals:
+### Course Competencies / Goals:
 
 The student will be able to:
 
-  1 Identify and analyze artists, trends and movements of the 20th century (from 1945- present).
+  1 Identify and analyze artists, trends and movements of the 20th century (from 1945to the present).
   
   2 Contextualize the art of today within the societies that create it, including cultural and technological influences.
   
@@ -79,5 +79,4 @@ Goal F. Collaboration and Cooperation. Students will develop the interpersonal s
 
 Goal G. Intra-Cultural and Inter-Cultural Responsibility. Students will demonstrate an awareness of the responsibilities of intelligent citizenship in a diverse and pluralistic society, and will demonstrate cultural, global, and environmental awareness.
 
-<!-- page version 2.0  -->	
-<!-- next page: [[art125Unit1]] -->
+<!-- next page: [[art125Unit01]] -->
