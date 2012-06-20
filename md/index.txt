@@ -4,8 +4,7 @@
 ### DESIGN AND DEVELOPMENT FILES
 
 
-  * [OUTLINE](art125Outline.html)
-  * [UNIT OBJECTIVES (only)](art125Outline.html)
+  * [OUTLINE HEAD](art125Outline.html)
 
 ----
 
