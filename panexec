@@ -1,17 +1,24 @@
+#!/bin/bash
+
 # Create HTML and DocX builds from Markdown Master files
 # in terminal enter: ./panexec
 
 ##--------- list powerpoints on index, Make sure to upload first! ------------------##
 
 # make a markdown list of all pptx files as downloadable links
+
 cd slideshows
-echo ""
+
 for i in *.pptx; do echo "  * ["$i"](http://jonathangabel.com/documents/art125/ppt/"$i")" >> showlist.md; done
+
+perl -pi -w -e 's/\[Art125Unit0?(\d+)-0?(\d+)\.(\w*)\.pptx/\[Unit $1-$2: $3/g;' showlist.md
+
 mv showlist.md ../md/_showlist.md
 cd ..
 
-# add list to the index page
+# add list to the index page and readme page
 cat md/_index.md md/_showlist.md > md/index.txt
+cat md/_readme.md md/_showlist.md > README.txt
 
 ##--------- Run Pandoc Execute: ----------------------------------------------------##
 
