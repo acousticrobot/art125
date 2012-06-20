@@ -1,0 +1,12 @@
+# Create HTML and DocX builds from Markdown Master files
+# in terminal enter: ./pptexec
+
+# make a markdown list of all pptx files as downloadable links
+cd slideshows
+echo ""
+for i in *.pptx; do echo "  * ["$i"](http://jonathangabel.com/documents/art125/ppt/"$i")" >> showlist.md; done
+mv showlist.md ../md/showlist.md
+cd..
+
+# add list to the index page
+cat md/index.md md/showlist.md > index.txt
