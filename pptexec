@@ -5,8 +5,8 @@
 cd slideshows
 echo ""
 for i in *.pptx; do echo "  * ["$i"](http://jonathangabel.com/documents/art125/ppt/"$i")" >> showlist.md; done
-mv showlist.md ../md/showlist.md
-cd..
+mv showlist.md ../md/_showlist.md
+cd ..
 
 # add list to the index page
-cat md/index.md md/showlist.md > index.txt
+cat md/_index.md md/_showlist.md > md/index.txt
