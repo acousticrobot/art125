@@ -22,8 +22,8 @@ for file in *.txt.html ; do mv $file `echo $file | sed 's/\(.*\.\)txt.html/\1htm
 
 # Copy files and add HTML header and footer
 cd ..
-cp -a HTMLraw/. HTMLfmt
-cd HTMLfmt
+cp -a HTMLraw/. HTML
+cd HTML
 for file in *.html; do (cat ../_HEADER.txt $file ../_FOOTER.txt) > tmp; mv tmp $file; done
 
 # Remove .txt from the name
