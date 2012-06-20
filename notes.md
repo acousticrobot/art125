@@ -29,4 +29,12 @@ The following optional settings may be added after the question and its choices.
   * MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item
   * ANSWERBOXES: Valid for Fill in the blank(s) only, indicates the number of answer input boxes to display to the user. 
 
-### Issues
+### Slideshow workflow
+
+  * Go through keynote slideshows, dictate lecture, and copy into transcripts.
+  * Restructure keynote slideshow to fit transcript, add notes.
+  * Save as .ppt, open in PPT, resave as .pptx
+  * reformat broken credit page
+  * Record audio, final edits to transcript and keynote.
+  * Save as PDF
+  

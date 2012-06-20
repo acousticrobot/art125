@@ -44,11 +44,11 @@ So, now that we have a little understanding of Abstraction, can we start to quan
 
 Even if you're not completely confident about what abstraction is, I'm guessing you would still tell me the painting on the left is realistic, and the one on the right is abstract.
 
-And same with these two sculptures, I'm pretty sure everyone would agree that the one on the left is realistic and the one on the left is abstract.
+And same with these two sculptures, I'm pretty sure everyone would agree that the one on the left is realistic and the one on the right is abstract.
 
 So, since not all artwork fits neatly into pure Abstraction and pure Realism, and it might be easier to imagine a spectrum between these two.
 
-And you could probably decide on a specific place for every piece of art on this spectrum.
+And you could probably decide on a specific place on this spectrum for every piece of art.
 
 And even argue that of any two pieces one is more or less abstract than another.
 
@@ -83,13 +83,34 @@ Now I don't want to say there's just one answer to this question, but a big part
 
 At this time we find the very first photographs, and while they were at first too blurry or took too long to develop, very quickly photographs became cheaper, faster, and more realistic than paintings.
 
-As soon as photography was able to capture the likeness of human beings better and faster, artists were thrown into a crisis because they have to prove to the world that they still had a unique and necessary talent. Now that photography was around the one thing that painting still had going for it was color.  So this is one reason why artists stopped paying attention to making extremely realistic paintings and instead started to focus on style and color.
+As soon as photography was able to capture the likeness of human beings, artists were thrown into a crisis because they had to prove to the world that they still had a unique and necessary talent. 
+
+And the one thing that painting still had going for it was color.  So this is one reason why artists stopped paying attention to making extremely realistic paintings and instead started to focus on style and color.
+
+paintings:
+Poussin, The Dance to The Music of Time, 1640, French
+Tiepolo, Apotheosis of Spain, 1762-66, Italian (work is in Spain)
+Ingres, La Grande Odalisque, 1814, French
+Millet, The Sower, 1850,
+Manet, Berthe Morisot, 1872
+Cezanne, The Bather, 1885
+Monet, Haystacks, 1891, French
+
+photography:
+Joseph Nicéphore Niépce, View from the Window at Le Gras, 1825
+Jacque Daguerre, Boulevard du Temple, 1838
+Albert Southworth, Male Portrait,1848
+Étienne Carjat, Charles Baudelair, 1863
 
 ## Expressionism
 
-The next word we want to define is expressionism. If we look through the history of art we find that for every piece of artwork that shows humanity and its perfection we can also find an art work that shows the pain and suffering of life. 
+The last word we need to define is expressionism. 
 
-Why when you can draw or paint or sculpt an image of a perfect human being would artists want to paint the painful or disgusting aspects of humanity?  Take the Isenheim Altarpiece for example, Why would the German artist Matthias Grünewald want to paint such a horrifying picture?
+If we look through the history of art we find that for every piece of artwork that shows humanity and its perfection we can also find an art work that shows the pain and suffering of life. 
+
+Why when they could draw or paint or sculpt an image of a perfect human being would artists want to paint the painful or disgusting aspects of humanity?
+
+Take the Isenheim Altarpiece for example, Why would the German artist Matthias Grünewald want to paint such a horrifying picture?
 
 It turns out that this altarpiece was made for a monastery where monks treated people suffering from the plague and other horribly disfiguring diseases. And you can imagine if you were in that state of illness a picture of the perfect human being is not going to give you that much comfort. However if you are looking for some meaning to your suffering and you see an image depicting God in the flesh suffering as much as you are, you are going to be able to relate to that picture.
 
