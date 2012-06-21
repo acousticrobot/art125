@@ -9,12 +9,12 @@ u2img = [	"dekooning.50.woman1.jpg", "frankenthaler.63.canal.jpg","gorky.44.theL
 					"pollock.50.autumnRhythm.jpg","reinhardt.60-66.abstractpainting.jpg","rothko.57.orangeandyellow.jpg"]
 
 
-def load_bank(abank,alists):
-	#adbank = list to fill
+def load_bank(alists):
 	# alists = list of artist lists to include
 	for alist in alists:
 		for artist in alist:
-			abank.append(artist)
+			bnk.append(artist)
+	return bnk
 	
 def unique_list(seq):
 	#not order preserving
