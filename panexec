@@ -44,6 +44,9 @@ cd ..
 cp -a HTMLraw/. HTML
 cd HTML
 for file in *.html; do (cat ../_HEADER.txt $file ../_FOOTER.txt) > tmp; mv tmp $file; done
+# don't let images in the index float
+perl -pi -w -e 's/style\.css/stlye_imgs.css/g;' art125Images.html
+
 
 # Remove .txt from the name
 cd ../word_files

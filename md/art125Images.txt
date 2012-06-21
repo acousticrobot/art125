@@ -1,3 +1,11 @@
+[A][] [B][] [G][] [H][] 
+
+## A
+
+![Venus of Willendorf][preHistory001]
+
+[preHistory001]: ../images/bce.20000.VenusVonWillendorf.jpg "Venus of Willendorf"
+
 ## B
 
 
@@ -16,7 +24,7 @@
 ### Richard Hamilton
 
 	b. 1922
-	 
+ 
 ![RICHARD HAMILTON, *Just What Is It That Makes Today’s Homes So Different, So Appealing?*, 1956. Collage][Hamilton001]
 
 	Just What Is It That Makes Today’s Homes So Different, So Appealing?, 

@@ -38,3 +38,6 @@ The following optional settings may be added after the question and its choices.
   * Record audio, final edits to transcript and keynote.
   * Save as PDF
   
+### TODO
+
+next batch, check art125Images.html for float problem

@@ -1,6 +1,6 @@
 # Unit X:  Introduction
 
-### The Subtitle
+### 35,000 Years of Art History
 
 ## Unit Student Learning Objectives
 
@@ -8,72 +8,34 @@
 
 At the end of this unit, students will be able to:
 
-<!-- example -->
-
-  1. Identify artists and describe qualities associated with XXX (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
-  2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
-  3. Question the theory and philosophy behind the movement, with emphasis on Warhol and commercialism. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
-
-<!-- example -->
+  1. Identify terminology associated with Art History (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  2. Define key terms associated with abstraction (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  3. Question the theory and philosophy behind the modernism, with emphasis on expressionism and Sartre. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
 
 ## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
-<!-- example -->
+![Venus of Willendorf, 20,000 bce][preHistory001]
 
-![RICHARD HAMILTON, *Just What Is It That Makes Today’s Homes So Different, So Appealing?*, 1956. Collage][Hamilton001]
+Our course starts in New York in the 1940s, but 35,000 years of recorded art history exist before this point. Before we touch down with both feet running, what should we be aware of, what lessons from the past can we take with us?
 
-The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* and that's where we start our class today. We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
+In this introductory class, we first look at a very few select pieces of work, from as old as the Venus figurine from Hohle Fels, made of Mammoth Ivory, up to a couple American works from 1950. Stretching them into a timeline, we discuss the spectrum from realism to abstraction, and discover realism encompasses a relatively small part of the history of art.
 
-
-So, what was it that makes these artists so different, so appealing? With a little background into the **Black Mountain College**, **happenings**, and the work of **John Cage**, a musician and composer who used chance to structure musical compositions.  His piece *4'33"* is a performance where a pianist sits at a piano for four minutes and forty three seconds without playing anything.  The background noise in the auditorium during that time is what he considers the music of the piece.  By examining such works, pop artists began to bring ideas such as **chance** and **performance** into the visual arts.
-
-Now that you know a little about **Greenberg** and his drive to push every artistic medium back to is own roots, you can imagine that performance opened up possibilities for artists such as Rauschenberg and Johns. Possibilities which fit outside of the formalist, non-representational work that was receiving most of the attention. Contrary to Greenberg’s wish for each medium to be isolated, we see pieces with representation and narrative, paintings which are also sculptures, sculptures which also serve as backdrops for performance.
-
-Often a distinction arises between the critical nature of British pop art, and the American Pop Art's unapologetic embrace of consumer culture. But let’s not be too broad in this generalization, as the underlying unease we see in the Abstract Expressionists also shows up in pieces like the giant *F-111* by **James Rosenquist**, which features a young child blissfully having her hair done at a beauty salon, while a nuclear mushroom cloud erupts in the background. Or **Andy Warhol**’s pieces from the Birmingham Race riots and the car accidents from his disaster series.
-
-[hamilton001]: ../images/hamilton.1956.JustWhatSoAppealing.jpg "The Hero"
-
-<!-- END example -->
-
-### Textbook :  Read Chapter 7 Neo-Dada and Pop Art (ULO 1-3). 
-
-Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Textbook Review Questions in the next section.
-
-### Textbook Review Questions (self assess): (ULO 1-3)
-
-The answer to these questions can be found in chapter X of *Twentieth Century American Art* by Erika Doss.
+We examine what factors cause artists to return to abstraction in the 1800s, and how this trend continues up to the Abstract Expressionists. We also look at the differences between Formalism and Expressionism, asking what reasons artists would have to paint ugly or disturbing images. Next week, we will pick after the world wars, and see what happened when New York became the center of the art world.
 
 
-Answer these questions as best as you can after reading this weeks chapter in Twentieth Century American Art.  You can try the quiz multiple times.  You will be graded on the completing the quiz but you are allowed to make mistakes and correct your answers.  Use this as an opportunity to test your comprehension of the material and see what you missed, and as preparation for the midterm and final.
+[preHistory001]: ../images/bce.20000.VenusVonWillendorf.jpg "Venus of Willendorf"
 
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
-POINTS: 5
-TYPE: MS
 
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: FB
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: SA
-
-<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
 ### **Readings**: (ULO 3, 4) 
 
 #### Introduction 
 
-*insert intro here... If you are interested, you can find the [full text](http://www.example.com) and more information about the author at [this website](http://www.example.com).*
+*insert intro here... If you are interested, you can find the [full text](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) and more information about the author at [this website](http://www.marxists.org).*
+
+http://www.btinternet.com/~glynhughes/squashed/sartre.htm
 
 #### Main Points
 
@@ -82,7 +44,7 @@ Before we begin, I want to outline the most important points to look for in this
   1. ...
   2. ...
   
-#### "Title of Article"
+#### "Existentialism Is a Humanism", 
 
 .....
 .....
@@ -219,13 +181,6 @@ Here is another painting by Hans Hoffman.  Describe how he used what he calls th
 <!--@H [next page](art125Unit01) H@-->
 
 ### Class 1: Introduction
-
-Our course starts in New York in the 1940s, but 35,000 years of recorded art history exist before this point. Before we touch down with both feet running, what should we be aware of, what lessons from the past can we take with us?
-
-In this introductory class, we first look at a very few select pieces of work, from as old as the Venus figurine from Hohle Fels, made of Mammoth Ivory, up to a couple American works from 1950. Stretching them into a timeline, we discuss the spectrum from realism to abstraction, and discover realism encompasses a relatively small part of the history of art.
-
-We examine what factors cause artists to return to abstraction in the 1800s, and how this trend continues up to the Abstract Expressionists. We also look at the differences between Formalism and Expressionism, asking what reasons artists would have to paint ugly or disturbing images. Next week, we will pick after the world wars, and see what happened when New York became the center of the art world.
-
 ### After this class you should be able to
 
 #### Define the following:
@@ -252,8 +207,6 @@ We examine what factors cause artists to return to abstraction in the 1800s, and
 * [Venus of Hohle Fels: Prehistoric Porn](http://www.huffingtonpost.com/2009/05/14/venus-of-hohle-fels-prehi_n_203418.html)
 
 * [A site dedicated to Clement Greenberg](http://www.sharecom.ca/greenberg/)
-
-* Sartre's [Existentialism Is a Humaninsm](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) full text
 
 * [The Josef and Anni Albers Foundation](http://www.albersfoundation.org/)
 
