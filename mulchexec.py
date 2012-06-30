@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Make Multiple Choice takes in lists of artists and corresponding images
 
@@ -23,7 +23,7 @@ u22set = [
 	("Ad Reinhardt","reinhardt.60-66.abstractpainting.jpg"),
 	("Marc Rothko","rothko.57.orangeandyellow.jpg")
 ]
-
+gt sg
 def load_bank(alists):
 	#adbank = list to fill
 	# alists = list of artist lists to include
