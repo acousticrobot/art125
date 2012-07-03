@@ -70,6 +70,7 @@ TYPE: SA
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
 ### **Readings**: (ULO 3, 4) 
+### Author "Title"
 
 #### Introduction 
 
