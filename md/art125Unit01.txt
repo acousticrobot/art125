@@ -23,7 +23,7 @@ Our course starts in New York in the 1940s, but 35,000 years of recorded art his
 
 In this introductory class, we first look at a very few select pieces of work, from as old as the **Venus figurine from Hohle Fels**, made of Mammoth Ivory, up to a couple American works from 1950. Stretching them into a timeline, we discuss the spectrum from realism to abstraction, and discover realism encompasses a relatively small part of the history of art.
 
-We examine what factors cause artists to return to abstraction in the 1800s, and how this trend continues up to the Abstract Expressionists. We also look at the differences between Formalism and Expressionism, asking what reasons artists would have to paint ugly or disturbing images. Next week, we will pick after the world wars, and see what happened when New York became the center of the art world.
+We examine what factors cause artists to return to abstraction in the 1800s, and how this trend continues up to the Abstract Expressionists. We also look at the differences between Formalism and Expressionism, asking what reasons artists would have to paint ugly or disturbing images. Next week, we will pick after the World Wars, and see what happened when New York became the center of the art world.
 
 [venus01]: ../images/prehistory.30000bce.venusOfSchelklingen.front.jpg "Venus figurine from Hohle Fels"
 
@@ -38,8 +38,11 @@ We examine what factors cause artists to return to abstraction in the 1800s, and
 
 Before we begin, I want to outline the most important points to look for in this article:
 
-  1. ...
-  2. ...
+  1. We are responsible for defining ourselves. It is not fate, but what we do that determines who we become.
+  2. By realizing that we have this choice, we become free, but with this liberty comes responsibility. 
+  2. When we become aware that we are responsible for our actions, this responsibility gives us much anxiety.
+  3. It doesn't matter if God exists or not, we are still responsible for making the right choices.
+
   
 #### Existentialism Is a Humanism
 
@@ -67,10 +70,10 @@ As an example by which you may the better understand this state of abandonment, 
 <!-- Moreover, as Gide has very well said, a sentiment which is play-acting and one which is vital are two things that are hardly distinguishable one from another. To decide that I love my mother by staying beside her, and to play a comedy the upshot of which is that I do so – these are nearly the same thing. In other words, feeling is formed by the deeds that one does; therefore I cannot consult it as a guide to action. And that is to say that I can neither seek within myself for an authentic impulse to action, nor can I expect, from some ethic, formulae that will enable me to act.  -->You may say that the youth did, at least, go to a professor to ask for advice. But if you seek counsel – from a priest, for example you have selected that priest; and at bottom you already knew, more or less, what he would advise. In other words, to choose an adviser is nevertheless to commit oneself by that choice. <!-- If you are a Christian, you will say, consult a priest; but there are collaborationists, priests who are resisters and priests who wait for the tide to turn: which will you choose?  -->Had this young man chosen a priest of the resistance, or one of the collaboration, he would have decided beforehand the kind of advice he was to receive. Similarly, in coming to me, he knew what advice I should give him, and I had but one reply to make. You are free, therefore choose, that is to say, invent. No rule of general morality can show you what you ought to do: no signs are vouchsafed in this world. The Catholics will reply, “Oh, but they are!” Very well; still, it is I myself, in every case, who have to interpret the signs. <!-- While I was imprisoned, I made the acquaintance of a somewhat remarkable man, a Jesuit, who had become a member of that order in the following manner. In his life he had suffered a succession of rather severe setbacks. His father had died when he was a child, leaving him in poverty, and he had been awarded a free scholarship in a religious institution, where he had been made continually to feel that he was accepted for charity’s sake, and, in consequence, he had been denied several of those distinctions and honours which gratify children. Later, about the age of eighteen, he came to grief in a sentimental affair; and finally, at twenty-two – this was a trifle in itself, but it was the last drop that overflowed his cup – he failed in his military examination. This young man, then, could regard himself as a total failure: it was a sign – but a sign of what? He might have taken refuge in bitterness or despair. But he took it – very cleverly for him – as a sign that he was not intended for secular success, and that only the attainments of religion, those of sanctity and of faith, were accessible to him. He interpreted his record as a message from God, and became a member of the Order. --> Who can doubt but that this decision as to the meaning of the sign was his, and his alone? <!-- One could have drawn quite different conclusions from such a series of reverses – as, for example, that he had better become a carpenter or a revolutionary. --> For the decipherment of the sign, however, he bears the entire responsibility. That is what “abandonment” implies, that we ourselves decide our being. And with this abandonment goes anguish.
 
 
-We have now, I think, dealt with a certain number of the reproaches against existentialism. You have seen that it cannot be regarded as a philosophy of quietism since it defines man by his action; nor as a pessimistic description of man, for no doctrine is more optimistic, the destiny of man is placed within himself. Nor is it an attempt to discourage man from action since it tells him that there is no hope except in his action, and that the one thing which permits him to have life is the deed. Upon this level therefore, what we are considering is an ethic of action and self-commitment. However, we are still reproached, upon these few data, for confining man within his individual subjectivity. There again people badly misunderstand us.
+We have now, I think, dealt with a certain number of the reproaches against existentialism. You have seen that it cannot be regarded as a philosophy of quietism since it defines man by his action; nor as a pessimistic description of man, for no doctrine is more optimistic, the destiny of man is placed within himself. Nor is it an attempt to discourage man from action since it tells him that there is no hope except in his action, and that the one thing which permits him to have life is the deed. Upon this level therefore, what we are considering is an ethic of action and self-commitment. <!-- However, we are still reproached, upon these few data, for confining man within his individual subjectivity. There again people badly misunderstand us. -->
 
 
-What is at the very heart and center of existentialism, is the absolute character of the free commitment, by which every man realises himself in realising a type of humanity – a commitment always understandable, to no matter whom in no matter what epoch – and its bearing upon the relativity of the cultural pattern which may result from such absolute commitment. One must observe equally the relativity of Cartesianism and the absolute character of the Cartesian commitment. In this sense you may say, if you like, that every one of us makes the absolute by breathing, by eating, by sleeping or by behaving in any fashion whatsoever. There is no difference between free being – being as self-committal, as existence choosing its essence – and absolute being. And there is no difference whatever between being as an absolute, temporarily localised that is, localised in history – and universally intelligible being.
+<!-- What is at the very heart and center of existentialism, is the absolute character of the free commitment, by which every man realises himself in realising a type of humanity – a commitment always understandable, to no matter whom in no matter what epoch – and its bearing upon the relativity of the cultural pattern which may result from such absolute commitment. One must observe equally the relativity of Cartesianism and the absolute character of the Cartesian commitment. In this sense you may say, if you like, that every one of us makes the absolute by breathing, by eating, by sleeping or by behaving in any fashion whatsoever. There is no difference between free being – being as self-committal, as existence choosing its essence – and absolute being. And there is no difference whatever between being as an absolute, temporarily localised that is, localised in history – and universally intelligible being. -->
 
 
 ### Presentation: Artist Slideshows (ULO 1-4)
@@ -80,75 +83,98 @@ What is at the very heart and center of existentialism, is the absolute characte
   * [Unit 1-3: ReturnToAbstraction](http://jonathangabel.com/documents/art125/ppt/Art125Unit01-03.ReturnToAbstraction.pptx)
   * [Unit 1-4: Expressionism](http://jonathangabel.com/documents/art125/ppt/Art125Unit01-04.Expressionism.pptx)
 
-    
+
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
-#### Identify names of XXX Artists
+#### Multiple Choice 
 
-Q: Select all the artists who are Abstract Expressionists 
-A. 
-B. 
-C. 
-D. 
-E.
-F.
-G.
-H.
-I.
-J.
-ANSWER: A,B,C,D,E
-POINTS: 5
-TYPE: MS
-
-#### Identify artwork images from the slideshows
-
-run randomIDQ.py
-
-Q: This is an artwork by:
-ANSWER:
-A:
-B:
-C:
-D: 
+Q: What does Sartre mean when he says *existence precedes essence*?
+A. Mankind first comes into being, and then later defines himself.
+B. You are who you are, and this is what makes you an individual.
+C. God is no longer in control of punishing humanity.
+D. Mankind possesses a "human nature".
+ANSWER: A
 POINTS: 5
 TYPE: MC
-IMAGE: http://jonathangabel.com/images/art125/
 
-#### Multiple Choice Definitions
-
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
+Q: How does Sartre use the term *abandomnemt*?
+A. He uses it to say that if we don't believe in a God who decides everything, then we must take responsibility for our own actions.
+B. He says once we are abandoned by family we set out on our own.
+C. We must abandon ideas of right and wrong.
+D. He believes abandoning action brings us to a purer state of being.
+ANSWER: A
 POINTS: 5
-TYPE: MS
+TYPE: MC
 
-Q: 
-A. 
-B. 
-C. 
+Q: What does Sartre mean by saying we are *condemned to be free*?
+A. We did not choose to come into being, and yet we are born free and must from the moment we are aware become responsible for everything that we do.
+B. We are lost in the world, condemned to die alone.
+C. Soldiers can choose to join the resistance, but cannot choose where they will be sent.
+D. God has abandoned us, and we must now impose morality on others.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+
+Q: Define *figurative abstraction* 
+A. Artwork that, although using abstraction, still represents the human figure.
+B. Artwork that, although using abstraction, still retains reference to real objects.
+C. Art which does not try to represent objects from the known world.
+D. Art that tries to express an emotional experience rather than the external world. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define *representational abstraction* 
+A. Artwork that, although using abstraction, still retains reference to real objects.
+B. Artwork that, although using abstraction, still includes the human figure.
+C. Art which does not try to represent objects from the known world.
+D. Artwork made primarily of large areas of solid color.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define *non-representational abstraction* 
+A. Art which does not try to represent objects from the known world.
+B. Artwork that, although using abstraction, still retains reference to real objects.
+C. Artwork that, although using abstraction, is based on the human figure.
+D. Artwork made primarily of large areas of solid color.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define *expressionism* 
+A. Art that tries to express an emotional experience rather than the external world. 
+B. Artwork that, although using abstraction, still represents the human figure.
+C. Artwork that emphasizes compositional elements such as shape and color over content.
+D. Art which does not try to represent objects from the known world.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define *formalism* 
+A. Artwork that emphasizes compositional elements such as shape and color over content.
+B. Artwork made primarily of large areas of solid color.
+C. Art that tries to express an emotional experience rather than the external world. 
+D. Art which does not try to represent objects from the known world.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define *color field painting* 
+A. Artwork made primarily of large areas of solid color.
+B. Art which does not try to represent objects from the known world.
+C. Artwork that emphasizes compositional elements such as shape and color over content.
 D. 
 ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: FB
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: SA
-
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
 #### Discussion Board Question
 
-Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+As this is our first week, this is our chance to get familiar with the on line discussion boards. Each week is will work the same way.  Note that you have TWO DEADLINES, one for your first post and one for your follow up posts.  This is so we have the chance to get discussions going during the week. This is how it will work:
 
 First, you will start a thread by answering the Essay question below. 
 
@@ -158,27 +184,21 @@ Please make sure you meet the due dates for these posts.
 
 ##### Essay Question:
 
-Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+Sartre talk a lot about the anxiety of life, and the expressionist work we looked at deals with the anxiety of modern life too. Please write a couple sentences linking the ideas presented in Sartre's lecture and the images of expressionist painting. You can refer to the images from the slideshow, or do your own research and link to an image of any artworks you find.
 
 #### Voice Thread Question
 
-Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
-
-### Additional Artists to Study (ULO 1)
-    
-*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
-
-  * artist a
-  * artist b
-  * ...
+This is our chance to get familiar with the voice thread technology.  We have two pictures to look at here, one that is formalist, and one that is expressionist.  I want you to leave a voice thread on each one where you point out one thing that you find engaging about the picture.
 
 ### Optional links for further self-study (ULO 1-4)
 
 *You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
 
-  * link a to [site a](http://example.com)
-  * link b to [site b](http://example.com)
-  * ...
+* Prehistoric Porn:  [The Venus of Hohle Fels:](http://www.huffingtonpost.com/2009/05/14/venus-of-hohle-fels-prehi_n_203418.html) 
+
+* Sartre's [Existentialism Is a Humaninsm](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) (*full text*)
+
+* [The Josef and Anni Albers Foundation](http://www.albersfoundation.org/)
   
 <!--@H [Back to Index](art125Outline) H@-->
 <!--@H [previous page](art125Unit01) H@-->
@@ -187,45 +207,3 @@ Here is another painting by Hans Hoffman.  Describe how he used what he calls th
 <!--@H [Back to Index](art125Outline) H@-->
 <!--@H [previous page](art125Outline) H@-->
 <!--@H [next page](art125Unit01) H@-->
-
-
-### After this class you should be able to
-
-#### Define the following:
-
-* abstraction
-* realism
-* figurative abstraction
-* representational abstraction
-* non-representational abstraction
-* expressionism
-* formalism
-* color field painting
-
-#### Answer the following:
-
-* What happened in the 1800s that caused painters to suddenly move from realism to abstraction?
-
-* Who was Clement Greenberg, and what was his argument for abstraction in the essay "Towards a Newer Laocoon"?
-
-* Who was Sartre, and what was his argument in "Existentialism?"
-
-### Links for further reading:
-
-* [Venus of Hohle Fels: Prehistoric Porn](http://www.huffingtonpost.com/2009/05/14/venus-of-hohle-fels-prehi_n_203418.html)
-
-* [A site dedicated to Clement Greenberg](http://www.sharecom.ca/greenberg/)
-
-* Sartre's [Existentialism Is a Humaninsm](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) full text
-
-* [The Josef and Anni Albers Foundation](http://www.albersfoundation.org/)
-
-
-
-### essay question
-
-Paradigm Shift  
-: 1. fundamental change in the way of doing things, 
-: 2. acceptance by a majority of a changed belief, attitude, or way of doing things 
-
-It is said that after World War II, world culture experienced a paradigm shift.  Explain how Sartre’s statement that mankind is “condemned to be free” and his idea of “existential anguish” illustrate this new belief system. Explain how the work of the Abstract Expressionists can be seen as illustrating this paradigm shift. 

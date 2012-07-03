@@ -23,15 +23,15 @@ u22set = [
 	("Ad Reinhardt","reinhardt.60-66.abstractpainting.jpg"),
 	("Marc Rothko","rothko.57.orangeandyellow.jpg")
 ]
-gt sg
 def load_bank(alists):
-	#adbank = list to fill
+    """Takes lists of artists from units and creates a larger list"""
+	# a_bank = list to fill
 	# alists = list of artist lists to include
 	abank = []
 	for alist in alists:
 		for artist in alist:
 			abank.append(artist)
-	return abank
+	return a_bank
 	
 def make_mulch(aset,iset):
 	outgroup = file ("md/_multichoice.txt",'w')
