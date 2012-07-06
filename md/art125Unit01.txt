@@ -88,7 +88,7 @@ We have now, I think, dealt with a certain number of the reproaches against exis
 
 #### Multiple Choice 
 
-Q: What does Sartre mean when he says *existence precedes essence*?
+Q: What does Sartre mean when he says "existence precedes essence"?
 A. Mankind first comes into being, and then later defines himself.
 B. You are who you are, and this is what makes you an individual.
 C. God is no longer in control of punishing humanity.
@@ -97,7 +97,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: How does Sartre use the term *abandomnemt*?
+Q: How does Sartre use the term "abandomnemt"?
 A. He uses it to say that if we don't believe in a God who decides everything, then we must take responsibility for our own actions.
 B. He says once we are abandoned by family we set out on our own.
 C. We must abandon ideas of right and wrong.
@@ -106,7 +106,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: What does Sartre mean by saying we are *condemned to be free*?
+Q: What does Sartre mean by saying we are "condemned to be free"?
 A. We did not choose to come into being, and yet we are born free and must from the moment we are aware become responsible for everything that we do.
 B. We are lost in the world, condemned to die alone.
 C. Soldiers can choose to join the resistance, but cannot choose where they will be sent.
@@ -116,7 +116,7 @@ POINTS: 5
 TYPE: MC
 
 
-Q: Define *figurative abstraction* 
+Q: Define "figurative abstraction" 
 A. Artwork that, although using abstraction, still represents the human figure.
 B. Artwork that, although using abstraction, still retains reference to real objects.
 C. Art which does not try to represent objects from the known world.
@@ -125,7 +125,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Define *representational abstraction* 
+Q: Define "representational abstraction" 
 A. Artwork that, although using abstraction, still retains reference to real objects.
 B. Artwork that, although using abstraction, still includes the human figure.
 C. Art which does not try to represent objects from the known world.
@@ -134,7 +134,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Define *non-representational abstraction* 
+Q: Define "non-representational abstraction" 
 A. Art which does not try to represent objects from the known world.
 B. Artwork that, although using abstraction, still retains reference to real objects.
 C. Artwork that, although using abstraction, is based on the human figure.
@@ -143,7 +143,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Define *expressionism* 
+Q: Define "expressionism" 
 A. Art that tries to express an emotional experience rather than the external world. 
 B. Artwork that, although using abstraction, still represents the human figure.
 C. Artwork that emphasizes compositional elements such as shape and color over content.
@@ -152,7 +152,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Define *formalism* 
+Q: Define "formalism" 
 A. Artwork that emphasizes compositional elements such as shape and color over content.
 B. Artwork made primarily of large areas of solid color.
 C. Art that tries to express an emotional experience rather than the external world. 
@@ -161,7 +161,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Define *color field painting* 
+Q: Define "color field painting" 
 A. Artwork made primarily of large areas of solid color.
 B. Art which does not try to represent objects from the known world.
 C. Artwork that emphasizes compositional elements such as shape and color over content.

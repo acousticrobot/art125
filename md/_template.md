@@ -57,6 +57,15 @@ ANSWER: A,B
 POINTS: 5
 TYPE: MS
 
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
 Q:
 ANSWER: 
 POINTS: 5
