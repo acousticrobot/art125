@@ -14,20 +14,7 @@ At the end of this unit, students will be able to:
 
 ## Unit Student Assessments & Activities
 
-### Introduction (ULO 3-4)
-
-![Venus of Willendorf, 20,000 bce][preHistory001]
-
-Our course starts in New York in the 1940s, but 35,000 years of recorded art history exist before this point. Before we touch down with both feet running, what should we be aware of, what lessons from the past can we take with us?
-
-In this introductory class, we first look at a very few select pieces of work, from as old as the Venus figurine from Hohle Fels, made of Mammoth Ivory, up to a couple American works from 1950. Stretching them into a timeline, we discuss the spectrum from realism to abstraction, and discover realism encompasses a relatively small part of the history of art.
-
-We examine what factors cause artists to return to abstraction in the 1800s, and how this trend continues up to the Abstract Expressionists. We also look at the differences between Formalism and Expressionism, asking what reasons artists would have to paint ugly or disturbing images. Next week, we will pick after the world wars, and see what happened when New York became the center of the art world.
-
-
-[preHistory001]: ../images/bce.20000.VenusVonWillendorf.jpg "Venus of Willendorf"
-=======
-### Class 1: Introduction
+### Class 1: Introduction (ULO 3-4)
 
 ![Venus figurine from Hohle Fels, 30,000 bce][venus01]
 
@@ -57,12 +44,8 @@ Before we begin, I want to outline the most important points to look for in this
 
   
 #### Existentialism Is a Humanism
->>>>>>> mulch
 
 My purpose here is to offer a defence of existentialism against several reproaches that have been laid against it.
-
-<<<<<<< HEAD
-=======
 
 Most of those who are making use of this word would be highly confused if required to explain its meaning. For since it has become fashionable, people cheerfully declare that this musician or that painter is “existentialist.” <!-- A columnist in Clartes signs himself “The Existentialist,” and, indeed, the word is now so loosely applied to so many things that it no longer means anything at all. It would appear that, for the lack of any novel doctrine such as that of surrealism, all those who are eager to join in the latest scandal or movement now seize upon this philosophy in which, however, they can find nothing to their purpose. For in truth this is of all teachings the least scandalous and the most austere: it is intended strictly for technicians and philosophers.  -->All the same, it can easily be defined.
 
@@ -71,19 +54,12 @@ The question is only complicated because there are two kinds of existentialists.
 <!-- If one considers an article of manufacture as, for example, a book or a paper-knife – one sees that it has been made by an artisan who had a conception of it; and he has paid attention, equally, to the conception of a paper-knife and to the pre-existent technique of production which is a part of that conception and is, at bottom, a formula. Thus the paper-knife is at the same time an article producible in a certain manner and one which, on the other hand, serves a definite purpose, for one cannot suppose that a man would produce a paper-knife without knowing what it was for. Let us say, then, of the paperknife that its essence – that is to say the sum of the formulae and the qualities which made its production and its definition possible – precedes its existence. The presence of such-and-such a paper-knife or book is thus determined before my eyes. Here, then, we are viewing the world from a technical standpoint, and we can say that production precedes existence. -->
 
 When we think of God as the creator, we are thinking of him, most of the time, as a supernal artisan. Whatever doctrine we may be considering, <!-- whether it be a doctrine like that of Descartes, or of Leibnitz himself, --> we always imply that the will follows, more or less, from the understanding or at least accompanies it, so that when God creates he knows precisely what he is creating. <!-- Thus, the conception of man in the mind of God is comparable to that of the paper-knife in the mind of the artisan:  -->God makes man according to a procedure and a conception, exactly as the artisan manufactures a paper-knife, following a definition and a formula. Thus each individual man is the realisation of a certain conception which dwells in the divine understanding. <!-- In the philosophic atheism of the eighteenth century, the notion of God is suppressed, but not, for all that, the idea that essence is prior to existence ; something of that idea we still find everywhere, in Diderot, in Voltaire and even in Kant -->. Man possesses a human nature; that “human nature,” which is the conception of human being, is found in every man; which means that each man is a particular example of a universal conception, the conception of Man. <!-- In Kant, this universality goes so far that the wild man of the woods, man in the state of nature and the bourgeois are all contained in the same definition and have the same fundamental qualities. Here again, the essence of man precedes that historic existence which we confront in experience. -->
->>>>>>> mulch
 
 Atheistic existentialism, of which I am a representative, declares with greater consistency that if God does not exist there is at least one being whose existence comes before its essence, a being which exists before it can be defined by any conception of it. That being is man or, as Heidegger has it, the human reality. What do we mean by saying that existence precedes essence? We mean that man first of all exists, encounters himself, surges up in the world – and defines himself afterwards. If man as the existentialist sees him is not definable, it is because to begin with he is nothing. He will not be anything until later, and then he will be what he makes of himself. Thus, there is no human nature, because there is no God to have a conception of it. Man simply is. Not that he is simply what he conceives himself to be, but he is what he wills, and as he conceives himself after already existing – as he wills to be after that leap towards existence. Man is nothing else but that which he makes of himself. That is the first principle of existentialism. <!-- And this is what people call its “subjectivity,” using the word as a reproach against us. --> But what do we mean to say by this, but that man is of a greater dignity than a stone or a table? For we mean to say that man primarily exists – that man is, before all else, something which propels itself towards a future and is aware that it is doing so. Man is, indeed, a project which possesses a subjective life, instead of being a kind of moss, or a fungus or a cauliflower. Before that projection of the self nothing exists; not even in the heaven of intelligence: man will only attain existence when he is what he purposes to be. <!-- Not, however, what he may wish to be. For what we usually understand by wishing or willing is a conscious decision taken – much more often than not – after we have made ourselves what we are. I may wish to join a party, to write a book or to marry – but in such a case what is usually called my will is probably a manifestation of a prior and more spontaneous decision. --> If, however, it is true that existence is prior to essence, man is responsible for what he is. Thus, the first effect of existentialism is that it puts every man in possession of himself as he is, and places the entire responsibility for his existence squarely upon his own shoulders. And, when we say that man is responsible for himself, we do not mean that he is responsible only for his own individuality, but that he is responsible for all men. <!-- The word “subjectivism” is to be understood in two senses, and our adversaries play upon only one of them. Subjectivism means, on the one hand, the freedom of the individual subject and, on the other, that man cannot pass beyond human subjectivity. It is the latter which is the deeper meaning of existentialism. When we say that man chooses himself, we do mean that every one of us must choose himself; but by that we also mean that in choosing for himself he chooses for all men. For in effect, of all the actions a man may take in order to create himself as he wills to be, there is not one which is not creative, at the same time, of an image of man such as he believes he ought to be. To choose between this or that is at the same time to affirm the value of that which is chosen; for we are unable ever to choose the worse. What we choose is always the better; and nothing can be better for us unless it is better for all. If, moreover, existence precedes essence and we will to exist at the same time as we fashion our image, that image is valid for all and for the entire epoch in which we find ourselves. --> Our responsibility is thus much greater than we had supposed, for it concerns mankind as a whole. If I am a worker, for instance, I may choose to join a Christian rather than a Communist trade union. And if, by that membership, I choose to signify that resignation is, after all, the attitude that best becomes a man, that man’s kingdom is not upon this earth, I do not commit myself alone to that view. Resignation is my will for everyone, and my action is, in consequence, a commitment on behalf of all mankind. Or if, to take a more personal case, I decide to marry and to have children, even though this decision proceeds simply from my situation, from my passion or my desire, I am thereby committing not only myself, but humanity as a whole, to the practice of monogamy. I am thus responsible for myself and for all men, and I am creating a certain image of man as I would have him to be. In fashioning myself I fashion man.
 
 This may enable us to understand what is meant by such terms – perhaps a little grandiloquent – as anguish, abandonment and despair. As you will soon see, it is very simple. First, what do we mean by anguish? – The existentialist frankly states that man is in anguish. His meaning is as follows: When a man commits himself to anything, fully realising that he is not only choosing what he will be, but is thereby at the same time a legislator deciding for the whole of mankind – in such a moment a man cannot escape from the sense of complete and profound responsibility. There are many, indeed, who show no such anxiety. But we affirm that they are merely disguising their anguish or are in flight from it. Certainly, many people think that in what they are doing they commit no one but themselves to anything: and if you ask them, “What would happen if everyone did so?” they shrug their shoulders and reply, “Everyone does not do so.” But in truth, one ought always to ask oneself what would happen if everyone did as one is doing; nor can one escape from that disturbing thought except by a kind of self-deception. The man who lies in self-excuse, by saying “Everyone will not do it” must be ill at ease in his conscience, for the act of lying implies the universal value which it denies. By its very disguise his anguish reveals itself. <!-- This is the anguish that Kierkegaard called “the anguish of Abraham.” You know the story: An angel commanded Abraham to sacrifice his son; and obedience was obligatory, if it really was an angel who had appeared and said, “Thou, Abraham, shalt sacrifice thy son.” But anyone in such a case would wonder, first, whether it was indeed an angel and secondly, whether I am really Abraham. Where are the proofs? A certain mad woman who suffered from hallucinations said that people were telephoning to her, and giving her orders. The doctor asked, “But who is it that speaks to you?” She replied: “He says it is God.” And what, indeed, could prove to her that it was God? If an angel appears to me, what is the proof that it is an angel; or, if I hear voices, who can prove that they proceed from heaven and not from hell, or from my own subconsciousness or some pathological condition? Who can prove that they are really addressed to me? -->
 
-<<<<<<< HEAD
-*insert intro here... If you are interested, you can find the [full text](http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) and more information about the author at [this website](http://www.marxists.org).*
-
-http://www.btinternet.com/~glynhughes/squashed/sartre.htm
-=======
 Who, then, can prove that I am the proper person to impose, by my own choice, my conception of man upon mankind? I shall never find any proof whatever; there will be no sign to convince me of it. If a voice speaks to me, it is still I myself who must decide whether the voice is or is not that of an angel. If I regard a certain course of action as good, it is only I who choose to say that it is good and not bad. <!-- There is nothing to show that I am Abraham: nevertheless I also am obliged at every instant to perform actions which are examples.  -->Everything happens to every man as though the whole human race had its eyes fixed upon what he is doing and regulated its conduct accordingly. So every man ought to say, “Am I really a man who has the right to act in such a manner that humanity regulates itself by what I do.” If a man does not say that, he is dissembling his anguish. Clearly, the anguish with which we are concerned here is not one that could lead to quietism or inaction. It is anguish pure and simple, of the kind well known to all those who have borne responsibilities. When, for instance, a military leader takes upon himself the responsibility for an attack and sends a number of men to their death, he chooses to do it and at bottom he alone chooses. No doubt under a higher command, but its orders, which are more general, require interpretation by him and upon that interpretation depends the life of ten, fourteen or twenty men. In making the decision, he cannot but feel a certain anguish. All leaders know that anguish. It does not prevent their acting, on the contrary it is the very condition of their action, for the action presupposes that there is a plurality of possibilities, and in choosing one of these, they realize that it has value only because it is chosen. Now it is anguish of that kind which existentialism describes, and moreover, as we shall see, makes explicit through direct responsibility towards other men who are concerned. Far from being a screen which could separate us from action, it is a condition of action itself.
->>>>>>> mulch
 
 And when we speak of “abandonment” <!-- – a favorite word of Heidegger – --> we only mean to say that God does not exist, and that it is necessary to draw the consequences of his absence right to the end. <!-- The existentialist is strongly opposed to a certain type of secular moralism which seeks to suppress God at the least possible expense. Towards 1880, when the French professors endeavoured to formulate a secular morality, they said something like this: God is a useless and costly hypothesis, so we will do without it. However, if we are to have morality, a society and a law-abiding world, it is essential that certain values should be taken seriously; they must have an a priori existence ascribed to them. It must be considered obligatory a priori to be honest, not to lie, not to beat one’s wife, to bring up children and so forth; so we are going to do a little work on this subject, which will enable us to show that these values exist all the same, inscribed in an intelligible heaven although, of course, there is no God. In other words – and this is, I believe, the purport of all that we in France call radicalism – nothing will be changed if God does not exist; we shall rediscover the same norms of honesty, progress and humanity, and we shall have disposed of God as an out-of-date hypothesis which will die away quietly of itself. The existentialist, on the contrary, finds it extremely embarrassing that God does not exist, for there disappears with Him all possibility of finding values in an intelligible heaven. There can no longer be any good a priori, since there is no infinite and perfect consciousness to think it.  -->It is nowhere written that “the good” exists, that one must be honest or must not lie, since we are now upon the plane where there are only men. Dostoevsky once wrote: “If God did not exist, everything would be permitted”; and that, for existentialism, is the starting point. Everything is indeed permitted if God does not exist, and man is in consequence forlorn, for he cannot find anything to depend upon either within or outside himself. He discovers forthwith, that he is without excuse. For if indeed existence precedes essence, one will never be able to explain one’s action by reference to a given and specific human nature; in other words, there is no determinism – man is free, man is freedom. Nor, on the other hand, if God does not exist, are we provided with any values or commands that could legitimise our behaviour. Thus we have neither behind us, nor before us in a luminous realm of values, any means of justification or excuse. – We are left alone, without excuse. That is what I mean when I say that man is condemned to be free. Condemned, because he did not create himself, yet is nevertheless at liberty, and from the moment that he is thrown into this world he is responsible for everything he does. The existentialist does not believe in the power of passion. He will never regard a grand passion as a destructive torrent upon which a man is swept into certain actions as by fate, and which, therefore, is an excuse for them. He thinks that man is responsible for his passion. Neither will an existentialist think that a man can find help through some sign being vouchsafed upon earth for his orientation: for he thinks that the man himself interprets the sign as he chooses. He thinks that every man, without any support or help whatever, is condemned at every instant to invent man. <!-- As Ponge has written in a very fine article, “Man is the future of man.” That is exactly true. Only, if one took this to mean that the future is laid up in Heaven, that God knows what it is, it would be false, for then it would no longer even be a future. If, however, it means that, whatever man may now appear to be, there is a future to be fashioned, a virgin future that awaits him – then it is a true saying. But in the present one is forsaken. -->
 
@@ -97,13 +73,6 @@ We have now, I think, dealt with a certain number of the reproaches against exis
 
 <!-- What is at the very heart and center of existentialism, is the absolute character of the free commitment, by which every man realises himself in realising a type of humanity – a commitment always understandable, to no matter whom in no matter what epoch – and its bearing upon the relativity of the cultural pattern which may result from such absolute commitment. One must observe equally the relativity of Cartesianism and the absolute character of the Cartesian commitment. In this sense you may say, if you like, that every one of us makes the absolute by breathing, by eating, by sleeping or by behaving in any fashion whatsoever. There is no difference between free being – being as self-committal, as existence choosing its essence – and absolute being. And there is no difference whatever between being as an absolute, temporarily localised that is, localised in history – and universally intelligible being. -->
 
-<<<<<<< HEAD
-  1. ...
-  2. ...
-  
-#### "Existentialism Is a Humanism", 
-=======
->>>>>>> mulch
 
 ### Presentation: Artist Slideshows (ULO 1-4)
 
@@ -201,7 +170,7 @@ TYPE: MC
 
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
-#### Discussion Board Question
+### Discussion Board Question
 
 As this is our first week, this is our chance to get familiar with the on line discussion boards. Each week is will work the same way.  Note that you have TWO DEADLINES, one for your first post and one for your follow up posts.  This is so we have the chance to get discussions going during the week. This is how it will work:
 
@@ -211,11 +180,11 @@ Then you will reply to at least two (2) other students posts to get the discussi
 
 Please make sure you meet the due dates for these posts.
 
-##### Essay Question:
+#### Essay Question:
 
-Sartre talk a lot about the anxiety of life, and the expressionist work we looked at deals with the anxiety of modern life too. Please write a couple sentences linking the ideas presented in Sartre's lecture and the images of expressionist painting. You can refer to the images from the slideshow, or do your own research and link to an image of any artworks you find.
+Sartre talks a lot about the anxiety of life, and the expressionist work we looked at deals with the anxiety of modern life too. Please write a couple sentences linking the ideas presented in Sartre's lecture and the images of expressionist painting. You can refer to the images from the slideshow, or do your own research and link to an image of any artworks you find.
 
-#### Voice Thread Question
+### Voice Thread Question
 
 This is our chance to get familiar with the voice thread technology.  We have two pictures to look at here, one that is formalist, and one that is expressionist.  I want you to leave a voice thread on each one where you point out one thing that you find engaging about the picture.
 
@@ -236,46 +205,3 @@ This is our chance to get familiar with the voice thread technology.  We have tw
 <!--@H [Back to Index](art125Outline) H@-->
 <!--@H [previous page](art125Outline) H@-->
 <!--@H [next page](art125Unit01) H@-->
-<<<<<<< HEAD
-
-### Class 1: Introduction
-### After this class you should be able to
-
-#### Define the following:
-
-* abstraction
-* realism
-* figurative abstraction
-* representational abstraction
-* non-representational abstraction
-* expressionism
-* formalism
-* color field painting
-
-#### Answer the following:
-
-* What happened in the 1800s that caused painters to suddenly move from realism to abstraction?
-
-* Who was Clement Greenberg, and what was his argument for abstraction in the essay "Towards a Newer Laocoon"?
-
-* Who was Sartre, and what was his argument in "Existentialism?"
-
-### Links for further reading:
-
-* [Venus of Hohle Fels: Prehistoric Porn](http://www.huffingtonpost.com/2009/05/14/venus-of-hohle-fels-prehi_n_203418.html)
-
-* [A site dedicated to Clement Greenberg](http://www.sharecom.ca/greenberg/)
-
-* [The Josef and Anni Albers Foundation](http://www.albersfoundation.org/)
-
-
-
-### essay question
-
-Paradigm Shift  
-: 1. fundamental change in the way of doing things, 
-: 2. acceptance by a majority of a changed belief, attitude, or way of doing things 
-
-It is said that after World War II, world culture experienced a paradigm shift.  Explain how Sartre’s statement that mankind is “condemned to be free” and his idea of “existential anguish” illustrate this new belief system. Explain how the work of the Abstract Expressionists can be seen as illustrating this paradigm shift. 
-=======
->>>>>>> mulch

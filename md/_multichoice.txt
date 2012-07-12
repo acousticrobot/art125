@@ -1,8 +1,8 @@
 Q: This Artwork is by:
 A.Willem De Kooning
-B.Morris Louis
-C.Ad Reinhardt
-D.Hans Hofmann
+B.Helen Frankenthaler
+C.Arshile Gorky
+D.Barnett Newman
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -10,9 +10,9 @@ IMAGE: http://jonathangabel.com/images/art125/dekooning.50.woman1.jpg
 
 Q: This Artwork is by:
 A.Helen Frankenthaler
-B.Marc Rothko
-C.Hans Hofmann
-D.Barnett Newman
+B.Barnett Newman
+C.Ad Reinhardt
+D.Morris Louis
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -20,9 +20,9 @@ IMAGE: http://jonathangabel.com/images/art125/frankenthaler.63.canal.jpg
 
 Q: This Artwork is by:
 A.Arshile Gorky
-B.Morris Louis
+B.Helen Frankenthaler
 C.Ad Reinhardt
-D.Hans Hofmann
+D.Willem De Kooning
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -30,9 +30,9 @@ IMAGE: http://jonathangabel.com/images/art125/gorky.44.theLiverisTheCocksComb.jp
 
 Q: This Artwork is by:
 A.Hans Hofmann
-B.Barnett Newman
-C.Morris Louis
-D.Arshile Gorky
+B.Ad Reinhardt
+C.Arshile Gorky
+D.Morris Louis
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -40,9 +40,9 @@ IMAGE: http://jonathangabel.com/images/art125/hofmann.62.sanctum.jpg
 
 Q: This Artwork is by:
 A.Morris Louis
-B.Jackson Pollock
-C.Willem De Kooning
-D.Helen Frankenthaler
+B.Ad Reinhardt
+C.Marc Rothko
+D.Barnett Newman
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -50,9 +50,9 @@ IMAGE: http://jonathangabel.com/images/art125/louis.59.saraband.jpg
 
 Q: This Artwork is by:
 A.Barnett Newman
-B.Marc Rothko
-C.Hans Hofmann
-D.Arshile Gorky
+B.Hans Hofmann
+C.Ad Reinhardt
+D.Marc Rothko
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -61,8 +61,8 @@ IMAGE: http://jonathangabel.com/images/art125/newman.48.onement.jpg
 Q: This Artwork is by:
 A.Jackson Pollock
 B.Arshile Gorky
-C.Hans Hofmann
-D.Ad Reinhardt
+C.Morris Louis
+D.Barnett Newman
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -70,9 +70,9 @@ IMAGE: http://jonathangabel.com/images/art125/pollock.50.autumnRhythm.jpg
 
 Q: This Artwork is by:
 A.Ad Reinhardt
-B.Barnett Newman
-C.Marc Rothko
-D.Helen Frankenthaler
+B.Jackson Pollock
+C.Barnett Newman
+D.Hans Hofmann
 Answer: A
 POINTS: 5
 TYPE: MC
@@ -82,7 +82,7 @@ Q: This Artwork is by:
 A.Marc Rothko
 B.Jackson Pollock
 C.Hans Hofmann
-D.Willem De Kooning
+D.Helen Frankenthaler
 Answer: A
 POINTS: 5
 TYPE: MC

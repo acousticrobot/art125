@@ -186,7 +186,7 @@ TYPE: SA
 
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
-#### Discussion Board Question
+### Discussion Board Question
 
 Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
 
@@ -196,11 +196,11 @@ Then you will reply to at least two (2) other students posts to get the discussi
 
 Please make sure you meet the due dates for these posts.
 
-##### Essay Question:
+#### Essay Question:
 
 Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
 
-#### Voice Thread Question
+### Voice Thread Question
 
 Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
 
