@@ -10,9 +10,8 @@
 # Answers are appended to the md/_multichoice.md file
 
 import random
-from indexer import write_to_file
+from filemate import write_to_file
 # define sets: ("artist", image.jpg, "title, date")
-
 
 unit_2_set = [
     ("Willem De Kooning","dekooning.50.woman1.jpg"),
@@ -67,5 +66,35 @@ def make_mulch2(test_set, bank_set):
         outgroup.write("IMAGE: http://jonathangabel.com/images/art125/"+ test_set[x][1]+"\n")
         outgroup.write("\n")
 
+def make_mulch(test_set, bank_set):
+    """Creates a list of artists from unit lists of artists/image tuples
+    
+    test_set is the unit set to test, example: u2set
+    bank_set is a list of all units to draw answers from, ex: [u1set,u2set,...]
+    """
+    bank = load_bank(bank_set)
+    blen = len(bank) - 1    
+    file_name = "../md/_multichoice.txt"
+    title = "Multiple Choice"
+    l = []
+    qlist = ["A.","B.","C.", "D."]
+    for x in range(len(test_set)):
+        l.append("Q: This Artwork is by:")
+        answer_set = [test_set[x][0]]
+            # load unique artists names into answer_set
+        for p in range(len(qlist) - 1):
+            while True:
+                r = random.randint(0, blen)
+                if (bank[r] not in answer_set):
+                    answer_set.append(bank[r])
+                    break; 
+        for q in range(len(qlist)):
+            l.append( qlist[q] + answer_set[q] )
+        l.append("Answer: A")
+        l.append("POINTS: 5")
+        l.append("TYPE: MC")
+        l.append("IMAGE: http://jonathangabel.com/images/art125/"+ test_set[x][1])
+        l.append("\n")
+    write_to_file(l,file_name,title, mode='a')
 
-make_mulch2(unit_2_set,[unit_2_set])
+make_mulch(unit_2_set,[unit_2_set])
