@@ -16,15 +16,28 @@ At the end of this unit, students will be able to:
 
 ### Class 1: Introduction (ULO 3-4)
 
-![Venus figurine from Hohle Fels, 30,000 bce][venus01]
+![Venus of Willendorf, 20,000 bce][preHistory001]
 
-Our course starts in New York in the 1940s, but 35,000 years of recorded art history exist before this point. Before we touch down with both feet running, what should we be aware of, what lessons from the past can we take with us?
+Our course starts in New York in the 1940s, but 35,000 years of recorded art history exist before this point. Next week, we will pick after the world wars with Abstract Expressionism and Color Field Painting, and see what happened when New York became the center of the art world. But before we touch down with both feet running, what should we be aware of, what lessons from the past can we take with us?
 
-In this introductory class, we first look at a very few select pieces of work, from as old as the **Venus figurine from Hohle Fels**, made of Mammoth Ivory, up to a couple American works from 1950. Stretching them into a timeline, we discuss the spectrum from realism to abstraction, and discover realism encompasses a relatively small part of the history of art.
+#### Textbook readings
 
-We examine what factors cause artists to return to abstraction in the 1800s, and how this trend continues up to the Abstract Expressionists. We also look at the differences between Formalism and Expressionism, asking what reasons artists would have to paint ugly or disturbing images. Next week, we will pick after the World Wars, and see what happened when New York became the center of the art world.
+For this first week, there are no readings from the book, but make sure you buy it in time to do next weeks reading assignment. Instead, we start right off with the slideshows introducing some key topics.
 
-[venus01]: ../images/prehistory.30000bce.venusOfSchelklingen.front.jpg "Venus figurine from Hohle Fels"
+#### Slideshows
+
+In the slideshows in unit 1, we pull apart the terms "Abstract", "Expressionism" and "Color Field" and trace them through the timeline of art history to see where they come from.  We first look at a very few select pieces of work, from as old as the Venus figurine from Hohle Fels, made of Mammoth Ivory, up to a couple American works from 1950. Stretching them into a timeline, we discuss the spectrum from realism to abstraction, and discover realism encompasses a relatively small part of the history of art.
+
+Next, we examine what factors cause artists to return to abstraction in the 1800s. I introduce the term "artistic crisis" here, which is something we are going to see several times in this course. Very broadly, this refers to an external factor that causes artists to feel that the way art has been made up to that point is no longer adequate, and a new way of making art is needed. This can be brought about through external events such as natural disasters or wars, it can be caused by new technological advances, and it can also come about when new philosophical ideas are introduced into public thought. Before finding out the answer in the slideshow, do you have any guesses as to what happened between 1800 and 1900 that would cause artists to return to abstraction? 
+
+We then start to ask a big question that will come up again in this course, "Why when they can paint pretty pictures, would artists also paint disturbing ones?"  We also look at the difference between "formalism" and "expressionism" along the path of understanding of what "expressionism" means.  Keep in mind though, that we will find both expressionism and formalism in next weeks artworks.
+
+#### Reading
+
+The reading this week is a bit of philosophy. The writing is a little hard to get through, but don't worry, they wont all be this dense or philosophical.  The main point in the article is for Sartre to defend "existentialism", the philosophical movement that he was part of.  We're reading this because the ideas presented tie directly into the ideas that our artists next week are struggling with. And in the discussion board this week, you have a change to apply what you find in this reading to some of the artworks from the slideshows.
+
+
+[preHistory001]: http://www.jonathangabel.com/images/art125/prehistory.20000bce.venusVonWillendorf.jpg "Venus of Willendorf"
 
 ### **Readings**: (ULO 3, 4) 
 ### Jean-Paul Sartre "Existentialism is Humanism"
@@ -95,7 +108,7 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: How does Sartre use the term "abandomnemt"?
+Q: How does Sartre use the term "abandonment"?
 A. He uses it to say that if we don't believe in a God who decides everything, then we must take responsibility for our own actions.
 B. He says once we are abandoned by family we set out on our own.
 C. We must abandon ideas of right and wrong.
