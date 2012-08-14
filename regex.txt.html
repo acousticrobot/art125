@@ -1,0 +1,20 @@
+<p><a href="http://manual.macromates.com/en/regular_expressions">reference</a></p>
+<h4 id="strip-out-course-goal-mapping">Strip out Course Goal Mapping:</h4>
+<p>Find/Replace:</p>
+<p>(Course Goals.*) <!--@G$0G@--></p>
+<h4 id="return-course-goal-mapping">Return Course Goal Mapping:</h4>
+<p>Find/Delete Both:</p>
+<p><!--@G
+
+G@--></p>
+<h4 id="add-hide-hyperlinks">Add / Hide hyperlinks</h4>
+<p>Find/Replace</p>
+<!--@H
+<!-- <@H -->
+
+<p>H@--&gt; <!-- H@> --></p>
+<h3 id="fix-numbered-lists">Fix Numbered Lists</h3>
+<ol style="list-style-type: decimal">
+<li>(.<em>)1. (.</em>)1. (.<em>)1. (.</em>)1. (.*)</li>
+<li>($1)2. ($2)3. ($3)4. ($4)5. ($5)</li>
+</ol>
