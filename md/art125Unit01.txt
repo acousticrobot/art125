@@ -46,7 +46,7 @@ The discussion board this week ties the last slideshow, on expressionism, to the
 
 ##### Further discussion
 
-As always, [there is a page on my site][http://jonathangabel.com/learn/art125/unit-1] where you can post any general questions or comments relating to this weeks material.
+As always, [there is a page on my site](http://jonathangabel.com/learn/art125/unit-1) where you can post any general questions or comments relating to this weeks material.
 
 [preHistory001]: $COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg "Venus of Willendorf"
 

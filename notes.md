@@ -33,10 +33,10 @@ The following optional settings may be added after the question and its choices.
 
   * Go through keynote slideshows, dictate lecture, and copy into transcripts.
   * Restructure keynote slideshow to fit transcript, add notes.
-  * Save as .ppt, open in PPT, resave as .pptx
+  * Save as .ppt, **open it** in PowerPoint and **re-save** as .pptx
   * reformat broken credit page
-  * Record audio, final edits to transcript and keynote.
-  * Save as PDF
+  * Record audio, and review.
+  * upload to http://jonathangabel.com/documents/art125/ppt/ 
   
 ### TODO
 
