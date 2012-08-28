@@ -30,9 +30,9 @@ We then systematically dissect works by the most prominent of these figures, loo
 
 Whether formalist or metaphysical in intent, all of these artists had an interest in the abstract gesture (except, as we learn, Ad Reinhardt, the exception who proves the rule). Our second desire in this class is to begin to examine this gesture as a signature mark of the artists. Our class is as much a field guide as it is history. And we must look at these works not just as individual pieces, but as parts of the artists’ oeuvre, or body of work, and learn to spot other works with these same signature gestures, signature colors, signature compositions. 
 
-[Grosz001]: ../images/grosz.1936.TheHero.jpg "The Hero"
+[Grosz001]: $COURSE_PATH$images/grosz.1936.TheHero.jpg "The Hero"
 
-[Benton001]: ../images/Benton.1942.Embarkation.jpg "The Year of Peril, Embarkation"
+[Benton001]: $COURSE_PATH$images/Benton.1942.Embarkation.jpg "The Year of Peril, Embarkation"
 
 ### Textbook :  Read Chapter 6 Abstract Expressionism (ULO 1-3). 
 
@@ -169,24 +169,15 @@ And I cannot insist enough that Modernism has never meant, and does not mean now
   
 ### Presentation: Artist Slideshows (ULO 1-4)
 
-  * European Influence:
-	  * Hans Hofmann
-	  * Arshile Gorky
-
-  * Line and Gesture: 
-	  * Jackson Pollock
-	  * Willem De Kooning
+* [Unit 2-1: EuropeanInfluence](http://jonathangabel.com/documents/art125/ppt/Art125Unit02-01.EuropeanInfluence.pptx)
+* [Unit 2-2: LineAndGesture](http://jonathangabel.com/documents/art125/ppt/Art125Unit02-02.LineAndGesture.pptx)
+* [Unit 2-3: ColorField](http://jonathangabel.com/documents/art125/ppt/Art125Unit02-03.ColorField.pptx)
 
 Pollock:
 <iframe src="http://www.moma.org/videos/embed/127/683" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Gesture:
 <iframe src="http://www.moma.org/audios/embed/278/3106" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-  * Color Field and Second Generation: 
-	  * Marc Rothko
-	  * Helen Frankenthaler
-	  * Morris Louis
 
 Ad Reinhardt:
 <iframe width="560" height="315" src="http://www.youtube.com/embed/jSGGHmTXA3o" frameborder="0" allowfullscreen></iframe>

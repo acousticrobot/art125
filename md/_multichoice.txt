@@ -88,3 +88,109 @@ POINTS: 5
 TYPE: MC
 IMAGE: http://jonathangabel.com/images/art125/rothko.57.orangeandyellow.jpg
 
+# Multiple Choice
+##### Generated: 2012-08-28 14:03:25.730328
+
+Q: This Artwork is by:
+A.Jasper Johns
+B.Marc Rothko
+C.Hans Hofmann
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/johns.1954.flag.jpg
+
+
+Q: This Artwork is by:
+A.Richard Hamilton
+B.Jasper Johns
+C.Jackson Pollock
+D.Hans Hofmann
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/hamilton.1956.todaysHomes.jpg
+
+
+Q: This Artwork is by:
+A.Roy Lichtenstein
+B.Arshile Gorky
+C.Andy Warhol
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/lichtenstein.1963.whaam.jpg
+
+
+Q: This Artwork is by:
+A.Claes Oldenburg
+B.Hans Hofmann
+C.Duane Hanson
+D.Roy Lichtenstein
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/oldenburg.1962.floorCake.jpg
+
+
+Q: This Artwork is by:
+A.Robert Rauschenberg
+B.Jasper Johns
+C.Helen Frankenthaler
+D.Chuck Close
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/rauschenberg.55-9.monogram.jpg
+
+
+Q: This Artwork is by:
+A.James Rosenquist
+B.Duane Hanson
+C.Jasper Johns
+D.Claes Oldenburg
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/rosenquist.64-5.f111.detail2.jpg
+
+
+Q: This Artwork is by:
+A.Andy Warhol
+B.Jackson Pollock
+C.Duane Hanson
+D.Hans Hofmann
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/warhol.1962.marilynDyptych.jpg
+
+
+Q: This Artwork is by:
+A.Chuck Close
+B.Richard Hamilton
+C.Jackson Pollock
+D.Ad Reinhardt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/close.1967.bigSelfPortrait.jpg
+
+
+Q: This Artwork is by:
+A.Duane Hanson
+B.Andy Warhol
+C.Claes Oldenburg
+D.Ad Reinhardt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/hanson.1970.supermarketShopper.jpg
+
+
+
+##### end generated log
+##### total items = 90
+

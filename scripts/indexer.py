@@ -2,7 +2,7 @@
 
 # Name: Image Indexer
 # Author: Jonathan Gabel
-# version: 0.8
+# version: 0.9
 # (c) GPL 2012
 # URL: http://jonathangabel.com
 # Image Indexer is a command line utility to deal with artist image repositories.
@@ -12,22 +12,416 @@
 # format, one artists per line:
 # artist : FirstName LastName
 
-import os
+
 import re
+import subprocess
+import datetime
 import codecs # codecs.open() handles unicode
 from unidecode import unidecode
-from termate import pretty_string, pretty_file_name, color, cprint, trm_sect, menu
-from filemate import write_list, write_dict, write_to_file, write_titles, change_dir, nav_dir
-from filemate import load_directory_as_list, compare_directories, load_file_as_dict
-from filemate import add_file_to_list, load_images_as_lists, list_to_dotstring
-
-
+import operator # for sorting dict in menu()
+import os # check if directory is valid in change_dir()
 
 CURRDIR = os.getcwd() + '/'
+FOO = "bar"
+
+DEFCOLOR = 'COLOR_LIGHT_BLUE'
+C_N = '$none'
+C_LG = '$lgreen'
+C_G = '$green'
+C_B = '$blue'
+C_LB = '$lblue'
+C_R = '$red'
+C_GY = '$gray'
+C_P = '$purple'
+C_LP = '$lpurple'
+C_Y = '$yellow'
+
+#-------------- FORMATTING AND WRITING TO TERMINAL  -------------------------#
+
+def pretty_string(s):
+    # split camelCase, then make pretty
+    lowers = [  'a', 'an', 'and', 'da', 'du', 'is', 'in', 'on', 
+                'of', 'the', 'to']
+    exceptions = [  ('I I I', 'III'), ('I I', 'II'), (' W ',' with '),
+                    (r'^[l|L]$',"l'"), (r'[i|I]m ',"I'm "),('O ',"O'"),
+                    (r'[w|W]hos ','Who\'s'),('D I A','DIA'),
+                    ('N Y C','NYC'),('N Y'),('NY'),('L A', 'LA'),
+                    ('freuds','freud\'s'),
+                    ('T N'),('TN'),('Didnt','Didn\'t'),('Dont','Don\'t'),('Lets','Let\'s'),
+                    ('Im','I\'m'),('Jaspers','Jasper\'s'),('Platos','Plato\s'),
+                    ('Sambos','Sambo\'s'),]
+    title = re.sub(r'([a-z]*)([A-Z])', r'\1 \2', s)
+    title = re.sub(r'([a-z]+)([0-9])', r'\1 \2', title)
+    for l in lowers:
+        l1 = ' ' + l.capitalize() + ' '
+        l2 = ' ' + l + ' '
+        title = re.sub(l1,l2,title)
+    for e in exceptions:
+        title = re.sub(e[0],e[1],title)
+    title = title[0].upper() + title[1:]
+    return title
+
+
+def pretty_file_name(l, artist = '', display = False):
+    """Makes a human readable string from image file."""
+    file_name = list_to_dotstring(l)
+    if artist == '':
+        artist = pretty_string(l[0])
+    date = l[1]
+    title = pretty_string(l[2])
+    if len(l) > 4:
+        sub_title = ''
+        for s in l[3:-1]:
+            sub_title += pretty_string(s) 
+        title += ' (' + sub_title + ')'
+    if display:
+        s1 = s2 = ' '
+        if len(artist) < 12:
+            s1 += (12 - len(artist)) * ' '
+        if len(date) < 8:
+            s2 += (9  - len(date)) * ' '
+        cprint(C_Y,artist,s1,C_B,date,s2,C_P,title)
+    return artist, date, title, file_name
+
+
+def color(s = ""):
+    if s == '$none':
+        c = '${COLOR_NC}\c'
+    elif s == '$white':
+        c = '${COLOR_WHITE}\c'
+    elif s == '$black':
+        c = '${COLOR_BLACK}\c'
+    elif s == '$blue':
+        c = '${COLOR_BLUE}\c'
+    elif s == '$lblue':
+        c = '${COLOR_LIGHT_BLUE}\c'
+    elif s == '$green':
+        c = '${COLOR_GREEN}\c'
+    elif s == '$cyan':
+        c = '${COLOR_CYAN}\c'
+    elif s == '$lgreen':
+        c = '${COLOR_LIGHT_GREEN}\c'
+    elif s == '$lcyan':
+        c = '${COLOR_LIGHT_CYAN}\c'
+    elif s == '$red':
+        c = '${COLOR_RED}\c'
+    elif s == '$lred':
+        c = '${COLOR_LIGHT_RED}\c'
+    elif s == '$purple':
+        c = '${COLOR_PURPLE}\c'
+    elif s == '$lpurple':
+        c = '${COLOR_LIGHT_PURPLE}\c'
+    elif s == '$brown':
+        c = '${COLOR_BROWN}\c'
+    elif s == '$yellow':
+        c = '${COLOR_YELLOW}\c'
+    elif s == '$gray':
+        c = '${COLOR_GRAY}\c'
+    elif s == '$lgray':
+        c = '${COLOR_LIGHT_GRAY}\c'
+    else:
+        c = '${' + DEFCOLOR + '}\c'
+    call = 'echo "' + c + '"'
+    subprocess.call(call, shell = True)
+
+
+def cprint(*print_list):
+    """Take a list of strings, print them to terminal in color.
+    
+    Send a list of strings, if strings are color keywords, terminal color
+    is changed.
+    """
+    for s in print_list:
+        s = str(s)
+        if len(s) > 0 and s[0] == '$':
+            color(s)
+        else:
+            call = 'echo "' + s + '\c"'
+            subprocess.call(call, shell = True)
+    color()
+    print ""
+    return
+
+
+def cprint_list(color,l,pretty=False):
+    color(color)
+    for item in l:
+        if pretty:
+            print pretty_string(item)
+        else:
+            print item
+    color()
+
+
+def section(heading='*****'):
+    cprint( '\n', C_Y,'***** ',C_B, heading.upper(), C_Y, ' *****')
+
+
+def menu(d,prompt='true'): 
+    """Take a dictionary, and turns it into a menu"""  
+    keys = []
+    try:
+        title = d.pop('TITLE')
+        section(title)
+    except KeyError:
+        section()
+    sorted_d = sorted(d.items())
+    for key in sorted_d:
+        row = [C_LB,'  {0:10}'.format(key[0]),' : ',C_LG,'{}\n'.format(key[1])]
+        keys.extend(row)
+    cprint(*keys)
+    if prompt:
+        return raw_input('Enter Selection: ')
+
+
+#-------------- WRITING TO FILE  --------------------------------------------#
+
+def write_list(l,f):
+    """Writes list l, one item per line, to file f."""
+    count = 0
+    for item in l:
+        try:
+            f.write(item)
+        except UnicodeDecodeError:
+            cprint(C_R, 'error on {}'.format(item))
+        f.write('\n')
+        count += 1
+    return count
+
+
+def write_dict(l,f):
+    count = 0
+    for k, v in sorted(l.items()):
+        item = k + ', ' + v
+        f.write(item)
+        f.write('\n')
+        count += 1
+    return count
+
+
+def write_to_file(l,file_name,title,o_type='list', mode='w'):
+    """Save a list to a file"""
+    file_path = CURRDIR + file_name
+    cprint(C_G, "file saving mode: ", mode)
+    f = codecs.open(file_path, encoding='utf-8', mode=mode)
+    count = 0
+    now = str(datetime.datetime.now())
+    now_stamp = '##### Generated: ' + now + '\n\n'
+    hash_title = '# ' + title
+    f.write(hash_title)
+    f.write('\n')
+    f.write(now_stamp)
+    if o_type == 'list':
+        count = write_list(l,f)
+    elif o_type == 'dict':
+        count = write_dict(l,f)
+    end_title = """
+##### end generated log
+##### total items = """ + str(count) + '\n\n'
+    f.write(end_title)
+    f.close()
+    cprint (C_G, 'Saved ', C_P, title, C_G, ' to file ', C_LG, file_path)
+    return
+
+
+def write_titles(args,split=True):
+    """Save titles to file from image directory.
+    
+    Assumes format: name.date.title.etc.jpg
+    args passed as a string and can contain the following:
+         -fx : from x in alphabet forward
+         -tx : to x in alphabet forward
+         -p2 : target position 2 (name is position 0)
+    split is optional, splits titles simply at capitals 
+    """
+    frm, thru, pos = '0', 'z', 2
+    args = re.split(r' ',args)
+    for arg in args:
+        if arg[:2] == '-f':
+            frm = arg[2]
+        if arg[:2] == '-t':
+            thru = arg[2]
+        if arg[:2] == '-p':
+            pos == int(arg[2])
+    titles = []
+    images = load_images_as_lists()
+    for image in images:
+        i = list(image) #necessary?
+        if len(i) > pos + 1:
+            if i[pos][0] >= frm and i[pos][0] <= thru:
+                title = i[2]
+                if split:
+                    title = re.sub(r'([A-Z])', r' \1', title);
+                titles.append(title)
+    title_set = sorted(set(titles))
+    cprint(C_P,"Titles {f} through {t}".format(f = frm, t = thru))
+    color(C_LP)
+    for title in title_set:
+        print title
+    color()
+    sel = raw_input('Save Selection? [Y/N]: ')
+    if sel in ('y','Y'):
+        f = 'Image Titles From {f} Through {t} at Position {p}'.format(
+                f = frm, t = thru, p = pos)
+        write_to_file(title_set,'_titles.txt', f, 'list','a') 
+    else:
+        print "Exiting without saving..."
 
 
 #-------------- LOADING FROM FILES AND DIRECTORY ----------------------------#
-# :--------- Indexer Specific: ---------------------:
+
+def change_dir(s):
+    global CURRDIR
+    s = s.strip()
+    if os.path.isdir(s):
+        CURRDIR = s + '/'
+        return True
+    else:
+        cprint(C_R,'Directory ', C_P, s, C_R, " Not Found.")
+        return None
+ 
+def nav_dir_menu():
+    "Create a help menu used to navigate the directories"
+    menu_args = {
+        'TITLE': 'ENTER DIRECTORY CHANGES',
+        'RETURN': 'Return with current directory',
+        '/new_dir' : 'change to /new_dir',
+        'new_dir' : 'current directory/new_dir',
+        '..' : 'current parent directory',
+        'Q' : 'Quit Program'
+    }
+    menu(menu_args,False)
+    
+
+def nav_dir(sel=False):
+    print sel
+    """Validate the current global directory"""
+    valid_dir = os.path.isdir(CURRDIR)
+    cprint(C_B,'NAVIGATE CURRENT DIRECTORY ([h]elp)')
+    while True:
+        color(C_G)
+        if not sel:      
+            sel = raw_input(CURRDIR + " cd> ")
+        if sel in ('h','H'):
+            nav_dir_menu()
+        elif sel in ('q','Q'):
+            return None
+        elif not sel or sel == '':
+            if valid_dir:
+                cprint ('Saving current directory: ', C_G, CURRDIR)
+                return True
+            else:
+                cprint(C_R,'You must pick a valid directory')
+        elif sel == '..':
+            sel = os.path.dirname(CURRDIR[:-1])
+        elif sel[0] != '/':
+            sel = CURRDIR + sel.strip()
+        else:
+            sel = sel.strip()
+        valid_dir = change_dir(sel)
+        sel = False
+
+
+def load_directory_as_list(dir):
+    """Load files in directory into list."""
+    ls_comm = 'ls -R ' + dir
+    try:
+        d = subprocess.check_output(ls_comm, shell=True)
+    except subprocess.CalledProcessError:
+        cprint(C_R,"Error finding Directory {}".format(dir))
+        return None
+    dir_list = re.split(r'\s',d)
+    return dir_list
+
+
+def compare_directories(dir1='',dir2=''):
+    d1 = load_directory_as_list(dir1)
+    d2 = load_directory_as_list(dir2)
+    if not d1 or not d2:
+        cprint(C_R,"Undable to compare Directories")
+        return None
+    d1, d2 = set(d1), set(d2)
+    in1 = sorted(d1 - d2)
+    in2 = sorted(d2 - d1)
+    diff = ["--------> Unique to {}".format(dir1)]
+    diff.extend(in1)
+    diff.append("<-------- Unique to {}".format(dir2))
+    diff.extend(in2)
+    title = "Directory Comparison {} {}".format(dir1,dir2)
+    file_name = "_xdir.txt"
+    write_to_file(diff, file_name, title, o_type='list', mode='a')
+    
+def load_file_as_list(file_name):
+    """Transfer lines from a file into a list"""
+    l = []
+    path = CURRDIR + file_name
+    print "Loading File {}...".format(file_name)
+    if os.path.exists(path):
+        with codecs.open(path, encoding='utf-8') as f:
+            for ln in f:
+                    if (ln[0] != '#') and (ln != '\n'):
+                        l.append(ln[0:-1])
+    else:
+        sel = ''
+        while sel not in ('y','n'):
+            s = raw_input('No file {} found, create new? [Y/N]: '.format(file_name))
+            sel = s.lower()
+            if sel == 'y':
+                write_to_file([],file_name,"NEW {}".format(file_name))  
+            elif sel == 'n':
+                cprint(C_R,"No {} created".format(file_name))
+                return None
+    return l
+
+
+def load_file_as_dict(f):
+    """Load dictionary from file and returns python dict
+    
+    File should have one entry per line: key: value"""
+    l = load_file_as_list(f)
+    if not l:
+        cprint(C_R,"Empty file or unloadable as dictionary.")
+        return
+    a = []
+    for line in l:
+        line = re.sub(' ','',line)
+        line = re.split(r':',line)
+        if len(line) != 2:
+            cprint(C_R, "Skipping line: {}, Invalid Format for Dictionary".format(line))
+        else:
+            a.append(line)
+    d = dict(a)
+    return d
+
+
+def add_file_to_list(file_name,l):
+    """Append lines from a file into a list"""
+    with codecs.open( CURRDIR + file_name, encoding='utf-8') as f:
+        for ln in f:
+                if (ln[0] != '#') and (ln != '\n'):
+                    l.append(ln[0:-1])
+    return l
+
+
+def load_images_as_lists():
+    """Make list from directory images, split each on dots into list."""
+    directory = load_directory_as_list(CURRDIR)
+    i_list = []
+    for item in directory:
+        i_list.append(re.split(r'\.',item))
+    for i in list(i_list):
+        if 'jpg' not in i:
+            i_list.remove(i)
+    return i_list
+
+
+def list_to_dotstring(l):
+    """Put a file name back together from the list version"""
+    build = ''
+    for section in l:
+        build += '.' + section 
+    return build[1:]
+
 
 def load_artists_in_dir():
     """Return list of artist from current directory
@@ -61,15 +455,15 @@ def find(args,split=True):
         elif arg != '':
             srch.append(arg.lower())
     results = []
-    cprint('$green'Y,"Search Type: ", '$lgreen', typ)
+    cprint(C_GY,"Search Type: ", C_LG, typ)
     if search_all:
-        cprint('$green'Y,"Searching all Positions...")
+        cprint(C_GY,"Searching all Positions...")
     else:
-        cprint('$green'Y,"Search Position: ",'$lgreen', pos)
+        cprint(C_GY,"Search Position: ",C_LG, pos)
     if typ == 'intersection':
         refined_results = []
     for i in range(len(srch)):
-        cprint('$green'Y,"Searching: ",'$lgreen', srch[i])
+        cprint(C_GY,"Searching: ",C_LG, srch[i])
         if i == 0 or typ == 'union':
             targets = images
             collection = results
@@ -98,7 +492,7 @@ def find(args,split=True):
     sel = menu(menu_args)
     res = []
     if sel == '' or sel[0] in ('r','R'):
-        cprint('$red','Returning without save')
+        cprint(C_R,'Returning without save')
         return
     if sel in ('F','f'):
         for f in results:
@@ -111,7 +505,7 @@ def find(args,split=True):
         try:
             sel = int(sel)
         except ValueError, TypeError:
-            cprint('$red',"Not a valid value, skipping save...")
+            cprint(C_R,"Not a valid value, skipping save...")
             return 
     if sel in range(0,9):
         for f in results:
@@ -231,7 +625,7 @@ def artist_dict_from_files():
 
 def print_bash_rename(old_name, new_name):
     rename = 'mv ' + CURRDIR + old_name + ' ' + CURRDIR + new_name
-    cprint('$red', 'mv ', '$green'Y, old_name, ' ', '$blue', new_name)
+    cprint(C_R, 'mv ', C_GY, old_name, ' ', C_B, new_name)
     return rename
 
 
@@ -240,7 +634,7 @@ def execute_bash_rename(f='_rename.txt'):
     for item in l:
         if item[:3] == "mv ":
             subprocess.check_call(item, shell=True)
-            cprint('$yellow', "executing: ", '$red', item)
+            cprint(C_Y, "executing: ", C_R, item)
     return
 
 
@@ -351,7 +745,7 @@ def check_whos_who():
     images = load_images_as_lists()
     ww = load_file_as_dict('__whos_who.txt')
     if not ww:
-        cprint('$red',"Returning without loading Who's Who")
+        cprint(C_R,"Returning without loading Who's Who")
         return None
     unkn_artist = []
     for image in images:
@@ -359,11 +753,11 @@ def check_whos_who():
             print 'No record of: {}'.format(image[0])
             unkn_artist.append(image[0] + ' : ')
     if unkn_artist:
-        cprint('$red',"Unknown Artists Found")
+        cprint(C_R,"Unknown Artists Found")
         unkn_artist.append("# Add artist full name and update who\'s who. For example: zorn: John Zorn")
         write_to_file(unkn_artist,'_whos_new.txt','Add The Following:','list','a')
     else:
-        cprint('$green', 'Who\'s Who up to date.')
+        cprint(C_G, 'Who\'s Who up to date.')
 
 
 def update_whos_who():
@@ -438,7 +832,7 @@ def md_index():
     d = subprocess.check_output(pandoc, shell=True)
     print d
     # except CalledProcessError: 
-    #     cprint('$red','Unable to Save html', d)
+    #     cprint(C_R,'Unable to Save html', d)
 
 
 def init_dir():
@@ -451,11 +845,11 @@ def init_dir():
 def init():
     """Run a loop with program possibilities."""
     
-    trm_sect('Initializing')
+    section('Initializing')
     if not init_dir():
-        cprint('$red',"Quitting on error loading directory")
+        cprint(C_R,"Quitting on error loading directory")
         return
-    trm_sect('Image Indexer')
+    section('Image Indexer')
     sel = ''
     while sel != 'Q':
         menu_args = {'TITLE':'Please Enter one of the following',
@@ -509,7 +903,7 @@ def init():
             try:
                 compare_directories(dir1,dir2)
             except IndexError, subprocess.CalledProcessError:
-                cprint('$red',"Not valid Directories")
+                cprint(C_R,"Not valid Directories")
         elif sel in ('Q','q'):
             print 'Exiting...'
             sel = 'Q'

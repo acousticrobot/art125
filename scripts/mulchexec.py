@@ -2,16 +2,18 @@
 
 # Name: Image Indexer
 # Author: Jonathan Gabel
-# version: 0.8
+# version: 0.9
 # (c) GPL 2012
 # URL: http://jonathangabel.com
 # Make Multiple Choice takes in lists of artists and corresponding images
 # For each artists in the test set, it generates one multiple choice question
 # Answers are appended to the md/_multichoice.md file
 
+import os
 import random
-from filemate import write_to_file
-# define sets: ("artist", image.jpg, "title, date")
+from filehelper import write_to_file
+CURRDIR = os.getcwd() + '/'
+
 
 unit_2_set = [
     ("Willem De Kooning","dekooning.50.woman1.jpg"),
@@ -25,6 +27,18 @@ unit_2_set = [
     ("Marc Rothko","rothko.57.orangeandyellow.jpg")
 ]
 
+unit_3_set = [
+    ("Jasper Johns","johns.1954.flag.jpg"),
+    ("Richard Hamilton","hamilton.1956.todaysHomes.jpg"),
+    ("Roy Lichtenstein","lichtenstein.1963.whaam.jpg"), 
+    ("Claes Oldenburg","oldenburg.1962.floorCake.jpg"),
+    ("Robert Rauschenberg","rauschenberg.55-9.monogram.jpg"),
+    ("James Rosenquist","rosenquist.64-5.f111.detail2.jpg"),
+    ("Andy Warhol","warhol.1962.marilynDyptych.jpg"),
+    ("Chuck Close","close.1967.bigSelfPortrait.jpg"),
+    ("Duane Hanson","hanson.1970.supermarketShopper.jpg")
+]
+
 def load_bank(unit_sets):
     """Creates a list of artists from unit lists of artists/image tuples
 
@@ -36,35 +50,6 @@ def load_bank(unit_sets):
         for artist in unit:
             bank.append(artist[0])
     return bank
-
-
-def make_mulch2(test_set, bank_set):
-    """Creates a list of artists from unit lists of artists/image tuples
-    
-    test_set is the unit set to test, example: u2set
-    bank_set is a list of all units to draw answers from, ex: [u1set,u2set,...]
-    """
-    bank = load_bank(bank_set)
-    blen = len(bank) - 1    
-    outgroup = file ("../md/_multichoice.txt",'a')
-    qlist = ["A.","B.","C.", "D."]
-    for x in range(len(test_set)):
-        outgroup.write("Q: This Artwork is by:\n")
-        answer_set = [test_set[x][0]]
-            # load unique artists names into answer_set
-        for p in range(len(qlist) - 1):
-            while True:
-                r = random.randint(0, blen)
-                if (bank[r] not in answer_set):
-                    answer_set.append(bank[r])
-                    break; 
-        for q in range(len(qlist)):
-            outgroup.write( qlist[q] + answer_set[q] + "\n" )
-        outgroup.write("Answer: A\n")
-        outgroup.write("POINTS: 5\n")
-        outgroup.write("TYPE: MC\n")
-        outgroup.write("IMAGE: http://jonathangabel.com/images/art125/"+ test_set[x][1]+"\n")
-        outgroup.write("\n")
 
 def make_mulch(test_set, bank_set):
     """Creates a list of artists from unit lists of artists/image tuples
@@ -93,8 +78,8 @@ def make_mulch(test_set, bank_set):
         l.append("Answer: A")
         l.append("POINTS: 5")
         l.append("TYPE: MC")
-        l.append("IMAGE: http://jonathangabel.com/images/art125/"+ test_set[x][1])
+        l.append("IMAGE: $COURSE_PATH$images/"+ test_set[x][1])
         l.append("\n")
     write_to_file(l,file_name,title, mode='a')
 
-make_mulch(unit_2_set,[unit_2_set])
+make_mulch(unit_3_set,[unit_2_set,unit_3_set])
