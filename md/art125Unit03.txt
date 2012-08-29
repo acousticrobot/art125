@@ -12,20 +12,39 @@ At the end of this unit, students will be able to:
   2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
   3. Question the theory and philosophy behind the movement, with emphasis on Warhol and commercialism. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
 
+### Artists covered:
+
+*  Andy Warhol
+*  James Rosenquist
+*  Claes Oldenburg
+*  Jasper Johns
+*  Robert Rauschenberg
+*  Richard Hamilton
+*  Roy Lichtenstein
+*  Chuck Close
+*  Duane Hanson
+
 ## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
 ![RICHARD HAMILTON, *Just What Is It That Makes Today’s Homes So Different, So Appealing?*, 1956. Collage][Hamilton001]
 
-The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* and that's where we start our class today. We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
+The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* so thats where I want to start our class today. 
 
+What should be immediately apparent is that this piece looks nothing like the Abstract Expressionist work we studied last week.  Instead of asking the viewer to stare for a long time to find meaning in the work, it tries to pop out and grab our attention. Instead of being about one artist's personal hand, it is a collaged mixture of photographs taken from many sources.  Instead of trying to reach deep and timeless truths about the human condition, it is irreverent and humorous and makes use of fashion and cultural references. 
 
-So, what was it that makes these artists so different, so appealing? Let's start with a little background into the **Black Mountain College**, **happenings**, and the work of **John Cage**, a musician and composer who used chance to structure musical compositions.  His piece *4'33"* is a performance where a pianist sits at a piano for four minutes and forty three seconds without playing anything.  The background noise in the auditorium during that time is what he considers the music of the piece.  Inspired by this work, early pop artists began to bring ideas such as **chance** and **performance** into the visual arts.
+So, what was it that makes these pop artists "So Different, So Appealing""? Instead of slideshows this week, I've put together a collage of my own, of videos of artists talking about their own work. We start with a little background into the **Black Mountain College**, **happenings**, and the work of **John Cage**, a musician and composer who used chance to structure musical compositions.  His piece *4'33"* is a performance where a pianist sits at a piano for four minutes and forty three seconds without playing anything.  The background noise in the auditorium during that time is what he considers the music of the piece.  Inspired by this work, early pop artists began to bring ideas such as **chance** and **performance** into the visual arts.
 
-Now that you know a little about **Greenberg** and his drive to push every artistic medium back to is own roots, you can imagine that performance opened up possibilities for artists such as Rauschenberg and Johns. Possibilities which fit outside of the formalist, non-representational work that was receiving most of the attention. Contrary to Greenberg’s wish for each medium to be isolated, we see pieces with representation and narrative, paintings which are also sculptures, sculptures which also serve as backdrops for performance.
+We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
 
-Often a distinction arises between the critical nature of British pop art, and the American Pop Art's unapologetic embrace of consumer culture. But let’s not be too broad in this generalization, as the underlying unease we see in the Abstract Expressionists also shows up in pieces like the giant *F-111* by **James Rosenquist**, which features a young child blissfully having her hair done at a beauty salon, while a nuclear mushroom cloud erupts in the background. Or **Andy Warhol**’s pieces electric chairs and car accidents from his disaster series.
+Now that you know a little about **Greenberg** and his drive to push every artistic medium back to is own roots, you can imagine that performance opened up possibilities for artists such as Rauschenberg and Johns. Possibilities which fit outside of the formalist, non-representational work that was receiving most of the attention. Contrary to Greenberg’s wish for each medium to be isolated, we see pieces with representation and narrative, paintings which are also sculptures, sculptures which also serve as backdrops for performance. Artists like **Roy Lichtenstein** also blur the boundary between artworks and comic books, and **Claes Oldenburg** shows us that even a BLT sandwich is a worthy subject for an artist.
+
+Often a distinction arises between the critical nature of British pop art, and the American Pop Art's unapologetic embrace of consumer culture. But let’s not be too broad in this generalization, as the underlying unease we see in the Abstract Expressionists also shows up in pieces like the giant *F-111* by **James Rosenquist**, which features a young child blissfully having her hair done at a beauty salon, while a nuclear mushroom cloud erupts in the background, or **Andy Warhol**’s pieces electric chairs and car accidents from his disaster series. 
+
+By repeating an image over and over again, Warhol distances us from any emotional content of the image, and brings it into the realm of commercialism and mass production. Our reading this week focuses on Warhol's use of machine-like repetition.
+
+Finally we look at Pop arts cousin, Super realism. The last videos present artists Chuck Close and Duane Hanson in their quest to make paintings that looks like photographs, and sculptures that look like they could move.
 
 [hamilton001]: http://jonathangabel.com/images/art125/hamilton.1956.JustWhatIsItEtc.jpg "The Hero"
 
@@ -46,7 +65,6 @@ D.
 ANSWER: A
 POINTS: 5
 TYPE: MC
-
 
 Q: Describe how chance was used in Art, and by which artist?
 A. John Cage composed music that relied entirely on the incidental sounds that occurred at the time of each performance.
@@ -203,22 +221,26 @@ Please watch the following videos:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/L65hAaZm2-s" frameborder="0" allowfullscreen></iframe>
 
-#### Rosenquist on F-111:
-<iframe width="560" height="315" src="http://www.youtube.com/embed/txHg9ItLH3Y" frameborder="0" allowfullscreen></iframe>
-
-#### warhol Documentary 2/8:
-<iframe width="420" height="315" src="http://www.youtube.com/embed/aYZcnx6X7pM" frameborder="0" allowfullscreen></iframe>
-
 #### Lichtenstein Documentary:
 <iframe width="560" height="315" src="http://www.youtube.com/embed/6jowA-pH-Y8" frameborder="0" allowfullscreen></iframe>
-
-#### Super Realism
 
 ##### Oldenburg:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/V2UFGpjr39c" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/m2qxhWmdIrs" frameborder="0" allowfullscreen></iframe>
+
+#### Rosenquist on F-111:
+<iframe width="560" height="315" src="http://www.youtube.com/embed/txHg9ItLH3Y" frameborder="0" allowfullscreen></iframe>
+
+#### Warhol Documentary (part 2 of 8):
+<iframe width="420" height="315" src="http://www.youtube.com/embed/aYZcnx6X7pM" frameborder="0" allowfullscreen></iframe>
+
+#### Super Realism
+
+##### Chuck Close:
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/jbcP8zNrqsk" frameborder="0" allowfullscreen></iframe>
 
 ##### Duane Hanson (and John De Andrea):
 
@@ -344,7 +366,7 @@ ANSWER: A,B,C,D,E,F,G
 POINTS: 5
 TYPE: MS
 
-Q: Select all the artists who are Color Field Painters 
+Q: Select all the artists who are Super Realists 
 A. Chuck Close
 B. Duane Hanson
 C. Hans Hofmann
@@ -354,10 +376,10 @@ ANSWER: A,B
 POINTS: 5
 TYPE: MS
 
-Q: How used encaustic and what was it?
+Q: Who used encaustic and what was it?
 A. Jasper Johns, paint mixed with melted wax which is dry as soon as it is cool.
 B. Duane Hanson, a term used to describe an exceptional realism.
-C. Robert Rauscengerg, a type of goat he found at an antique store.
+C. Robert Rauschenberg, a type of goat he found at an antique store.
 D. Andy Warhol, a process used with silkscreening
 ANSWER: A
 POINTS: 5
@@ -377,7 +399,7 @@ POINTS: 5
 TYPE: MC
 
 Q: John Cage made the piece 4’33”, where the pianist played nothing in front of an audience for four minutes and thirty three seconds.  This piece demonstrated:
-A. the artworks can be created by chance, in this case the chance noises that occurred in the concert hall during the performance of the piece.
+A. that artworks can be created by chance, in this case the chance noises that occurred in the concert hall during the performance of the piece.
 B. that in minimalism artists were trying to come up with ways to make art with almost nothing.
 C. that even Robert Rauschenberg could make music if he felt like it.
 D. that short amounts of time actually feel very long when there is nothing to distract us.
@@ -403,8 +425,8 @@ ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Which of the following is not something Andy Warhol would say:
-A. **“The present painter is concerned not with his own feelings or with the mystery of his own personality but with the penetration into the world mystery.”**
+Q: Which of these quotes is from an Abstract Expressionist, and not something Andy Warhol would say:
+A. “The present painter is concerned not with his own feelings or with the mystery of his own personality but with the penetration into the world mystery.”
 B. “I like boring things. I like things to be exactly the same over and over again.”
 C. “I reason why I’m painting this way is that I want to be a machine.”
 D. “But when you see a gruesome picture over and over again, it doesn’t really have any effect.”
@@ -414,8 +436,8 @@ TYPE: MC
 
 Q: How does Warhol play with the "idea" or "role" of the artist in society?
 A. He questioned the idea that the art had to originate from the artist by producing his work through factory production and painting mundane things.
-B. He wore wigs to make fun of the older generation of artists.
-C. He thought the artist should be thought of as a genius, not a painting machine.
+B. He thought artists were the great thinkers who moved society towards a greater understanding of truth.
+C. He thought the artist should be thought of as an individual, not a painting machine.
 D. He proved he could be as macho as the Abstract Expressionists.
 ANSWER: A
 POINTS: 5
@@ -423,10 +445,7 @@ TYPE: MC
 
 ### Discussion Board relating to videos and readings (ULO 1-4) 
 
-We have seen two very different art styles now, Abstract Expressionist and Pop art.  There is no right answer to this question, but I'm curious to hear how you guys feel: Do you think the art you see being made today is more like AbEx or more like Pop?  Give an example.
-
-
-
+We have seen two very different art styles now, Abstract Expressionist and Pop art.  There is no right answer to this question, but I'm curious to hear about what you observe and how you guys feel: Do you think the art you see being made today is more like AbEx or more like Pop?  Give an example.
 
 ### Additional Artists to Study (ULO 1)
     

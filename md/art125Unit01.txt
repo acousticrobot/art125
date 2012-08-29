@@ -16,7 +16,9 @@ At the end of this unit, students will be able to:
 
 ### ### Unit 1: Abstraction (ULO 3-4)
 
-![Venus of Willendorf, 20,000 bce][preHistory001]
+<div style="float:left;margin:20px" class="figure"><img alt="Venus of Willendorf, 20,000 bce" title="Venus of Willendorf" src="$COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg" />
+<p class="caption">Venus of Willendorf, 20,000 bce</p>
+</div>
 
 Our course starts in New York in the 1940s, but 35,000 years of recorded art history exist before this point. Next week, we will pick after the world wars with Abstract Expressionism and Color Field Painting, and see what happened when New York became the center of the art world. But before we touch down with both feet running, what should we be aware of, what lessons from the past can we take with us?
 
@@ -47,8 +49,6 @@ The discussion board this week ties the last slideshow, on expressionism, to the
 ##### Further discussion
 
 As always, [there is a page on my site](http://jonathangabel.com/learn/art125/unit-1) where you can post any general questions or comments relating to this weeks material.
-
-[preHistory001]: $COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg "Venus of Willendorf"
 
 ### Readings: (ULO 3, 4) 
 ### Jean-Paul Sartre "Existentialism is Humanism"

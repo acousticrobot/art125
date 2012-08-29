@@ -12,27 +12,45 @@ At the end of this unit, students will be able to:
   2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
   3. Question the theory and philosophy behind the movement, with emphasis on Greenberg and Sartre. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
 
+### Artists covered:
+
+*  Helen Frankenthaler
+*  Willem De Kooning
+*  Morris Louis
+*  Barnett Newman
+*  Jackson Pollock
+*  Ad Reinhardt
+*  Marc Rothko
+
 ## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
 This week, we pick up with the end of World War II. Let's start by looking at two very different images of soldiers. One is by **George Grosz**, a bleak image of a crippled WW I veteran, reduced to a beggar. The other, by **Thomas Hart Benton**, shows heroic young Americans heading off to Europe to fight. By the time World War II is over, neither of these methods of expression seemed adequate to the younger generation of artists.
 
+<div style="float:left;margin:20px" class="figure"><img alt="George Grosz, &quot;The Hero&quot;, 1936" title="The Hero" src="$COURSE_PATH$images/grosz.1936.theHero.jpg" />
+<p class="caption">George Grosz, &quot;The Hero&quot;, 1936</p>
+</div>
+<div style="float:left;margin:20px" class="figure"><img alt="Thomas Hart Benton, &quot;The Year of Peril, Embarkationquot;" title="The Year of Peril, Embarkation" src="$COURSE_PATH$images/Benton.1942.Embarkation.jpg" />
+<p class="caption">Thomas Hart Benton, &quot;The Year of Peril, Embarkation&quot;, 1946</p>
+</div>
+
+
 ![George Grosz, "The Hero", 1936][Grosz001]
 
 ![Thomas Hart Benton, "The Year of Peril, Embarkation"][Benton001]
 
+[Grosz001]: $COURSE_PATH$images/grosz.1936.TheHero.jpg "The Hero"
+
+[Benton001]: $COURSE_PATH$images/Benton.1942.Embarkation.jpg "The Year of Peril, Embarkation"
+
 Single events of this war were captured in so many detailed photographs that everyone understood the horror of what the world had gone through. But when it came to understanding the magnitude of the war--6 million civilians killed in the concentration camps, 180,000 killed by a single atomic blast--we humans are simply left contemplating our own inability to conceive of such large numbers.
 
-One thing was for sure for the artist’s who became known as the Abstract Expressionists, a new artistic method was required to express this new understanding of the world and our place within it. Before the war, dozens of Europe's best artists fled to America, creating an artistic atmosphere around New York perfect for the education of our young artists. We look at two artists: Arshile Gorky and Hans Hofmann, and their influence on the Abstract Expressionists.
+One thing was for sure for the artist’s who became known as the Abstract Expressionists, a new artistic method was required to express this new understanding of the world and our place within it. Before the war, dozens of Europe's best artists fled to America, creating an artistic atmosphere around New York perfect for the education of our young artists. We look at two artists: **Arshile Gorky** and **Hans Hofmann**, and their influence on the Abstract Expressionists.
 
 We then systematically dissect works by the most prominent of these figures, looking for two things. First, what was their artistic intent, and means of production? Some of these artists were only interested in what paint on a canvass meant in and of itself. Some were interested in exploring issues of social justice, and some were convinced that with color alone, they could create a truly spiritual and transcendent experience.
 
 Whether formalist or metaphysical in intent, all of these artists had an interest in the abstract gesture (except, as we learn, Ad Reinhardt, the exception who proves the rule). Our second desire in this class is to begin to examine this gesture as a signature mark of the artists. Our class is as much a field guide as it is history. And we must look at these works not just as individual pieces, but as parts of the artists’ oeuvre, or body of work, and learn to spot other works with these same signature gestures, signature colors, signature compositions. 
-
-[Grosz001]: $COURSE_PATH$images/grosz.1936.TheHero.jpg "The Hero"
-
-[Benton001]: $COURSE_PATH$images/Benton.1942.Embarkation.jpg "The Year of Peril, Embarkation"
 
 ### Textbook :  Read Chapter 6 Abstract Expressionism (ULO 1-3). 
 

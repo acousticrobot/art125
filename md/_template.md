@@ -16,13 +16,29 @@ At the end of this unit, students will be able to:
 
 <!-- example -->
 
+### Artists covered:
+
+<!-- example -->
+
+ *  Helen Frankenthaler
+ *  Willem De Kooning
+ *  Morris Louis
+ *  Barnett Newman
+ *  Jackson Pollock
+ *  Ad Reinhardt
+ *  Marc Rothko
+
+<!-- example -->
+
 ## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
 <!-- example -->
 
-![RICHARD HAMILTON, *Just What Is It That Makes Today’s Homes So Different, So Appealing?*, 1956. Collage][Hamilton001]
+<div style="float:left;margin:20px" class="figure"><img alt="Venus of Willendorf, 20,000 bce" title="Venus of Willendorf" src="$COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg" />
+<p class="caption">Venus of Willendorf, 20,000 bce</p>
+</div>
 
 The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* and that's where we start our class today. We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
 
