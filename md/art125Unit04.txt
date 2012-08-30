@@ -1,10 +1,10 @@
-### Unit 4: (one week) Minimal Form and Maximal Space
+# Unit 4: (one week) Minimal Form and Maximal Space
 
-Unit IV Form and Thought in the late 60's
+### Form and Thought in the late 60's
 
 At the end of this unit, students will be able to:
 
-  1. Identify artists and describe qualities associated with Conceptual Art, Minimalism, and Land Art  Course Goals: 1,2,4,5, GE: 1,4,6,7, Core Skills: A, D, E
+  1. Identify artists and describe qualities associated with Conceptual Art, Minimalism, and Earth Art  Course Goals: 1,2,4,5, GE: 1,4,6,7, Core Skills: A, D, E
   2.  Define key terms associated with these movements and artists  Course Goals: 1,2,4 GE: 1,4,6,7, Core Skills: A, D, E
   3.  Question the theory and philosophy behind the movement, with emphasis on Sol Lewitt and Robert Smithson.  Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 Core Skills: A, B, C, E, F, G
   4.  Discriminate between Land Art and Environmentalism.    
@@ -12,15 +12,24 @@ At the end of this unit, students will be able to:
 
 ### Artists covered:
 
-<!-- example -->
+* David Smith
+* Louise Nevelson
 
- *  Helen Frankenthaler
- *  Willem De Kooning
- *  Morris Louis
- *  Barnett Newman
- *  Jackson Pollock
- *  Ad Reinhardt
- *  Marc Rothko
+#### Minimalism
+
+* Donald Judd
+* Dan Flavin
+
+* Frank Stella
+* Sol Lewitt
+
+#### Earth Art
+
+* Robert Morris
+* Robert Smithson
+
+* Richard Serra
+* James Turrell
 
 ## Unit Student Assessments & Activities
 
@@ -37,6 +46,28 @@ At the end of this unit, students will be able to:
 <!--@H [previous page](art125Unit03) H@-->
 <!--@H [next page](art125Unit05) H@-->
 
+### Other artists:
+
+* Alexander Calder
+* Tony Smith
+
+* Anne Truitt
+* Eva Hesse
+
+* Nancy Holt
+* Gordon Matta-Clark
+* Michael Heizer
+* Cristo and Jean-Claude
+
+### readings
+
+[turrell interview](http://www.pbs.org/wnet/egg/215/turrell/interview_content_1.html)
+
+### videos
+
+#### Sol Lewitt wall drawings:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/AnKgSWugUWU" frameborder="0" allowfullscreen></iframe>
 
 ### Minimalism
 
@@ -59,18 +90,6 @@ Similarly cohesive, yet distinct in it’s fascination with organic shapes, new 
   * Op art
   * Process Art
  
-#### Recognize artwork by the following artists:
-
-  * Alexander Calder
-  * Louise Nevelson
-  * David Smith
-  * Dan Flavin
-  * Donald Judd
-  * Sol Lewitt
-  * Robert Morris
-  * Frank Stella
-  * Anne Truitt
-  * Eva Hesse
 
 #### Answer the following:
 
@@ -104,24 +123,11 @@ Next, we follow these tendencies into the open air, and watch artists push the b
   * monumental
   * Plato's Cave
 
-#### Recognize artwork by the following artists:
-
-  * Cristo and Jean-Claude
-  * Michael Heizer
-  * Nancy Holt
-  * Gordon Matta-Clark
-  * Richard Serra
-  * Robert Smithson
-  * James Turrell
 
 #### Answer the following:
 
   * What relationship to Earthworks artists have to environmentalism?
   * What parallels can be drawn between Jackson Pollock and Richard Serra?
-
-
-
-
 
 ##50-60 sculpture:
 
