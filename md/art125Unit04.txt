@@ -1,6 +1,6 @@
 # Unit 4: (one week) Minimal Form and Maximal Space
 
-### Form and Thought in the late 60's
+### Sculpture, Minimalism, Conceptual Art, and Earth Art
 
 At the end of this unit, students will be able to:
 
@@ -41,6 +41,25 @@ At the end of this unit, students will be able to:
 <p class="caption">Venus of Willendorf, 20,000 bce</p>
 </div>
 
+We've seen a couple sculptors so far, but most of the work we've seen so far has been painting.  This week we do a little catchup, and see what's been happening so far in the world of three dimensions.  We start with two sculptors from the 50's **David Smith** and **Louise Nevelson**. Although they followed tendencies from European Modernism (found object assemblage, balanced compositions, biomorphic shapes), and AbEx tendencies (the brushed aluminum surfaces of David Smith look like expressionist brushwork, for instance), these artists were also free to follow Greenberg’s advice that artworks should concentrate on their own specific medium. This meant that sculpture in the 1950s often worked in it’s own world, inventing modernism on it’s own terms.
+
+We then look into a couple art movements that are loosely tied together, Minimalism, Conceptualism and Earth Art.  Many of the artists in these groups could be placed into more than one category, so I've pulled out some representative samples just to give you a flavor of these different movements.
+
+#### Minimalism
+
+Unlike the Abstract Expressionists, or even the Pop artists, these are not artists who felt grouped in a common purpose. In fact they often occupied distinct perspectives on the work and their reason for producing it. Interestingly, we see that the more similar the work of artists is, the more likely it is that they are going to need to describe what it is that they personally are doing, and how it differs from others who are doing a very similar thing.
+
+**Robert Morris** made boxes that were more about places to perform, or making the viewer aware of his or her body in space, than the craft of making them. **Frank Stella** painted lines, but never wanted to give up the history of painting or painterly illusion, even when his pieces resembled aluminum slabs suspended on the wall. **Donald Judd** wanted more than anything to upend traditional concepts of art, and creates the “Specific Object” that is “neither painting nor sculpture” by drafting plans for factory produced objects constructed of exotic industrial materials. **Sol Le Witt** saw that the Idea was as interesting as the piece, and produced descriptions of works that were then brought to completion by assistants in his absence.
+
+No matter the distinctions these artists made amongst themselves, they still created a collective body of work that felt cohesive enough to outside observers, and seemed relevant enough in it’s comments on modern life, assembly, and mass production, to earn the lasting label of Minimalism.
+
+#### Earth Art
+
+We now live in an age where we think about preserving the wild as much as protecting ourselves from the elements. But first we have to back up a bit, to the beginnings of the environmental movement, when earth artists were not making necessarily political statements, but just working in the landscape as movers of dirt.
+
+If anything is this lecture can group all these artists together, it would be the notion of Scale. We start with **Robert Morris** and **Richard Serra**, artists still working within the gallery setting, but pushing the envelope of what can still fit within four walls. In some cases the expansion is illusionist in nature, by use of mirrors which reflect space, or lights which fill the room with their glow. Other times it is by perceived weight, or presence, as with Serra’s steel pieces threatening to crush the viewer.
+
+Next, we follow these tendencies into the open air, and look at **Robert Smithson** and **James Turrell**, two artists who push the boundaries of what you can even call a sculpture. Jetty’s, buildings, cities, mountains, all of the earth’s natural and man-made surfaces become possible canvasses for artistic ideas.
 
 <!--@H [Back to Index](art125Outline) H@-->
 <!--@H [previous page](art125Unit03) H@-->
@@ -69,18 +88,6 @@ At the end of this unit, students will be able to:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/AnKgSWugUWU" frameborder="0" allowfullscreen></iframe>
 
-### Minimalism
-
-So here we have a bunch of artists, all basically making boxes and wanting the art world to accept them as Capital “A” Art. So how could it be that none of them get along? Today we look at the Minimalists, and interestingly, we see that the more similar the work of artists is, the more likely it is that they are going to need to describe what it is that they personally are doing, and how it differs from others who are doing a very similar thing.
-First, we backtrack a bit and look at the work of the sculptors who were working at the same time as the Abstract Expressionists. Although they followed tendencies from European Modernism (found object assemblage, balanced compositions, biomorphic shapes), and AbEx tendencies (the brushed aluminum surfaces of David Smith look like expressionist brushwork, for instance), these artists were also free to follow Greenberg’s advice that “each art should preserve it’s own opacity bla blah.” This meant that sculpture in the 1950s often worked in it’s own world, inventing modernism on it’s own terms.
-
-Next we look survey the work of artists grouped under the name Minimalism. Unlike the Abstract Expressionists, or even the Pop artists, these are not artists who felt grouped in a common purpose. In fact they often occupied distinct perspectives on the work and their reason for producing it.
-
-Robert Morris made boxes that were more about places to perform, or making the viewer aware of his or her body in space, than the craft of making them. Frank Stella painted lines, but never wanted to give up the history of painting or painterly illusion, even when his pieces resembled aluminum slabs suspended on the wall. Donald Judd wanted more than anything to upend traditional concepts of art, and creates the “Specific Object” that is “neither painting nor sculpture” by drafting plans for factory produced objects constructed of exotic industrial materials. Anne Hamilton also produces boxes, but hers are hand crafted, cared for, lovingly painted and talked about as if they were babies carried to term. Sol Le Witt saw that the Idea was as interesting as the piece, and produced descriptions of works that were then brought to completion by assistants in his absence.
-
-No matter the distinctions these artists made amongst themselves, they still created a collective body of work that felt cohesive enough to outside observers, and seemed relevant enough in it’s comments on modern life, assembly, and mass production, to earn the lasting label of Minimalism.
-
-Similarly cohesive, yet distinct in it’s fascination with organic shapes, new and expressive materials, and interest in the actual means of production were the process artists who we look at next. And then finally, a quick look at Op art, which in our computer savvy world still impresses with it’s use of tight geometrically controlled lines.
 
 ### After this class you should be able to
 
@@ -106,15 +113,6 @@ Similarly cohesive, yet distinct in it’s fascination with organic shapes, new 
   * [Robert Ryman](http://www.pbs.org/art21/artists/robert-ryman) on PBS
   * 1972 filmed interview of [Frank Stella](http://www.youtube.com/watch?v=cN_rRCfRdmQ)
 
-
-
-Well, we’re back to The Monk by the Sea, and you’re probably noticing how much I like to reference this piece by now. The distinction I’m making this time is between the classical notion of Man vs. The Wild, and our more contemporary notions of the fragility of the globe. We now live in an age where we think about preserving the wild as much as protecting ourselves from the elements. But first we have to back up a bit, to the beginnings of any environmental movements, to artists not making necessarily political statements, but just working in the landscape as movers of dirt.
-
-If anything is this lecture can group all these artists together, it would be the notion of Scale. We start with artists still working within the gallery setting, but pushing the envelope of what can still fit within four walls. In some cases the expansion is illusionist in nature, by use of mirrors which reflect space, or lights which fill the room with their glow. Other times it is by perceived weight, or presence, as with Serra’s steel pieces threatening to crush the viewer, or De Maria’s Earth room, which crams enough of the outside indoors in order to remind us of the difference in magnitude.
-
-Next, we follow these tendencies into the open air, and watch artists push the boundaries of what you can even call a sculpture. Jetty’s, buildings, cities, mountains, all of the earth’s natural and man-made surfaces become possible expressions of artistic ideas.
-
-###  After this class you should be able to
 
 #### Define the following:
 

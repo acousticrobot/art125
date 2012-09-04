@@ -40,9 +40,9 @@ This week, we pick up with the end of World War II. Let's start by looking at tw
 
 ![Thomas Hart Benton, "The Year of Peril, Embarkation"][Benton001]
 
-[Grosz001]: $COURSE_PATH$images/grosz.1936.TheHero.jpg "The Hero"
+[Grosz001]: /images/art125/grosz.1936.theHero.jpg "The Hero"
 
-[Benton001]: $COURSE_PATH$images/Benton.1942.Embarkation.jpg "The Year of Peril, Embarkation"
+[Benton001]: /images/art125/benton.1942.embarkation.jpg "The Year of Peril, Embarkation"
 
 Single events of this war were captured in so many detailed photographs that everyone understood the horror of what the world had gone through. But when it came to understanding the magnitude of the war--6 million civilians killed in the concentration camps, 180,000 killed by a single atomic blast--we humans are simply left contemplating our own inability to conceive of such large numbers.
 
