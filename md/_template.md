@@ -53,7 +53,7 @@ Often a distinction arises between the critical nature of British pop art, and t
 
 <!-- END example -->
 
-### Textbook :  Read Chapter 7 Neo-Dada and Pop Art (ULO 1-3). 
+### Textbook :  Read Chapter 8 Minimalism and Conceptual Art (ULO 1-3). 
 
 Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Textbook Review Questions in the next section.
 
@@ -94,6 +94,7 @@ TYPE: SA
 
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
+
 ### **Readings**: (ULO 3, 4) 
 ### Author "Title"
 
@@ -115,27 +116,17 @@ Before we begin, I want to outline the most important points to look for in this
   
 ### Presentation: Artist Slideshows (ULO 1-4)
 
-<!-- example -->
+Please watch the following slideshows:
 
-  * Beginnings of pop: 
-	  * Hamilton
-	  * Cage
-	
-  * A blending of media
-	  * Johns
-	  * Rauschenberg
-	  * Claes Oldenburg
-	
-  * Pop and commercialism
-    * Roy Lichtenstein
-    * James Rosenquist
-    * Andy Warhol
+<!-- copy from index.txt -->
 
-  * Super realism
-	  * Chuck Close
-    * Duane Hanson
+### Presentations: Artist Videos (ULO 1-4)
 
-<!-- example -->
+#### Beginnings of Pop Art:
+
+Please watch the following videos:
+
+<!-- iframe -->
     
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
@@ -158,7 +149,7 @@ TYPE: MS
 
 #### Identify artwork images from the slideshows
 
-run randomIDQ.py
+run mulchexec.py
 
 Q: This is an artwork by:
 ANSWER:
@@ -202,16 +193,16 @@ TYPE: SA
 
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
-### Discussion Board Question
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
 Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
 
-First, you will start a thread by answering the Essay question below. 
+**First**, you will start a thread by answering the Essay question below. 
 
-Then you will reply to at least two (2) other students posts to get the discussion going.  
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
 
-Please make sure you meet the due dates for these posts.
-
+Please make sure you meet the **due dates** for these posts.
+  
 #### Essay Question:
 
 Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.

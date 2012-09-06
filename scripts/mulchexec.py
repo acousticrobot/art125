@@ -39,6 +39,19 @@ unit_3_set = [
     ("Duane Hanson","hanson.1970.supermarketShopper.jpg")
 ]
 
+unit_4_set = [
+("David Smith","smith.1964.cubiXIX.jpg"),
+("Louise Nevelson","nevelson.1958.skyCathedral.2.jpg"),
+("Donald Judd","judd.1968.1900s.jpg"),
+("Dan Flavin","flavin.1977.untitled.inhonorharoldjoachim.jpg"),
+("Frank Stella","stella.1962.grandCairo.jpg"),
+("Sol Lewitt","lewitt.60s.123454321.jpg"),
+("Robert Morris","morris.1961.boxForStanding.empty.jpg"),
+("Robert Smithson","smithson.1970.spiralJetty.jpg"),
+("Richard Serra","serra.2006.band.jpg"),
+("James Turrell","turrell.77-2002.rodenCratersEye.jpg")
+]
+
 def load_bank(unit_sets):
     """Creates a list of artists from unit lists of artists/image tuples
 
@@ -82,4 +95,4 @@ def make_mulch(test_set, bank_set):
         l.append("\n")
     write_to_file(l,file_name,title, mode='a')
 
-make_mulch(unit_3_set,[unit_2_set,unit_3_set])
+make_mulch(unit_4_set,[unit_2_set,unit_3_set,unit_4_set])

@@ -1,3 +1,4 @@
+
 Q: This Artwork is by:
 A.Willem De Kooning
 B.Helen Frankenthaler
@@ -193,4 +194,227 @@ IMAGE: $COURSE_PATH$images/hanson.1970.supermarketShopper.jpg
 
 ##### end generated log
 ##### total items = 90
+
+# Multiple Choice
+##### Generated: 2012-09-05 15:35:53.814790
+
+Q: This Artwork is by:
+A.Jasper Johns
+B.James Rosenquist
+C.Barnett Newman
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/johns.1954.flag.jpg
+
+
+Q: This Artwork is by:
+A.Richard Hamilton
+B.Barnett Newman
+C.James Rosenquist
+D.Hans Hofmann
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/hamilton.1956.todaysHomes.jpg
+
+
+Q: This Artwork is by:
+A.Roy Lichtenstein
+B.Hans Hofmann
+C.Jackson Pollock
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/lichtenstein.1963.whaam.jpg
+
+
+Q: This Artwork is by:
+A.Claes Oldenburg
+B.Andy Warhol
+C.Morris Louis
+D.Duane Hanson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/oldenburg.1962.floorCake.jpg
+
+
+Q: This Artwork is by:
+A.Robert Rauschenberg
+B.Barnett Newman
+C.Helen Frankenthaler
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/rauschenberg.55-9.monogram.jpg
+
+
+Q: This Artwork is by:
+A.James Rosenquist
+B.Chuck Close
+C.Ad Reinhardt
+D.Duane Hanson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/rosenquist.64-5.f111.detail2.jpg
+
+
+Q: This Artwork is by:
+A.Andy Warhol
+B.Claes Oldenburg
+C.Duane Hanson
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/warhol.1962.marilynDyptych.jpg
+
+
+Q: This Artwork is by:
+A.Chuck Close
+B.Willem De Kooning
+C.Morris Louis
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/close.1967.bigSelfPortrait.jpg
+
+
+Q: This Artwork is by:
+A.Duane Hanson
+B.Barnett Newman
+C.Chuck Close
+D.Morris Louis
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/hanson.1970.supermarketShopper.jpg
+
+
+
+##### end generated log
+##### total items = 90
+
+# Multiple Choice
+##### Generated: 2012-09-05 15:39:13.042128
+
+Q: This Artwork is by:
+A.David Smith
+B.Donald Judd
+C.Marc Rothko
+D.Duane Hanson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/smith.1964.cubiXIX.jpg
+
+
+Q: This Artwork is by:
+A.Louise Nevelson
+B.James Rosenquist
+C.Helen Frankenthaler
+D.Barnett Newman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/nevelson.1958.skyCathedral.2.jpg
+
+
+Q: This Artwork is by:
+A.Donald Judd
+B.Jasper Johns
+C.Ad Reinhardt
+D.Robert Morris
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/judd.1968.1900s.jpg
+
+
+Q: This Artwork is by:
+A.Dan Flavin
+B.Richard Serra
+C.Louise Nevelson
+D.Chuck Close
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/flavin.1977.untitled.inhonorharoldjoachim.jpg
+
+
+Q: This Artwork is by:
+A.Frank Stella
+B.Arshile Gorky
+C.Dan Flavin
+D.David Smith
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/stella.1962.grandCairo.jpg
+
+
+Q: This Artwork is by:
+A.Sol Lewitt
+B.Jasper Johns
+C.James Rosenquist
+D.David Smith
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/lewitt.60s.123454321.jpg
+
+
+Q: This Artwork is by:
+A.Robert Morris
+B.Marc Rothko
+C.Frank Stella
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/morris.1961.boxForStanding.empty.jpg
+
+
+Q: This Artwork is by:
+A.Robert Smithson
+B.James Rosenquist
+C.Robert Morris
+D.Morris Louis
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/smithson.1970.spiralJetty.jpg
+
+
+Q: This Artwork is by:
+A.Richard Serra
+B.Louise Nevelson
+C.Hans Hofmann
+D.Robert Smithson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/serra.2006.band.jpg
+
+
+Q: This Artwork is by:
+A.James Turrell
+B.Donald Judd
+C.Jackson Pollock
+D.Richard Serra
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/turrell.77-2002.rodenCratersEye.jpg
+
+
+
+##### end generated log
+##### total items = 100
 
