@@ -7,7 +7,7 @@ At the end of this unit, students will be able to:
   1. Identify artists and describe qualities associated with Conceptual Art, Minimalism, and Earthworks  Course Goals: 1,2,4,5, GE: 1,4,6,7, Core Skills: A, D, E
   2.  Define key terms associated with these movements and artists  Course Goals: 1,2,4 GE: 1,4,6,7, Core Skills: A, D, E
   3.  Question the theory and philosophy behind the movement, with emphasis on Sol Lewitt and Robert Smithson.  Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 Core Skills: A, B, C, E, F, G
-  4.  Discriminate between Land Art and Environmentalism.    
+  4.  Discriminate between Land Art and Environmentalism   
   5.  challenge ideas of authorship and the production of artwork
 
 ### Artists covered:
@@ -31,17 +31,17 @@ At the end of this unit, students will be able to:
 * Richard Serra
 * James Turrell
 
+
+* David Smith
+* Louise Nevelson
+* Donald Judd
+* Dan Flavin
+
 ## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
-<!-- example -->
-
-<div style="float:left;margin:20px" class="figure"><img alt="Venus of Willendorf, 20,000 bce" title="Venus of Willendorf" src="$COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg" />
-<p class="caption">Venus of Willendorf, 20,000 bce</p>
-</div>
-
-We've seen a couple sculptors so far, but most of the work we've seen so far has been painting.  This week we do a little catchup, and see what's been happening so far in the world of three dimensions.  We start with two sculptors from the 50's **David Smith** and **Louise Nevelson**. Although they followed tendencies from European Modernism (found object assemblage, balanced compositions, biomorphic shapes), and AbEx tendencies (the brushed aluminum surfaces of David Smith look like expressionist brushwork, for instance), these artists were also free to follow Greenberg’s advice that artworks should concentrate on their own specific medium. This meant that sculpture in the 1950s often worked in it’s own world, inventing modernism on it’s own terms.
+**We've seen a couple sculptors so far, but most of the work we've seen so far has been painting.**  This week we do a little catchup, and see what's been happening so far in the world of three dimensions.  We start with two sculptors from the 50's **David Smith** and **Louise Nevelson**. Although they followed tendencies from European Modernism (found object assemblage, balanced compositions, biomorphic shapes), and AbEx tendencies (the brushed aluminum surfaces of David Smith look like expressionist brushwork, for instance), these artists were also free to follow Greenberg’s advice that artworks should concentrate on their own specific medium. This meant that sculpture in the 1950s often worked in it’s own world, inventing modernism on it’s own terms.
 
 We then look into a couple art movements that are loosely tied together, Minimalism, Conceptualism and Earthworks.  Many of the artists in these groups could be placed into more than one category, so I've pulled out some representative samples just to give you a flavor of these different movements.
 
@@ -59,7 +59,7 @@ We now live in an age where we think about preserving the wild as much as protec
 
 If anything is this lecture can group all these artists together, it would be the notion of Scale. We start with **Robert Morris** and **Richard Serra**, artists still working within the gallery setting, but pushing the envelope of what can still fit within four walls. In some cases the expansion is illusionist in nature, by use of mirrors which reflect space, or lights which fill the room with their glow. Other times it is by perceived weight, or presence, as with Serra’s steel pieces threatening to crush the viewer.
 
-Next, we follow these tendencies into the open air, and look at **Robert Smithson** and **James Turrell**, two artists who push the boundaries of what you can even call a sculpture. Jetty’s, buildings, cities, mountains, all of the earth’s natural and man-made surfaces become possible canvasses for artistic ideas.
+Next, we follow these tendencies into the open air, and look at **Robert Smithson** and **James Turrell**, two artists who push the boundaries of what you can even call a sculpture. Jetty’s, buildings, cities, mountains, all of the earth’s natural and man-made surfaces become possible canvases for artistic ideas.
 
 ### Textbook :  Read Chapter 8 Minimalism and Conceptual Art (ULO 1-3). 
 
@@ -141,15 +141,11 @@ essays: http://www.robertsmithson.com/essays/ess.htm
 
 Please watch the following slideshows:
 
-* [Unit 2-1: EuropeanInfluence](http://jonathangabel.com/documents/art125/ppt/Art125Unit02-01.EuropeanInfluence.pptx)
-* [Unit 2-2: LineAndGesture](http://jonathangabel.com/documents/art125/ppt/Art125Unit02-02.LineAndGesture.pptx)
-* [Unit 2-3: ColorField](http://jonathangabel.com/documents/art125/ppt/Art125Unit02-03.ColorField.pptx)
-
-### Presentation: Artist Slideshows (ULO 1-4)
-
-Please watch the following slideshows:
-
-<!-- copy from index.txt -->
+* [Unit 4-1: 50sSculpture](http://jonathangabel.com/documents/art125/ppt/Art125Unit04-01.50sSculpture.pptx)
+* [Unit 4-2: Minimalism](http://jonathangabel.com/documents/art125/ppt/Art125Unit04-02.Minimalism.pptx)
+* [Unit 4-3: Minimalism2](http://jonathangabel.com/documents/art125/ppt/Art125Unit04-03.Minimalism2.pptx)
+* [Unit 4-4: Monumental](http://jonathangabel.com/documents/art125/ppt/Art125Unit04-04.Monumental.pptx)
+* [Unit 4-5: EarthArt](http://jonathangabel.com/documents/art125/ppt/Art125Unit04-05.EarthArt.pptx)
 
 ### Presentations: Artist Videos (ULO 1-4)
 
@@ -158,30 +154,6 @@ Please watch the following video:
 <iframe width="560" height="315" src="http://www.youtube.com/embed/AnKgSWugUWU" frameborder="0" allowfullscreen></iframe>
     
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
-
-#### Identify names of XXX Artists
-
-Q: Select all the artists who are Minimalists 
-A. Donald Judd
-B. Dan Flavin
-C. Frank Stella
-D. Sol Lewitt
-E. Helen Frankenthaler
-F. Ad Reinhardt
-G. Claes Oldenburg
-ANSWER: A,B,C,D
-POINTS: 5
-TYPE: MS
-
-Q: Select all the artists who are Earthworks Artists 
-A. Robert Smithson
-B. James Turrell
-C. Frank Stella
-D. Hans Hofmann
-E. Chuck Close
-ANSWER: A,B
-POINTS: 5
-TYPE: MS
 
 #### Identify artwork images from the slideshows
 
@@ -294,10 +266,32 @@ POINTS: 5
 TYPE: MC
 IMAGE: $COURSE_PATH$images/turrell.77-2002.rodenCratersEye.jpg
 
+#### Identify names of XXX Artists
+
+Q: Select all the artists who are Minimalists 
+A. Donald Judd
+B. Dan Flavin
+C. Frank Stella
+D. Sol Lewitt
+E. Helen Frankenthaler
+F. Ad Reinhardt
+G. Claes Oldenburg
+ANSWER: A,B,C,D
+POINTS: 5
+TYPE: MS
+
+Q: Select all the artists who are Earthworks Artists 
+A. Robert Smithson
+B. James Turrell
+C. Frank Stella
+D. Hans Hofmann
+E. Chuck Close
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
 
 #### Multiple Choice Definitions
-* sublime
-* monumental
 
 Q: Define the sublime
 A. inspiring awe or terror through size or strength
