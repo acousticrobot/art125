@@ -418,3 +418,98 @@ IMAGE: $COURSE_PATH$images/turrell.77-2002.rodenCratersEye.jpg
 ##### end generated log
 ##### total items = 100
 
+# Multiple Choice
+##### Generated: 2012-09-18 13:25:49.313249
+
+Q: This Artwork is by:
+A.Judy Chicago
+B.Dan Flavin
+C.Arshile Gorky
+D.Chuck Close
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/chicago.74-9.dinnerParty.jpg
+
+
+Q: This Artwork is by:
+A.Carolee Schneemann
+B.Ad Reinhardt
+C.Arshile Gorky
+D.Jasper Johns
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/schneemann.1975.interiorScroll.jpg
+
+
+Q: This Artwork is by:
+A.Ana Mendieta
+B.Michael Ray Charles
+C.Sol Lewitt
+D.Richard Serra
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/mendieta.1977.treeOfLife.jpg
+
+
+Q: This Artwork is by:
+A.Fred Wilson
+B.Richard Serra
+C.Marc Rothko
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/wilson.1991.guardedView.jpg
+
+
+Q: This Artwork is by:
+A.Kara Walker
+B.Barnett Newman
+C.Marc Rothko
+D.Judy Chicago
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/walker.1994c.girlAndMan.jpg
+
+
+Q: This Artwork is by:
+A.Carrie Mae Weems
+B.Andy Warhol
+C.Kara Walker
+D.Richard Hamilton
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/weems.2008.theAssasinationOfMedgarMalcolmAndMartin.jpg
+
+
+Q: This Artwork is by:
+A.Michael Ray Charles
+B.Kerry James Marshall
+C.Marc Rothko
+D.James Rosenquist
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/charles.1994.beware.jpg
+
+
+Q: This Artwork is by:
+A.Kerry James Marshall
+B.Duane Hanson
+C.Roy Lichtenstein
+D.Carrie Mae Weems
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/marshall.1992.couldThisBeLove.jpg
+
+
+
+##### end generated log
+##### total items = 80
+

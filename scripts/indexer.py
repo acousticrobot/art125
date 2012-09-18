@@ -2,7 +2,7 @@
 
 # Name: Image Indexer
 # Author: Jonathan Gabel
-# version: 0.9
+# version: 0.9.1
 # (c) GPL 2012
 # URL: http://jonathangabel.com
 # Image Indexer is a command line utility to deal with artist image repositories.
@@ -384,11 +384,12 @@ def load_file_as_dict(f):
         return
     a = []
     for line in l:
-        line = re.sub(' ','',line)
         line = re.split(r':',line)
         if len(line) != 2:
             cprint(C_R, "Skipping line: {}, Invalid Format for Dictionary".format(line))
         else:
+            for i in range(len(line)):
+                line[i] = line[i].strip()
             a.append(line)
     d = dict(a)
     return d
@@ -784,7 +785,7 @@ def md_index():
     print "Loading Images..."
     images = load_images_as_lists()
     print "Loading Who's Who..."
-    ww = load_file_as_dict('__whos_who.txt')
+    ww = load_file_as_dict('__whos_who.txt')   
     print "Saving File..."
     md = list(('## Image Index\n','\n'))
     
@@ -818,7 +819,7 @@ def md_index():
             md.append('-----\n')
             md.append('*[---back to top---][Artist Names and Images]*\n')
             md.append('#### ' + chr(c))
-            md.append('-----\n')
+            md.append('\n-----\n')
         if quickname != last:
             last = quickname
             md.append(md_name)
@@ -828,9 +829,9 @@ def md_index():
     print "Contverting to HTML..."
     md = CURRDIR + '_index.md'
     html = CURRDIR + '_index.html'
-    pandoc = 'pandoc -f markdown -t html -o {} {}'.format(md, html)
-    d = subprocess.check_output(pandoc, shell=True)
-    print d
+    # pandoc = 'pandoc -f markdown -t html -o {} {}'.format(md, html)
+    # d = subprocess.check_output(pandoc, shell=True)
+    # print d
     # except CalledProcessError: 
     #     cprint(C_R,'Unable to Save html', d)
 

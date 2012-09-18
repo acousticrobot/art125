@@ -38,6 +38,6 @@ The following optional settings may be added after the question and its choices.
   * Record audio, and review.
   * upload to http://jonathangabel.com/documents/art125/ppt/ 
   
-### TODO
+### relative link
 
-next batch, check art125Images.html for float problem
+use $COURSE_PATH$images/
