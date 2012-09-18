@@ -57,7 +57,7 @@ Often a distinction arises between the critical nature of British pop art, and t
 
 Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Textbook Review Questions in the next section.
 
-### Textbook Review Questions (self assess): (ULO 1-3)
+### Textbook Chapter X Review Questions (self assess): (ULO 1-3)
 
 The answer to these questions can be found in chapter X of *Twentieth Century American Art* by Erika Doss.
 
