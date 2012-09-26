@@ -107,8 +107,12 @@ def make_mulch(test_set, bank_set):
     write_to_file(l,file_name,title, mode='a')
     
 def make_exam(bank_set):
-    """Creates a list of exam images to use from the 
+    """Creates a list of exam images to use from the bank set
     
+    Images names are encoded with rot13 and cut to 10 characters. A file is printed
+    with new names for reference, the terminal commands to copy the files into a
+    new directory with the new names, and then the bank set is passed onto make_mulch
+    to create the list of test questions as per usual.
     """
     conversion = []
     bash = []
