@@ -4,7 +4,7 @@
 
 ## Unit Student Learning Objectives
 
-### Unit 6:  XXX_TITLE 
+### Unit 6:  The Postmodern Turn 
 
 At the end of this unit, students will be able to:
 
@@ -14,7 +14,7 @@ At the end of this unit, students will be able to:
 
 ### Artists covered:
 
-Artworks from the first half of the semeseter will be presented for review, and artworks from the second half will be previewed, but no new artists or artworks will be required for memorization.
+Artworks from the first half of the semester will be presented for review, and artworks from the second half will be previewed, but no new artists or artworks will be required for memorization.
 
 ## Unit Student Assessments & Activities
 
@@ -43,7 +43,7 @@ Roland Barthes was one of a group of French philosophers known to us as post-str
 We will read this text, also by Roland Barthes, which examines how we are to read a work of art. He argues that it is the reader of a novel, or the viewer of a painting, who gets to decide what the true meaning in the work is.
 
 
-### Textbook :  Read Chapter 8 Minimalism and Conceptual Art (ULO 1-3). 
+### Textbook :  No textbook this week. 
 
 There is no textbook chapter to read this week. Instead take the time to read "The Death of the Author" and study for the next week's midterm.
 
@@ -52,7 +52,9 @@ There is no textbook chapter to read this week. Instead take the time to read "T
 
 #### Introduction 
 
-*insert intro here... If you are interested, you can find the [full text](http://www.example.com) and more information about the author at [this website](http://www.example.com).*
+Roland Barthes makes a lot of references in this reading to literary works that even I haven't read. Don't get overwhelmed by the references he makes, just try to understand what he is saying about the novels. Barthes is talking about Authors in a way that is focused on writers, but for our class, and postmodernism in general, we can think of "Author" as synonymous with "Artist", and "Text" to mean any "Artwork" including painting, sculpture, a photograph, music, you name it.
+
+If you are interested, you can find the [original tranlation here](http://evans-experientialism.freewebspace.com/barthes06.htm) and [another translation by the same translator here](http://www.tbook.constantvzw.org/wp-content/death_authorbarthes.pdf)(as if just to prove that there is no one author or even one text!)
 
 #### Main Points
 
@@ -86,9 +88,9 @@ Let us come back to the Balzac sentence. No one, no 'person', says it: its sourc
 Please watch the following slideshows:
 
 * [Unit 6-1: Appropriation](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-01.Appropriation.pptx)
-* [Unit 6-2: Appropriation](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-02.SelfReferentiality.pptx)
-* [Unit 6-3: Appropriation](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-03.Semiotics.pptx)
-* [Unit 6-4: Appropriation](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-04.Semiotics2.pptx)
+* [Unit 6-2: Self Referentiality](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-02.SelfReferentiality.pptx)
+* [Unit 6-3: Semiotics](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-03.Semiotics.pptx)
+* [Unit 6-4: Semiotics Part 2](http://jonathangabel.com/documents/art125/ppt/Art125Unit06-04.Semiotics2.pptx)
 
 ### Presentations: Artist Videos (ULO 1-4)
 
@@ -106,22 +108,6 @@ If you haven't seen the movie yet, do what you need to to watch Being John Malko
 
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
-#### Identify names of XXX Artists
-
-Q: Select all the artists who are Abstract Expressionists 
-A. 
-B. 
-C. 
-D. 
-E.
-F.
-G.
-H.
-I.
-J.
-ANSWER: A,B,C,D,E
-POINTS: 5
-TYPE: MS
 
 #### Identify artwork images from the slideshows
 
@@ -189,11 +175,32 @@ Here is another painting by Hans Hoffman.  Describe how he used what he calls th
 
 ### Additional Artists to Study (ULO 1)
     
-*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these are the new artists you saw in the slideshows*
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these are the artworks you saw in the slideshows*
 
-  * artist a
-  * artist b
-  * ...
+* Jeff Koons, Michael Jackson and Bubbles, 1988
+* Robert Colescott, George Washington Carver Crossing the Deleware, 1977
+* Emanuel Gottlieb Leutze, Washington Crossing the Delaware, 1851
+* Betye Saar, Liberation of Aunt Jemima, 1972
+* Fred Wilson, Guarded View, 1991
+* Tom Sachs, Chanel Chain Saw, 1996
+* Vic Muniz, Che Guevara
+* Arturo Herrera, All I Ask, 1999
+* Robert Morris, Box For Standing, 1961
+* Marc Quinn, Self, 1991
+* Marcel Duchamp, Fountain, 1917
+* René Magritte, The Treason of Images, 1928
+* Italo Calvino, If on a Winter’s Night a Traveler, 1979
+* Bruce Nauman, Beside Yourself Behind Yourself, 1989
+* Wendy McMurdo, Helen Backstage Merlin Theatre, 1996 
+* Juan Muñoz, Many imes (Detail), 1999p
+* Yue Minjun, Untitled, 2005
+* Emanuel Gottlieb Leutze, Washington Crossing the Delaware, 1851
+* Faith Ringgold, Flag For the Moon, 1967–69
+* Jasper Johns, Flag, 1954
+* Jasper Johns, White Flag, 1955
+* Hans Haacke, Stargazing, 2005
+* Jean-Marc Bouju, Iraqi Prisoner, 2003
+* images Reuters/AP September 11, 2012 Cairo Egypt
 
 ### Optional links for further self-study (ULO 1-4)
 
