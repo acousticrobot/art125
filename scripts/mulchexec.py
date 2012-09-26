@@ -10,30 +10,30 @@
 # Answers are appended to the md/_multichoice.md file
 
 import os
+import re
 import random
 from filehelper import write_to_file
 CURRDIR = os.getcwd() + '/'
 
-
 unit_2_set = [
-    ("Willem De Kooning","dekooning.50.woman1.jpg"),
-    ("Helen Frankenthaler","frankenthaler.63.canal.jpg"),
-    ("Arshile Gorky","gorky.44.theLiverisTheCocksComb.jpg"), 
-    ("Hans Hofmann","hofmann.62.sanctum.jpg"),
-    ("Morris Louis","louis.59.saraband.jpg"),
-    ("Barnett Newman","newman.48.onement.jpg"),
-    ("Jackson Pollock","pollock.50.autumnRhythm.jpg"),
-    ("Ad Reinhardt","reinhardt.60-66.abstractpainting.jpg"),
-    ("Marc Rothko","rothko.57.orangeandyellow.jpg")
+    ("Willem De Kooning","dekooning.1950.woman1.jpg"),
+    ("Helen Frankenthaler","frankenthaler.1963.canal.jpg"),
+    ("Arshile Gorky","gorky.1944.theLiverIsTheCocksComb.jpg"), 
+    ("Hans Hofmann","hofmann.1962.sanctum.jpg"),
+    ("Morris Louis","louis.1959.saraband.jpg"),
+    ("Barnett Newman","newman.1948.onement.jpg"),
+    ("Jackson Pollock","pollock.1950.autumnRhythm.jpg"),
+    ("Ad Reinhardt","reinhardt.1960-66.abstractPainting.jpg"),
+    ("Marc Rothko","rothko.1957.orangeAndYellow.jpg")
 ]
 
 unit_3_set = [
     ("Jasper Johns","johns.1954.flag.jpg"),
-    ("Richard Hamilton","hamilton.1956.todaysHomes.jpg"),
+    ("Richard Hamilton","hamilton.1956.justWhatIsItEtc.jpg"),
     ("Roy Lichtenstein","lichtenstein.1963.whaam.jpg"), 
     ("Claes Oldenburg","oldenburg.1962.floorCake.jpg"),
     ("Robert Rauschenberg","rauschenberg.55-9.monogram.jpg"),
-    ("James Rosenquist","rosenquist.64-5.f111.detail2.jpg"),
+    ("James Rosenquist","rosenquist.1964-5.f111.detail2.jpg"),
     ("Andy Warhol","warhol.1962.marilynDyptych.jpg"),
     ("Chuck Close","close.1967.bigSelfPortrait.jpg"),
     ("Duane Hanson","hanson.1970.supermarketShopper.jpg")
@@ -105,5 +105,33 @@ def make_mulch(test_set, bank_set):
         l.append("IMAGE: $COURSE_PATH$images/"+ test_set[x][1])
         l.append("\n")
     write_to_file(l,file_name,title, mode='a')
+    
+def make_exam(bank_set):
+    """Creates a list of exam images to use from the 
+    
+    """
+    conversion = []
+    bash = []
+    exam_bank = []
+    for unit in bank_set:
+        for item in unit:
+            r13 = item[1].encode('rot13')
+                # take out dates cut to 10 char max and return to jpg 
+            r13 = re.sub('.wct','',r13)
+            r13 = re.sub(r'\.\d+\-?\d*.\.','',r13)
+            if  len(r13) > 10:
+                r13 = r13[:10]
+            r13 = r13 + '.jpg'
+            conversion.append(item[1] + " --> " + r13)
+            bash.append("cp " + item[1] + " _exam/" + r13)
+            exam_bank.append((item[0],r13))
+    file_name = "../images/_exam_notes.txt"
+    title = "Exam Images Key:"
+    write_to_file(conversion,file_name,title, mode='a')
+    title = "Bash Commands for file rename:"
+    write_to_file(bash,file_name,title, mode='a')
+    make_mulch(exam_bank,[exam_bank])
+    
 
-make_mulch(unit_5_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set])
+# make_mulch(unit_5_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set])
+make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])
