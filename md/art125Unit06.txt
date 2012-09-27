@@ -32,7 +32,7 @@ Self-Referentiality as we break it down today, means "being in the state of refe
 
 **Saussure’s Semiotics:**
 
-Saussure was a Swiss linguist, and he used what we call structuralism to look at how language works. He said elements of language can be called SIGNS. Every SIGN is a combination of two things: the SIGNIFIER (the image or the sound of the word) and the SIGNIFIED (the mental association we have when we read or hear the word). This is interesting to us, because these ideas have been extended to the visual arts, where elements of pictures are seen as signifiers, and to understand the work, we must decode what is signified.
+Ferdinand de Saussure was a Swiss linguist, and he used what we call structuralism to look at how language works. He said elements of language can be called SIGNS. Every SIGN is a combination of two things: the SIGNIFIER (the image or the sound of the word) and the SIGNIFIED (the mental association we have when we read or hear the word). This is interesting to us, because these ideas have been extended to the visual arts, where elements of pictures are seen as signifiers, and to understand the work, we must decode what is signified.
 
 **Barthes’ Myth:**
 
@@ -63,7 +63,8 @@ Before we begin, I want to outline the most important points to look for in this
 * Any artwork can be read as a “Text”.
 * There is no one single “Author” for a “Text”.
 * Instead, any Text is a mixture of quotations from other sources.
-* It is the responsibility of the Reader to decide the real meaning of the Text.
+* The idea of an "Author", someone who creates a work out of this air, is no longer valid.  We must think of artists as "scriptors", assembling artworks out of a collection of appropriated experiences.
+* It is the responsibility of the Reader to decide the real meanings of the Text.
   
 #### "Death of the Author" — translated by Richard Howard
 
@@ -79,7 +80,7 @@ The removal of the Author (one could talk here with Brecht of a veritable 'dista
 
 We know now that a text is not a line of words releasing a single 'theological' meaning (the 'message' of the Author-God) but a multi-dimensional space in which a variety of writings, none of them original, blend and clash. The text is a tissue of quotations drawn from the innumerable centres of culture. Similar to Bouvard and Pecuchet, those eternal copyists, at once sublime and comic and whose profound ridiculousness indicates precisely the truth of writing, the writer can only imitate a gesture that is always anterior, never original. His only power is to mix writings, to counter the ones with the others, in such a way as never to rest on any one of them. Did he wish to express himself, he ought at least to know that the inner 'thing' he thinks to 'translate' is itself only a ready-formed dictionary, its words only explainable through other words, and so on indefinitely; something experienced in exemplary fashion by the young Thomas de Quincey, he who was so good at Greek that in order to translate absolutely modern ideas and images into that dead language, he had, so Baudelaire tells us (in Paradis Artificiels), 'created for himself an unfailing dictionary, vastly more extensive and complex than those resulting from the ordinary patience of purely literary themes'. Succeeding the Author, the scriptor no longer bears within him passions, humours, feelings, impressions, but rather this immense dictionary from which he draws a writing that can know no halt: life never does more than imitate the book, and the book itself is only a tissue of signs imitation that is lost, infinitely deferred.
 
-Once the Author is removed, the claim to decipher a text becomes quite futile. To give a text an Author is to impose a limit on that text, to furnish it with a final signified, to close the writing. Such a conception suits criticism very well, the latter then allotting itself the important task of discovering the Author (or its hypostases: society, history, psyche, liberty) beneath the work: when the Author has been found, the text is 'explained'- victory to the critic. Hence there is no surprise in the fact that, historically, the reign of the Author has also been that of the Critic, nor again in the fact that criticism (be it new) is today undermined, along with the Author. In the multiplicity of writing, everything is to be disentangled, nothing deciphered; the structure can be followed, 'run' (like the thread of a stocking) at every point and at every level, but there is nothing beneath: the space of writing is to be ranged over, not pierced; writing ceaselessly posits meaning ceaselessly to evaporate it, carrying out a systematic exemption of meaning. In precisely this way literature (it would bebetter from now on to say writing), by refusing to assign a 'secret', an ultimate meaning, to the text (and to the world as text), liberates what may be called an anti-theological activity, an activity that is truly revolutionary since to refuse to fix meaning is, in the end, to refuse God and his hypostases-reason, science, law.
+Once the Author is removed, the claim to decipher a text becomes quite futile. To give a text an Author is to impose a limit on that text, to furnish it with a final signified, to close the writing. Such a conception suits criticism very well, the latter then allotting itself the important task of discovering the Author (or its hypostases: society, history, psyche, liberty) beneath the work: when the Author has been found, the text is 'explained'- victory to the critic. Hence there is no surprise in the fact that, historically, the reign of the Author has also been that of the Critic, nor again in the fact that criticism (be it new) is today undermined, along with the Author. In the multiplicity of writing, everything is to be disentangled, nothing deciphered; the structure can be followed, 'run' (like the thread of a stocking) at every point and at every level, but there is nothing beneath: the space of writing is to be ranged over, not pierced; writing ceaselessly posits meaning ceaselessly to evaporate it, carrying out a systematic exemption of meaning. In precisely this way literature (it would be better from now on to say writing), by refusing to assign a 'secret', an ultimate meaning, to the text (and to the world as text), liberates what may be called an anti-theological activity, an activity that is truly revolutionary since to refuse to fix meaning is, in the end, to refuse God and his hypostases-reason, science, law.
 
 Let us come back to the Balzac sentence. No one, no 'person', says it: its source, its voice, is not the true place of the writing, which is reading. Another-very precise- example will help to make this clear: recent research (J.-P. Vernant) has demonstrated the constitutively ambiguous nature of Greek tragedy, its texts being woven from words with double meanings that each character understands unilaterally (this perpetual misunderstanding is exactly the 'tragic'); there is, however, someone who understands each word in its duplicity and who, in addition, hears the very deafness of the characters speaking in front of him-this someone being precisely the reader (or here, the listener). Thus is revealed the total existence of writing: a text is made of multiple writings, drawn from many cultures and entering into mutual relations of dialogue, parody, contestation, but there is one place where this multiplicity is focused and that place is the reader, not, as was hitherto said, the author. The reader is the space on which all the quotations that make up a writing are inscribed without any of them being lost; a text's unity lies not in its origin but in its destination. Yet this destination cannot any longer be personal: the reader is without history, biography, psychology; he is simply that someone who holds together in a single field all the traces by which the written text is constituted. Which is why it is derisory to condemn the new writing in the name of a humanism hypocritically turned champion of the reader's rights. Classic criticism has never paid any attention to the reader; for it, the writer is the only person in literature. We are now beginning to let ourselves be fooled no longer by the arrogant antiphrastical recriminations of good society in favour of the very thing it sets aside, ignores, smothers, or destroys; we know that to give writing its future, it is necessary to overthrow the myth: the birth of the reader must be at the cost of the death of the Author.
 
@@ -119,51 +120,71 @@ If you haven't seen the movie yet, do what you need to to watch Being John Malko
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
 
-#### Identify artwork images from the slideshows
-
-run mulchexec.py
-
-Q: This is an artwork by:
-ANSWER:
-A:
-B:
-C:
-D: 
-POINTS: 5
-TYPE: MC
-IMAGE: http://jonathangabel.com/images/art125/
-
 #### Multiple Choice Definitions
 
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
+Q:What is Appropriation?
+A.Appropriation is the act of taking something that already exists out in the world and reusing it in a way that creates new meaning.
+B.Appropriation is the study of signs.
+C.Appropriation is being aware of and referring to the self.
+D.Appropriation is the use of satire. 
+ANSWER: A
 POINTS: 5
-TYPE: MS
+TYPE: MC
 
-Q: 
-A. 
-B. 
-C. 
+Q:What does Self-Referentiality mean?
+A.Self-Referentiality is being aware of and referring to oneself.
+B.Self-Referentiality is the study of signs.
+C.Self-Referentiality is when the signifier refers back to the sign.
+D.Self-Referentiality is the study of the Myth of the self.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:What is Semiotics?
+A.Semiotics is the study of signs. 
+B.Semiotics is the study of Myth.
+C.Semiotics is the study of self-referentiality.
+D.Semiotics is the study of the Author.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:What does Saussure say about signs?
+A.He says all language is made up of signs, each of which has both a signifier and a signified.
+B.He says Myths are made out of the signs, which in tern signify a cultural belief. 
+C.He says signs are how self-referentiality refers back to the self.
+D.He says signs act as the signifier to the signified.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:What does Roland Barthes say about signs?
+A.He says Myths are made out of the signs, which in tern signify a cultural belief.
+B.He says all language is made up of signs, each of which has both a signifier and a signified. 
+C.He says signs 
 D. 
 ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q:
-ANSWER: 
+Q:What does Barthes say about the Death of the Author?
+A.It is the reader of a work of art who determines its meaning, not the author.
+B.It is the birth of the scriptor that requires the death of the author.
+C.With the death of God, the Author must also die.
+D.The Author must bring the signifier together with the signified.
+ANSWER: A
 POINTS: 5
-TYPE: FB
+TYPE: MC
 
-Q:
-ANSWER: 
+Q:What metaphors does Barthes use for the idea of author and of scriptor?
+A.The Author gives birth to a book, the scriptor assembles it out of cultural quotations.
+B.It is the birth of the scriptor that requires the death of the author.
+C.The Author like a Greek Philosopher, the scriptor is like God.  
+D.The Author assembles the book, the scriptor determines it's meaning.
+ANSWER: A
 POINTS: 5
-TYPE: SA
+TYPE: MC
 
-<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
 ### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
@@ -177,7 +198,10 @@ Please make sure you meet the **due dates** for these posts.
   
 #### Essay Question:
 
-Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vLC4xqPUkLs" frameborder="0" allowfullscreen></iframe>
+
+[The Intersection of Homophobia and Hip Hop](http://www.huffingtonpost.com/brother-ali/hip-hop-homophobia-_b_1864676.html)
+
 
 ### Voice Thread Question
 
