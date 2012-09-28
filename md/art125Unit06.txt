@@ -161,8 +161,8 @@ TYPE: MC
 Q:What does Roland Barthes say about signs?
 A.He says Myths are made out of the signs, which in tern signify a cultural belief.
 B.He says all language is made up of signs, each of which has both a signifier and a signified. 
-C.He says signs 
-D. 
+C.He says the signified is a combination of the signifier and the sign.
+D.He said we navigate the world through the context of signs.
 ANSWER: A
 POINTS: 5
 TYPE: MC
@@ -198,14 +198,37 @@ Please make sure you meet the **due dates** for these posts.
   
 #### Essay Question:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/vLC4xqPUkLs" frameborder="0" allowfullscreen></iframe>
+
+Examine the material related to the following two albums:
+
+## Brother Ali: Mourning in America and Dreaming in Color, released 9/18/12 
+
+Album Cover:
+
+![Mourning in America](jonathangabel.com/images/art125/ali.2012.MourninInAmericaAndDreamingInColor.jpg)
+
+Article written by Brother Ali:
 
 [The Intersection of Homophobia and Hip Hop](http://www.huffingtonpost.com/brother-ali/hip-hop-homophobia-_b_1864676.html)
 
+streaming album:
 
-### Voice Thread Question
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vLC4xqPUkLs" frameborder="0" allowfullscreen></iframe>
 
-Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
+## Lupe Fiasco: Food & Liquor II: the Great American Rap Album Part 1, relaseed 9/25/12
+
+Cover from single (album cover is all black):
+
+![Food & Liquor II](jonathangabel.com/images/art125/Fiasco.2012.aroundMyWayFreedomAintFree.jpg)
+
+Watch this interview with [Lupe Fiasco on The Colbert Report](http://www.hiphopdx.com/index/news/id.15062/title.lupe-fiasco-clarifies-his-political-views-on-the-colbert-report)
+
+
+Apply principals from this weeks lesson to one or both of these albums:
+
+"Strange Fruition" -- the rest of the album is also [available on youtube](http://www.youtube.com/results?search_query=lupe+fiasco+food+liquor+2)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/a-goPCAwt_k?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 ### Additional Artists to Study (ULO 1)
     
