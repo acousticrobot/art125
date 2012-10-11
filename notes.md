@@ -41,3 +41,4 @@ The following optional settings may be added after the question and its choices.
 ### relative link
 
 use $COURSE_PATH$images/
+midterm $COURSE_PATH$midtermimages/

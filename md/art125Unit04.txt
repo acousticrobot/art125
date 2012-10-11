@@ -391,7 +391,7 @@ POINTS: 5
 TYPE: MC
 
 Q: What parallels can be drawn between Jackson Pollock and Richard Serra?
-A. The gestures in Serras thrown lead piece are similar to Pollocks gestures with dripped paint.
+A. The gestures in Serra's thrown lead piece are similar to Pollocks gestures with dripped paint.
 B. Both of them grew up in the west, and are interested in the vast horizontal landscape.
 C. Both Pollock and Serra are interested in removing content from their artwork.
 D. Both artists started by making murals during the depression.
