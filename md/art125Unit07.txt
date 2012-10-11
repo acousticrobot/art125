@@ -1,6 +1,259 @@
+# Unit X:  Pluralism
+  
+### Stylistic Diversity and the art of the 80's
+
+## Unit Student Learning Objectives
+
+### Unit X:  XXX_TITLE (one week)
+
+At the end of this unit, students will be able to:
+
+<!-- example -->
+
+  1. Identify artists and describe qualities associated with 80s and 90s artwork (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  3. Question the theory and philosophy behind the movement, with emphasis on big business and public funding. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
+
+<!-- example -->
+
+### Artists covered:
+
+<!-- example -->
+
+ *  Jenny Holzer
+ *  ...
+
+<!-- example -->
+
+## Unit Student Assessments & Activities
+
+### Introduction (ULO 3-4)
+
+
+
+### Textbook :  Read Chapter 8 Minimalism and Conceptual Art (ULO 1-3). 
+
+Please read Chapter 10 in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Textbook Review Questions in the next section.
+
+### Textbook Chapter X Review Questions (self assess): (ULO 1-3)
+
+The answer to these questions can be found in chapter X of *Twentieth Century American Art* by Erika Doss.
+
+
+Answer these questions as best as you can after reading this weeks chapter in Twentieth Century American Art.  You can try the quiz multiple times.  You will be graded on the completing the quiz but you are allowed to make mistakes and correct your answers.  Use this as an opportunity to test your comprehension of the material and see what you missed, and as preparation for the midterm and final.
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: FB
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: SA
+
+<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
+
+
+### **Readings**: (ULO 3, 4) 
+### Author "Title"
+
+#### Introduction 
+
+*insert intro here... If you are interested, you can find the [full text](http://www.example.com) and more information about the author at [this website](http://www.example.com).*
+
+#### Main Points
+
+Before we begin, I want to outline the most important points to look for in this article:
+
+  1. ...
+  2. ...
+  
+#### "Title of Article"
+
+.....
+.....
+  
+### Presentation: Artist Slideshows (ULO 1-4)
+
+Please watch the following slideshows:
+
+<!-- copy from index.txt -->
+
+### Presentations: Artist Videos (ULO 1-4)
+
+#### Beginnings of Pop Art:
+
+Please watch the following videos:
+
+<!-- iframe -->
+    
+### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
+
+#### Identify names of XXX Artists
+
+Q: Select all the artists who are Abstract Expressionists 
+A. 
+B. 
+C. 
+D. 
+E.
+F.
+G.
+H.
+I.
+J.
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
+
+#### Identify artwork images from the slideshows
+
+run mulchexec.py
+
+Q: This is an artwork by:
+ANSWER:
+A:
+B:
+C:
+D: 
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/
+
+#### Multiple Choice Definitions
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: FB
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: SA
+
+<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
+
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
+
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+
+**First**, you will start a thread by answering the Essay question below. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the **due dates** for these posts.
+  
+#### Essay Question:
+
+Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+
+### Voice Thread Question
+
+Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
+
+### Additional Artists to Study (ULO 1)
+    
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
+
+  * artist a
+  * artist b
+  * ...
+
+### Optional links for further self-study (ULO 1-4)
+
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
+
+  * link a to [site a](http://example.com)
+  * link b to [site b](http://example.com)
+  * ...
+  
 <!--@H [Back to Index](art125Outline) H@-->
+<!--@H [previous page](art125Unit01) H@-->
+<!--@H [next page](art125Unit01) H@--><!--@H [Back to Index](art125Outline) H@-->
 <!--@H [previous page](art125Unit06) H@-->
 <!--@H [next page](art125Unit08) H@-->
+
+
+## paper
+
+You will need to choose and Artist for your research paper. The paper should be 2000 words – (approximately 5 pages in length at 1.5 spacing at 12pt type). Pick an artist whose career starts somewhere between 1970 and 2000--that is an established but contemporary artist. Make sure there are enough sources out there for you to research this artist.<!--more-->
+
+If there is a Wikipedia page for the artist, it is a good indication that there is enough source material out there for you. Look to the external links section of the Wikipedia entry for a list of biographical resources to use.
+
+Below is a short list of interviews with important artists, and artist lists from a few galleries. I may continue to add to this in the future.
+
+###Lists of Artists to Consider:
+
+#### Interviews and blogs about artists:
+
+  * [PBS Art21 series](http://www.pbs.org/art21/artists/index.html)
+  * [Robert Ayer's "A Sky Filled with Shooting Stars" Artist interview blog.](http://www.askyfilledwithshootingstars.com/wordpress/)
+
+#### Lists of artists at the following galleries:
+
+  * [Gagosian Gallery](http://www.gladstonegallery.com/artists.asp)
+  * [Barbara Gladstone Gallery](http://www.gladstonegallery.com/)
+  * [Matthew Marks Gallery](http://www.matthewmarks.com/artists/ )
+  * [Cheim and Read](http://www.cheimread.com/artists/)
+  * [Sikkema Jenkins](http://www.sikkemajenkinsco.com/artists.html)
+  * [303 Gallery](http://www.303gallery.com/artists/)
+  * [Feature Inc.](http://www.featureinc.com/artists2.html)
+  * [Deitch Projects](http://www.deitch.com/artists/index.php)
+  * [David Zwirner](http://www.davidzwirner.com/artists)
+  * [Luhring Augustine](http://www.luhringaugustine.com/artists/)
+
+
+## reading:
+pp 203-225
+
+* Explain the relationship between Politics, Corporations, and The Arts in the 1980s:
+
+* Define Neo-Expressionism
+
+* Define Appropriation
+
+* Explain the 1980’s backlash against Feminism
+
+* Explain why in the 1980s the NEA was a favorite target of conservatives
+
 
 * Jenny Holzer
 
