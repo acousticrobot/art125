@@ -63,6 +63,14 @@ unit_5_set = [
 ("Kerry James Marshall","marshall.1992.couldThisBeLove.jpg")
 ]
 
+unit_7_set = [
+("Jenny Holzer","holzer.1986.timesSquareTruisms.77-9.jpg"),
+("Jeff Koons","koons.1988.michaelJacksonAndBubbles.jpg"),
+("Jean Michel Basquiat","basquiat.1981.untitled.jpg"),
+("Barbara Kruger","kruger.1987.shop.jpg"),
+("Cindy Sherman","sherman.1982.sundress.jpg")
+
+]
 def load_bank(unit_sets):
     """Creates a list of artists from unit lists of artists/image tuples
 
@@ -137,5 +145,5 @@ def make_exam(bank_set):
     make_mulch(exam_bank,[exam_bank])
     
 
-# make_mulch(unit_5_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set])
-make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])
+make_mulch(unit_7_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set,unit_7_set])
+#make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])

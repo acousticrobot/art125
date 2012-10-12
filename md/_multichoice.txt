@@ -1,0 +1,124 @@
+# Multiple Choice
+##### Generated: 2012-10-12 17:07:06.779182
+
+Q: This Artwork is by:
+A.Jenny Holzer
+B.Roy Lichtenstein
+C.Kerry James Marshall
+D.Michael Ray Charles
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/holzer.1986.timesSquareTruisms.77-9.jpg
+
+
+Q: This Artwork is by:
+A.Jeff Koons
+B.Frank Stella
+C.Willem De Kooning
+D.Duane Hanson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/koons.1988.michaelJacksonAndBubbles.jpg
+
+
+Q: This Artwork is by:
+A.Jean Michel Basquiat
+B.James Turrell
+C.Frank Stella
+D.Cindy Sherman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/basquiat.1981.untitled.jpg
+
+
+Q: This Artwork is by:
+A.Barbara Kruger
+B.Duane Hanson
+C.Carrie Mae Weems
+D.Claes Oldenburg
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/kruger.1987.shop.jpg
+
+
+Q: This Artwork is by:
+A.Cindy Sherman
+B.Roy Lichtenstein
+C.Robert Rauschenberg
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/sherman.1982.sundress.jpg
+
+
+
+##### end generated log
+##### total items = 50
+
+# Multiple Choice
+##### Generated: 2012-10-12 17:08:07.413581
+
+Q: This Artwork is by:
+A.Jenny Holzer
+B.Hans Hofmann
+C.Jasper Johns
+D.Richard Serra
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/holzer.1986.timesSquareTruisms.77-9.jpg
+
+
+Q: This Artwork is by:
+A.Jeff Koons
+B.Helen Frankenthaler
+C.Carolee Schneemann
+D.Andy Warhol
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/koons.1988.michaelJacksonAndBubbles.jpg
+
+
+Q: This Artwork is by:
+A.Jean Michel Basquiat
+B.Michael Ray Charles
+C.David Smith
+D.Kara Walker
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/basquiat.1981.untitled.jpg
+
+
+Q: This Artwork is by:
+A.Barbara Kruger
+B.Kerry James Marshall
+C.Jeff Koons
+D.Jenny Holzer
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/kruger.1987.shop.jpg
+
+
+Q: This Artwork is by:
+A.Cindy Sherman
+B.Helen Frankenthaler
+C.James Turrell
+D.Jenny Holzer
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/sherman.1982.sundress.jpg
+
+
+
+##### end generated log
+##### total items = 50
+
