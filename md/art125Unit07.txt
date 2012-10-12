@@ -43,69 +43,59 @@ The answer to these questions can be found in chapter X of *Twentieth Century Am
 Answer these questions as best as you can after reading this weeks chapter in Twentieth Century American Art.  You can try the quiz multiple times.  You will be graded on the completing the quiz but you are allowed to make mistakes and correct your answers.  Use this as an opportunity to test your comprehension of the material and see what you missed, and as preparation for the midterm and final.
 
 Q: How were the political events of the 1980s good for the Arts?
-A. 
-B. 
-C. 
-D. 
+A. An economic boom and a focus on materialism also created record sales in the art world.
+B. A strong focus on equality meant unparalleled focus on minority and feminist artists.
+C. Reagan's cinematic background brought about his interest in supporting all of the arts.
+D. A new level of attention to detail and craftsmanship made for some of the best quality paintings in decades.
 ANSWER: A
 POINTS: 5
 TYPE: MC
 
 Q: How were the political events of the 1980s bad for the Arts?
-A. 
-B. 
-C. 
-D. 
+A. Neo-conservative attacks on cultural institutions put a stop to the funding of more critical artworks.
+B. Another decade dominated by feminist and race related artworks made for a lack of artistic innovation.
+C. The general public favored new technology, such as video games, over going to the museums.
+D. At a time when artists could have fused the diversity of previous styles together into a new movement, they returned to traditional forms of abstraction.
 ANSWER: A
 POINTS: 5
 TYPE: MC
 
-Q: Big business like Marlboro support the arts with large amounts of money, why do some artists have a problem with this?
-A. 
-B. 
-C. 
-D. 
+Q: Big business (like Marlboro) support the arts with large amounts of money, why do some artists have a problem with this?
+A. They feel art should be able to look critically at society, making artists beholden to corporations for money inhibits freedom of expression.
+B. Artists who had a problem with this were the ones not able to get money for public art.
+C. They believed the true test of an artworks worth was determined by what it sold for in a commercial gallery.
+D. Their hatred of big tobacco was even larger than their desire for money.
 ANSWER: A
 POINTS: 5
 TYPE: MC
 
 Q: Which of the following does NOT describe Neo-Expressionism?
-A. 
-B. 
-C. 
-D. 
+A. A movement that grew slowly from artists interested in quality and the lost techniques of classical painting.
+B. A term that loosely holds together international young artists reinvigorating painting at a time when conceptual artwork was dominant.
+C. A painting style that blatantly appropriated from other painting styles, from German Expressionism to graffiti.
+D. A group of young artists in the 80's known for big egos and uncritical splashy paintings.
 ANSWER: A
 POINTS: 5
 TYPE: MC
 
-* Define 
-
-* Define Appropriation
-
-* Explain the 1980’s backlash against Feminism
-
-* Explain why in the 1980s the NEA was a favorite target of conservatives
-
-
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
+Q: Explain the 1980’s backlash against Feminism
+A. Family-values oriented politics led to a conflict with those who continued to seek greater equality and rights for women.  
+B. Femi-Nazis began herding men into concentration camps, the public had had enough.
+C. The stifling puritanical values of the 60's and 70's were replaced with a rampant reinvestigation of sexuality.
+D. The abundance of spandex-wearing rock bands and men with perms meant there was no longer a need for Feminism.
+ANSWER: A
 POINTS: 5
-TYPE: MS
+TYPE: MC
 
-
-Q:
-ANSWER: 
+Q: Explain why in the 1980s the National Endowment for the Arts (NEA) was a favorite target of conservatives 
+A. Public funding for artwork that was anything out of the "Norman Rockwell" experience was seen as promoting perverse lifestyles and wasting taxpayer money.
+B. The NEA funds public programs such as PBS and Sesame Street, and conservatives have long hated Big Bird. 
+C. The endowment favored small art shows over big art events that could bring publicity to America.
+D. Reagan's "trickle down theory" proved without a doubt that the best way to bring money to the arts and the poor was through tax breaks to the rich.
+ANSWER: A
 POINTS: 5
-TYPE: FB
+TYPE: MC
 
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: SA
 
 <!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
