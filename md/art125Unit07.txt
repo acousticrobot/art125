@@ -8,13 +8,9 @@
 
 At the end of this unit, students will be able to:
 
-<!-- example -->
-
-  1. Identify artists and describe qualities associated with 80s and 90s artwork (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  1. Identify artists and describe qualities associated with 80s artwork (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
   2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
   3. Begin the process of writing a research paper by finding an appropriate artists for the subject (Course Goals: 3, 4, GE: 1,3,7, core skills: A,B,D,E)
-
-<!-- example -->
 
 ### Artists covered:
 
@@ -35,9 +31,9 @@ This means we need to start searching for material that covers even more contemp
 First, the big assignments: 
 Before the end of the semester, you will have to write a research paper, and make a trip to see see artwork in a gallery or museum.  The week of unit 9 (November 4th through the 11th) you will be given a lighter course load to give you some time to run out at some real art.  If this is going to be tough for you that week, then you may need to get out there sooner.
 
-Besides reading chapter 10, we are starting the research paper this week.  I am giving you a sample paper to read, and more details on what is expected.  In the discussion forum this week, you will introduce the artist you are going to write your paper on to the rest of the class.  This means a lot of the work this week is on your own initiative.  I have pulled a couple of the artists out of the chapter for you to know, but we don't spend any time outside of the text on them.
+Besides reading chapter 10, we are starting the research paper this week (Due November 21st).  I am giving you a sample paper to read, and more details on what is expected.  In the discussion forum this week, you will introduce the artist you are going to write your paper on to the rest of the class.  This means a lot of the work this week is on your own initiative.  I have pulled a couple of the artists out of the chapter for you to know, but we don't spend any time outside of the text on them.
 
-### Textbook :  Read Chapter 10 Minimalism and Conceptual Art (ULO 1-3). 
+### Textbook :  Read Chapter 10 Culture Wars: The 80's (ULO 1-3). 
 
 Please read Chapter 10 in *Twentieth Century American Art* by Erika Doss, pages 203-225. Then test your understanding by answering the Textbook Review Questions in the next section.
 
@@ -236,7 +232,7 @@ IMAGE: $COURSE_PATH$images/sherman.1982.sundress.jpg
 
 ### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
-Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+Now that you have found an artist to do your research paper on, here is your chance to organize what you've learned into a small introduction. 
 
 **First**, you will start a thread by answering the Essay question below. 
 
