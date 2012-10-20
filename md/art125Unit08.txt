@@ -1,7 +1,227 @@
-<!--@H [Back to Index](art125Outline) H@-->
-<!--@H [previous page](art125Unit07) H@-->
-<!--@H [next page](art125Unit09) H@-->
+# Unit X:  Globalism
+  
+### Non-Western Contemporary Art
 
+## Unit Student Learning Objectives
+
+### Unit X:  Globalism (one week)
+
+At the end of this unit, students will be able to:
+
+  1. Identify artists and describe qualities associated with the Non-Western Artworld (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  3. Question the cultures behind the movement, with emphasis on multiculturalism. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
+
+### Artists covered:
+
+ *  Helen Frankenthaler
+ *  Willem De Kooning
+ *  Morris Louis
+ *  Barnett Newman
+ *  Jackson Pollock
+ *  Ad Reinhardt
+ *  Marc Rothko
+
+## Unit Student Assessments & Activities
+
+### Introduction (ULO 3-4)
+
+<!-- example -->
+
+<div style="float:left;margin:20px" class="figure"><img alt="Venus of Willendorf, 20,000 bce" title="Venus of Willendorf" src="$COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg" />
+<p class="caption">Venus of Willendorf, 20,000 bce</p>
+</div>
+
+The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* and that's where we start our class today. We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
+
+
+So, what was it that makes these artists so different, so appealing? With a little background into the **Black Mountain College**, **happenings**, and the work of **John Cage**, a musician and composer who used chance to structure musical compositions.  His piece *4'33"* is a performance where a pianist sits at a piano for four minutes and forty three seconds without playing anything.  The background noise in the auditorium during that time is what he considers the music of the piece.  By examining such works, pop artists began to bring ideas such as **chance** and **performance** into the visual arts.
+
+Now that you know a little about **Greenberg** and his drive to push every artistic medium back to is own roots, you can imagine that performance opened up possibilities for artists such as Rauschenberg and Johns. Possibilities which fit outside of the formalist, non-representational work that was receiving most of the attention. Contrary to Greenberg’s wish for each medium to be isolated, we see pieces with representation and narrative, paintings which are also sculptures, sculptures which also serve as backdrops for performance.
+
+Often a distinction arises between the critical nature of British pop art, and the American Pop Art's unapologetic embrace of consumer culture. But let’s not be too broad in this generalization, as the underlying unease we see in the Abstract Expressionists also shows up in pieces like the giant *F-111* by **James Rosenquist**, which features a young child blissfully having her hair done at a beauty salon, while a nuclear mushroom cloud erupts in the background. Or **Andy Warhol**’s pieces from the Birmingham Race riots and the car accidents from his disaster series.
+
+[hamilton001]: ../images/hamilton.1956.JustWhatSoAppealing.jpg "The Hero"
+
+<!-- END example -->
+
+### Textbook :  Read Chapter 8 Minimalism and Conceptual Art (ULO 1-3). 
+
+Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Textbook Review Questions in the next section.
+
+### Textbook Chapter X Review Questions (self assess): (ULO 1-3)
+
+The answer to these questions can be found in chapter X of *Twentieth Century American Art* by Erika Doss.
+
+
+Answer these questions as best as you can after reading this weeks chapter in Twentieth Century American Art.  You can try the quiz multiple times.  You will be graded on the completing the quiz but you are allowed to make mistakes and correct your answers.  Use this as an opportunity to test your comprehension of the material and see what you missed, and as preparation for the midterm and final.
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: FB
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: SA
+
+<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
+
+
+### **Readings**: (ULO 3, 4) 
+### Author "Title"
+
+#### Introduction 
+
+*insert intro here... If you are interested, you can find the [full text](http://www.example.com) and more information about the author at [this website](http://www.example.com).*
+
+#### Main Points
+
+Before we begin, I want to outline the most important points to look for in this article:
+
+  1. ...
+  2. ...
+  
+#### "Title of Article"
+
+.....
+.....
+  
+### Presentation: Artist Slideshows (ULO 1-4)
+
+Please watch the following slideshows:
+
+<!-- copy from index.txt -->
+
+### Presentations: Artist Videos (ULO 1-4)
+
+#### Beginnings of Pop Art:
+
+Please watch the following videos:
+
+<!-- iframe -->
+    
+### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
+
+#### Identify names of XXX Artists
+
+Q: Select all the artists who are Abstract Expressionists 
+A. 
+B. 
+C. 
+D. 
+E.
+F.
+G.
+H.
+I.
+J.
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
+
+#### Identify artwork images from the slideshows
+
+run mulchexec.py
+
+Q: This is an artwork by:
+ANSWER:
+A:
+B:
+C:
+D: 
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/
+
+#### Multiple Choice Definitions
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: FB
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: SA
+
+<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
+
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
+
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+
+**First**, you will start a thread by answering the Essay question below. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the **due dates** for these posts.
+  
+#### Essay Question:
+
+Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+
+### Voice Thread Question
+
+Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
+
+### Additional Artists to Study (ULO 1)
+    
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
+
+  * artist a
+  * artist b
+  * ...
+
+### Optional links for further self-study (ULO 1-4)
+
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
+
+  * link a to [site a](http://example.com)
+  * link b to [site b](http://example.com)
+  * ...
+  
+<!--@H [Back to Index](art125Outline) H@-->
+<!--@H [previous page](art125Unit01) H@-->
+<!--@H [next page](art125Unit01) H@-->
 
 
 In this class we back up to the beginning of the course, and start again in Europe. After the Second World War, our attention turned to the American Art scene, but the artistic traditions of Europe continued to evolve as well. Sometimes this paralleled the work we’ve seen so far, and sometimes it followed it’s own trajectory.<!--more--> This class is only a quick survey of European art from the 1950s to the present, but we also manage to cover quite a few movements that spring up during this time.
@@ -29,7 +249,47 @@ In England in the 1990s, we also see a group of artists become collectively know
 
 ### Recognize artwork by the following artists:
 
+  * Shadi Ghadirian
+  * Tala Madani
+  * Mona Hatoum
+  * Anish Kapoor
+  * Ai WeiWei
+  * Cai Guo-Qiang
+  * Yue Minjun
+  * Xu Bing
+  * El Anatsui
+  * Ernesto Neto
+  * Arturo Herrera
+  * Gabriel Orozco
 
+### Middle East
+
+  * Komar and Melamid
+  * Ramin Haerizade
+  * Halim Al-Karim
+  * Ahmed Alsoudani
+  * Hayv Kahraman
+  * Marwan Rechmaoui
+  * Wafa Hourani
+  * Jeffar Khaldi
+  * Adi Nes
+
+### China
+
+  * Tehching Hsieh
+  * Lee Bul
+
+### Africa
+
+  * William Kentridge
+  * Jane Alexander
+
+### South America
+
+  * Rirkrit Tiravanija
+  * Jason deCaeirs Taylor
+
+### Europe
   * Giovanni Anselmo
   * Aligiero e Boetti
   * Mario Merz,
@@ -51,12 +311,7 @@ In England in the 1990s, we also see a group of artists become collectively know
   * Anette Messager
   * Antoni Tàpies
   * Juan Muñoz
-  * Damien Hirst
-  * Marc Quinn
-  * Gillian Wearing
-  * Rachel Whiteread
-  * Jake and Dinos Chapman
-  * David Cerny
+
 
 ### External Links for further reading:
 
@@ -72,34 +327,6 @@ In England in the 1990s, we also see a group of artists become collectively know
 	###Recognize artwork by the following artists:
 
 
-	  * Komar and Melamid
-	  * Shadi Ghadirian
-	  * Ramin Haerizade
-	  * Tala Madani
-	  * Halim Al-Karim
-	  * Ahmed Alsoudani
-	  * Hayv Kahraman
-	  * Mona Hatoum
-	  * Marwan Rechmaoui
-	  * Wafa Hourani
-	  * Jeffar Khaldi
-	  * Adi Nes
-	  * Anish Kapoor
-	  * Tehching Hsieh
-	  * Xu Bing
-	  * Ai WeiWei
-	  * Cai Guo-Qiang
-	  * Yue Minjun
-	  * Lee Bul
-	  * William Kentridge
-	  * Jane Alexander#
-	  * El Anatsui
-	  * Felix González-Torres
-	  * Rirkrit Tiravanija
-	  * Ernesto Neto
-	  * Arturo Herrera
-	  * Jason deCaeirs Taylor
-	  * Gabriel Orozco
 
 	###External Links for further reading:
 
@@ -205,6 +432,8 @@ CHINA
   * Huang Yong Ping, (b. 1954 Xiamen, lives Paris)
   * Cai Guo-Qiang 蔡国强 (b. 1957, Quanzhou City, Fujian Province)
   * Yue Minjun 岳敏君 (b.1962, Heilongjiang Province, lives Beijing)
+  * Xu Bing 徐冰 (b.1955)
+  * Ai WeiWei 艾未未
 
 KOREA
   * Lee Bul (b. 1964)
