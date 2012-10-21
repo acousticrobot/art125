@@ -14,127 +14,75 @@ At the end of this unit, students will be able to:
 
 ### Artists covered:
 
- *  Helen Frankenthaler
- *  Willem De Kooning
- *  Morris Louis
- *  Barnett Newman
- *  Jackson Pollock
- *  Ad Reinhardt
- *  Marc Rothko
+* Shadi Ghadirian
+* Tala Madani
+* Mona Hatoum
+* Anish Kapoor
+* Ai WeiWei
+* Cai Guo-Qiang
+* Yue Minjun
+* Xu Bing
+* El Anatsui
+* Ernesto Neto
+* Arturo Herrera
+* Gabriel Orozco
 
 ## Unit Student Assessments & Activities
 
 ### Introduction (ULO 3-4)
 
-<!-- example -->
+In the 1990s the contemporary art scene became much less provincial, and started to look beyond American shores for good contemporary art. This not only included Europe, but the entire rest of the world. We don’t have time to go back and see what was going on everywhere for the last sixty years, but we can do a survey of contemporary artists from the other continents. 
 
-<div style="float:left;margin:20px" class="figure"><img alt="Venus of Willendorf, 20,000 bce" title="Venus of Willendorf" src="$COURSE_PATH$images/prehistory.20000bce.venusVonWillendorf.jpg" />
-<p class="caption">Venus of Willendorf, 20,000 bce</p>
-</div>
+We will put our text book away for a week, and do some research directly on the internet.  I have chosen 12 artists for you to learn about, and have found some of the more fruitful links available on the web.  In the additional artists section, I have included many more artists for you to discover.  There are more that I could ask you to study in a week there, but please use your own initiative to further research the 12 we focus on, or other artists from a continent that particularly interests you.  
 
-The beginning of Pop Art as an artistic movement is often pegged to the British artist **Richard Hamilton**’s 1956 collage *Just What Is It that Makes Today’s Home’s So Different, So Appealing?* and that's where we start our class today. We also look at our local fathers of Pop, **Jasper Johns** and **Robert Rauschenberg**. Both of these artists, whose careers began in New York in the 1950s, show us a style of work that breaks with many of the basic premises of Abstract Expressionism. Yet they also exhibit a quality of painterly expression, which shows they were paying attention to lessons learned in recent abstract painting. 
-
-
-So, what was it that makes these artists so different, so appealing? With a little background into the **Black Mountain College**, **happenings**, and the work of **John Cage**, a musician and composer who used chance to structure musical compositions.  His piece *4'33"* is a performance where a pianist sits at a piano for four minutes and forty three seconds without playing anything.  The background noise in the auditorium during that time is what he considers the music of the piece.  By examining such works, pop artists began to bring ideas such as **chance** and **performance** into the visual arts.
-
-Now that you know a little about **Greenberg** and his drive to push every artistic medium back to is own roots, you can imagine that performance opened up possibilities for artists such as Rauschenberg and Johns. Possibilities which fit outside of the formalist, non-representational work that was receiving most of the attention. Contrary to Greenberg’s wish for each medium to be isolated, we see pieces with representation and narrative, paintings which are also sculptures, sculptures which also serve as backdrops for performance.
-
-Often a distinction arises between the critical nature of British pop art, and the American Pop Art's unapologetic embrace of consumer culture. But let’s not be too broad in this generalization, as the underlying unease we see in the Abstract Expressionists also shows up in pieces like the giant *F-111* by **James Rosenquist**, which features a young child blissfully having her hair done at a beauty salon, while a nuclear mushroom cloud erupts in the background. Or **Andy Warhol**’s pieces from the Birmingham Race riots and the car accidents from his disaster series.
-
-[hamilton001]: ../images/hamilton.1956.JustWhatSoAppealing.jpg "The Hero"
-
-<!-- END example -->
-
-### Textbook :  Read Chapter 8 Minimalism and Conceptual Art (ULO 1-3). 
-
-Please read Chapter X in *Twentieth Century American Art* by Erika Doss, pages XXX-XXX. Then test your understanding by answering the Textbook Review Questions in the next section.
-
-### Textbook Chapter X Review Questions (self assess): (ULO 1-3)
-
-The answer to these questions can be found in chapter X of *Twentieth Century American Art* by Erika Doss.
-
-
-Answer these questions as best as you can after reading this weeks chapter in Twentieth Century American Art.  You can try the quiz multiple times.  You will be graded on the completing the quiz but you are allowed to make mistakes and correct your answers.  Use this as an opportunity to test your comprehension of the material and see what you missed, and as preparation for the midterm and final.
-
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
-POINTS: 5
-TYPE: MS
-
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A
-POINTS: 5
-TYPE: MC
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: FB
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: SA
-
-<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
-
-
-### **Readings**: (ULO 3, 4) 
-### Author "Title"
-
-#### Introduction 
-
-*insert intro here... If you are interested, you can find the [full text](http://www.example.com) and more information about the author at [this website](http://www.example.com).*
-
-#### Main Points
-
-Before we begin, I want to outline the most important points to look for in this article:
-
-  1. ...
-  2. ...
-  
-#### "Title of Article"
-
-.....
-.....
-  
-### Presentation: Artist Slideshows (ULO 1-4)
-
-Please watch the following slideshows:
-
-<!-- copy from index.txt -->
+I have picked all non-Western contemporary artists, which is a term that refers to anything that is outside of the European tradition, and usually refers to East and Southeast Asia, Africa, India, Latin America and the Middle East.  In the additional artists section I have added another whole section of European artists, all 
 
 ### Presentations: Artist Videos (ULO 1-4)
 
-#### Beginnings of Pop Art:
-
 Please watch the following videos:
 
-<!-- iframe -->
+Ai WeiWei's sunflower seeds:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PueYywpkJW8" frameborder="0" allowfullscreen></iframe>
+
+
+### **Readings**: (ULO 3, 4) 
+
+Read the following links to artists reviews, interviews, and biographies.
+
+  * [Shadi Ghadirian](http://www.saatchi-gallery.co.uk/artists/shadi_ghadirian.htm) in the Saatchi collection
+  * [Shadi Ghadirian](http://www.wipnyc.org/blog/shadi-ghadirian) artist's statement 
+  * [Tala Madani](http://www.saatchi-gallery.co.uk/artists/tala_madani.htm) in the Saatchi collection
+  * [Tala Madani](http://www.brooklynrail.org/2007/05/artseen/tala-madani-smoke-and-mirrors)
+  * Mona Hatoum
+  * Anish Kapoor
+  * Ai WeiWei
+  * Cai Guo-Qiang
+  * Yue Minjun
+  * Xu Bing
+  * El Anatsui
+  * Ernesto Neto
+  * Arturo Herrera
+  * Gabriel Orozco
+  
     
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
 #### Identify names of XXX Artists
 
-Q: Select all the artists who are Abstract Expressionists 
-A. 
-B. 
-C. 
-D. 
-E.
-F.
-G.
-H.
-I.
-J.
+Q: Select all the artists who are non-western Contemporary Artists
+A.Gabriel Orozco  
+B.Arturo Herrera
+C.Ernesto Neto
+D.El Anatsui
+E.Yue Minjun
+F.Ai WeiWei
+G.Anish Kapoor
+H.Mona Hatoum
+I.Jean Michel Basquiat
+J.Claes Oldenburg
+K.Carolee Schneemann
+L.Yves Klein
 ANSWER: A,B,C,D,E
 POINTS: 5
 TYPE: MS
@@ -155,16 +103,7 @@ IMAGE: http://jonathangabel.com/images/art125/
 
 #### Multiple Choice Definitions
 
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
-POINTS: 5
-TYPE: MS
-
-Q: 
+Q: Define "Non-Western"
 A. 
 B. 
 C. 
@@ -172,18 +111,6 @@ D.
 ANSWER: A
 POINTS: 5
 TYPE: MC
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: FB
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: SA
-
-<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
 
 ### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
@@ -197,104 +124,80 @@ Please make sure you meet the **due dates** for these posts.
   
 #### Essay Question:
 
-Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
-
-### Voice Thread Question
-
-Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
 
 ### Additional Artists to Study (ULO 1)
     
-*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, this is a larger list of artists who fit into this category*
 
-  * artist a
-  * artist b
-  * ...
+### RUSSIA
+ 
+ * Komar and Melamid (b. 1943 & 1945 Moscow, live New York)	
 
-### Optional links for further self-study (ULO 1-4)
+### IRAN
+ 
+  * **Shadi Ghadirian** (b. 1974 Iran, lives Tehran)	
+  * **Ramin Haerizadeh** (b. 1975 and lives Tehran)
+  * **Tala Madani** (b. 1981 Tehran, lives Amsterdam)
 
-*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
+### IRAQ
 
-  * link a to [site a](http://example.com)
-  * link b to [site b](http://example.com)
-  * ...
-  
-<!--@H [Back to Index](art125Outline) H@-->
-<!--@H [previous page](art125Unit01) H@-->
-<!--@H [next page](art125Unit01) H@-->
+  * Halim Al-Karim  (b. 1963 Naiaf, Iraq, lives Boulder)
+  * Ahmed Alsoudani (b. 1975 Baghdad, Iraq, lives Berlin)
+  * Hayv Kahraman, (b. 1981 Baghdad, Lives Arizona)
 
+### LEBANON
 
-In this class we back up to the beginning of the course, and start again in Europe. After the Second World War, our attention turned to the American Art scene, but the artistic traditions of Europe continued to evolve as well. Sometimes this paralleled the work we’ve seen so far, and sometimes it followed it’s own trajectory.<!--more--> This class is only a quick survey of European art from the 1950s to the present, but we also manage to cover quite a few movements that spring up during this time.
+  * Mona Hatoum (b. 1952 Beirut, lives London)
+  * Marwan Rechaoui (b. 1964 lives Beirut)
 
-In the 1960s, the Italian art scene becomes well known through the work of the Arte Povera movement. Using poor materials, that is materials of everyday occurrence, they commented on issues of contemporary society, as well as the historical traditions of Italian art.
+### PALESTINE
 
-In Austria, a group of artists centered around Herman Nitsch became known as the Viennese Actionists. Documenting performances through photography, they explored the Dionysian and visceral side of ritual. These pieces can be seen as carnal performances exploring the darker side of life.
+  * Wafa Hourani	(b. 1979 Hebron, lives Ramallah)
+  * Jeffar Khaldi (Palistinian b. Lebanon 1964, lives Dubai)
 
-In Germany, post-war reparations took a more apologetic tone, and artists such as Joseph Beuys looked to performance as a way to find healing rather than carnage. Other artists began exploring what became known as Neo-Expressionism, direct unmitigated expression with the traditional medium of paint and canvass. We will follow this style into the American scene in the 1980s as well.
+### ISRAEL
 
-In England in the 1990s, we also see a group of artists become collectively known as the YBA, or Young British Artists. Often creating sensational work, they don’t so much share a common style or subject, as much as a common interest in producing provocative artworks.
+  * Adi Nes עדי נס (b. 1966 Kiryat Gat, lives Tel Aviv)
 
-### After this class you should be able to
+### INDIA
 
-#### Define the following:
+  * Anish Kapoor (b. Bombai 1954, lives London)
+  * Sudarshan Shetty
+  * Sheba Chhachhi
+  * Jitish Kallat
+  * Nikhil Chopra
 
-  * Arte Povera
-  * Neo-Expressionism
-  * trickster
+### CHINA
+  * Tehching Hsieh 謝德慶 (b. 1950, Nanjhou, Pingtung County, Taiwan)
+  * Huang Yong Ping, (b. 1954 Xiamen, lives Paris)
+  * Cai Guo-Qiang 蔡国强 (b. 1957, Quanzhou City, Fujian Province)
+  * Yue Minjun 岳敏君 (b.1962, Heilongjiang Province, lives Beijing)
+  * Xu Bing 徐冰 (b.1955)
+  * Ai WeiWei 艾未未
 
-### Answer the following:
+### KOREA
+  * Lee Bul (b. 1964)
+  * Hyungkoo Lee
 
-  * After World War II, how did modernism develop differently in Europe and the United States?
-  * What similarities and differences do you see between European and American art in the 1960s and 1970s?
+### AFRICA
+  * William Kentridge (b. 1955 Johannesburg, South Africa)
+  * Jane Alexander ( b. 1959 Johannesburg, South Africa)
+  * El Anatsui (b. 1944 Ghana, lives Nigeria)
+  * Wangechi Mutu
 
-### Recognize artwork by the following artists:
+### CENTRAL, SOUTH AMERICA
 
-  * Shadi Ghadirian
-  * Tala Madani
-  * Mona Hatoum
-  * Anish Kapoor
-  * Ai WeiWei
-  * Cai Guo-Qiang
-  * Yue Minjun
-  * Xu Bing
-  * El Anatsui
-  * Ernesto Neto
-  * Arturo Herrera
-  * Gabriel Orozco
+  * Felix González-Torres (b. 1957 Cuba, grew up Puerto Rico, d. NY 1996)
+  * Rirkit Tiravanija ฤกษ์ฤทธิ์ ตีระวนิช (Thai b. 1961 Buenos Aires, lives New York & Berlin)
+  * Arturo Herrera (b. Caracas, Venezuela 1959, lives NY and Berlin)
+  * Gabriel Orozco ( b. 1962 Veracruz, Mexico, lives Mexico City)
 
-### Middle East
+### Other European Artists we haven't covered
 
-  * Komar and Melamid
-  * Ramin Haerizade
-  * Halim Al-Karim
-  * Ahmed Alsoudani
-  * Hayv Kahraman
-  * Marwan Rechmaoui
-  * Wafa Hourani
-  * Jeffar Khaldi
-  * Adi Nes
-
-### China
-
-  * Tehching Hsieh
-  * Lee Bul
-
-### Africa
-
-  * William Kentridge
-  * Jane Alexander
-
-### South America
-
-  * Rirkrit Tiravanija
-  * Jason deCaeirs Taylor
-
-### Europe
   * Giovanni Anselmo
   * Aligiero e Boetti
   * Mario Merz,
   * Michelangelo Pistoletto
-  * Austria – Viennese Actionists
   * Günter Brus
   * Hermann Nitsch
   * Otto Muehl
@@ -312,70 +215,34 @@ In England in the 1990s, we also see a group of artists become collectively know
   * Antoni Tàpies
   * Juan Muñoz
 
+### Optional links for further self-study (ULO 1-4)
 
-### External Links for further reading:
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
 
-  * Film of [Joseph Beuys](http://www.youtube.com/watch?v=e5UXAqpSJDk) with the Coyote
-  * [Chapman brothers](http://www.jakeanddinoschapman.com/) website
-  * Sculptures by [David Cerney](http://www.boredpanda.com/bizzare-sculptures-by-david-cerny/)
+* Film of [Joseph Beuys](http://www.youtube.com/watch?v=e5UXAqpSJDk) with the Coyote
 
+###External Links for further reading:
 
-	In the 1990s the contemporary art scene became much less provincial, and started to look beyond American shores for good contemporary art. This not only included Europe, but the entire rest of the world. We don’t have time to go back and see what was going on everywhere for the last sixty years, but we can do a survey of contemporary artists from the other continents.<!--more-->
+  * [Ramin Haerizadeh](http://www.saatchi-gallery.co.uk/artists/ramin_haerizadeh.htm) in the Saatchi collection
+  * [Ramin Haerizadeh](http://www.economist.com/blogs/prospero/2010/07/ramin_and_rokni_haerizadeh) interview
+  * [Ai Wei Wei](http://www.guardian.co.uk/artanddesign/2010/mar/18/ai-weiwei-turbine-hall-china) speaking about freedom of thought
+  * [Sunflower Seeds](http://www.newyorker.com/online/blogs/evanosnos/2010/10/ai-weiwei-at-the-tate-turbine-hall.html) review of Ai Wei Wei in the Turbine Hall
+  * [Chinese Artists Profiles](http://undeadastronauts.com/tag/chinese-art/) from Undead Astronauts Blog
+  * [Book From The Sky](http://idlethink.wordpress.com/2009/05/05/bookporn-41-books-from-heaven-books-from-earth/) Historian’s Craft Blog on Xu Bing
+  * [Xu Bing](http://www.xubing.com/) artist’s website
+  * [Square Word Calligraphy](http://cdm.reed.edu/cdm4/artbooks/bing_square_calligraphy.php) digital Copy of Xu Bing’s Book
+  * A Conversation with [El Anatsui](http://www.artinfo.com/news/story/34119/a-conversation-with-el-anatsui/?page=1) Interview
+  * review of [Lee Bul](http://whitehotmagazine.com/articles/2008-lee-bul-fondation-cartier/1097)
+  * [Ai Wei Wei][globalFreedom] _speaking about freedom of thought_
+  * [Sunflower Seeds][AiSunflower] _review of Ai Wei Wei in the Turbine Hall_
+  * [Chinese Artists Profiles][ChinaArt] _from Undead Astronauts Blog_
+  * [Book From The Sky][xuBingCraft] _Historian's Craft Blog on Xu Bing_
+  * [Xu Bing ][xuBing]_artist's website_
+  * [Square Word Calligraphy ][squareWord]_digital Copy of Xu Bing's Book_
+  * [A Conversation with El Anatsui][elAnatsui] _Interview_
+  * [review of Lee Bul][leeBull]
 
-	###After this class you should be able to
-
-	###Recognize artwork by the following artists:
-
-
-
-	###External Links for further reading:
-
-	  * [Ai Wei Wei](http://www.guardian.co.uk/artanddesign/2010/mar/18/ai-weiwei-turbine-hall-china) speaking about freedom of thought
-	  * [Sunflower Seeds](http://www.newyorker.com/online/blogs/evanosnos/2010/10/ai-weiwei-at-the-tate-turbine-hall.html) review of Ai Wei Wei in the Turbine Hall
-	  * [Chinese Artists Profiles](http://undeadastronauts.com/tag/chinese-art/) from Undead Astronauts Blog
-	  * [Book From The Sky](http://idlethink.wordpress.com/2009/05/05/bookporn-41-books-from-heaven-books-from-earth/) Historian’s Craft Blog on Xu Bing
-	  * [Xu Bing](http://www.xubing.com/) artist’s website
-	[Square Word Calligraphy](http://cdm.reed.edu/cdm4/artbooks/bing_square_calligraphy.php) digital Copy of Xu Bing’s Book
-	  * A Conversation with [El Anatsui](http://www.artinfo.com/news/story/34119/a-conversation-with-el-anatsui/?page=1) Interview
-	  * review of [Lee Bul](http://whitehotmagazine.com/articles/2008-lee-bul-fondation-cartier/1097)
-
-
-### Biography
-
-  * Ramin Haerizadeh
-    * [Ramin Haerizadeh](http://www.saatchi-gallery.co.uk/artists/ramin_haerizadeh.htm) in the Saatchi collection
-    * [Ramin Haerizadeh](http://www.economist.com/blogs/prospero/2010/07/ramin_and_rokni_haerizadeh) interview
-  * Shadi Ghadirian
-    * [Shadi Ghadirian](http://www.saatchi-gallery.co.uk/artists/shadi_ghadirian.htm) in the Saatchi collection
-    * [Shadi Ghadirian](http://www.wipnyc.org/blog/shadi-ghadirian) artist's statement
-  * Tala Madani
-    * [Tala Madani](http://www.saatchi-gallery.co.uk/artists/tala_madani.htm) in the Saatchi collection
-    * [Tala Madani](http://www.brooklynrail.org/2007/05/artseen/tala-madani-smoke-and-mirrors)
-
-
-
-徐冰 xu2bing1
-Xu Bing, Photo collage of "The Living Word” (2001) 
-Carved, painted acrylic characters, nylon monofilament
-
-
-
-
-* [Art Hoax Unites Europe in Displeasure][global1] _Sarah Lyall on David Cerny_
-
-[global1]: http://www.nytimes.com/2009/01/15/world/europe/15mosaic.html?partner=permalink&exprod=permalink
-
-
-* [Ai Wei Wei][globalFreedom] _speaking about freedom of thought_
-* [Sunflower Seeds][AiSunflower] _review of Ai Wei Wei in the Turbine Hall_
-* [Chinese Artists Profiles][ChinaArt] _from Undead Astronauts Blog_
-* [Book From The Sky][xuBingCraft] _Historian's Craft Blog on Xu Bing_
-* [Xu Bing ][xuBing]_artist's website_
-* [Square Word Calligraphy ][squareWord]_digital Copy of Xu Bing's Book_
-* [A Conversation with El Anatsui][elAnatsui] _Interview_
-* [review of Lee Bul][leeBull]
-
- [globalFreedom]:http://www.guardian.co.uk/artanddesign/2010/mar/18/ai-weiwei-turbine-hall-china
+[globalFreedom]:http://www.guardian.co.uk/artanddesign/2010/mar/18/ai-weiwei-turbine-hall-china
 [AiSunflower]:http://www.newyorker.com/online/blogs/evanosnos/2010/10/ai-weiwei-at-the-tate-turbine-hall.html
 [ChinaArt]:http://undeadastronauts.com/tag/chinese-art/
 [xuBingCraft]:http://idlethink.wordpress.com/2009/05/05/bookporn-41-books-from-heaven-books-from-earth/
@@ -384,69 +251,9 @@ Carved, painted acrylic characters, nylon monofilament
 [leeBull]:http://whitehotmagazine.com/articles/2008-lee-bul-fondation-cartier/1097          	
 [elAnatsui](http://www.artinfo.com/news/story/34119/a-conversation-with-el-anatsui/?page=1)
 
-list:
 
-Week 10: Globalism 2: Non-Western Contemporary
-Slide List
 
-RUSSIA
- 
- * Komar and Melamid (b. 1943 & 1945 Moscow, live New York)	
 
-IRAN
- 
-  * **Shadi Ghadirian** (b. 1974 Iran, lives Tehran)	
-  * **Ramin Haerizadeh** (b. 1975 and lives Tehran)
-  * **Tala Madani** (b. 1981 Tehran, lives Amsterdam)
 
-IRAQ
 
-  * Halim Al-Karim  (b. 1963 Naiaf, Iraq, lives Boulder)
-  * Ahmed Alsoudani (b. 1975 Baghdad, Iraq, lives Berlin)
-  * Hayv Kahraman, (b. 1981 Baghdad, Lives Arizona)
-
-LEBANON
-
-  * Mona Hatoum (b. 1952 Beirut, lives London)
-  * Marwan Rechaoui (b. 1964 lives Beirut)
-
-PALESTINE
-
-  * Wafa Hourani	(b. 1979 Hebron, lives Ramallah)
-  * Jeffar Khaldi (Palistinian b. Lebanon 1964, lives Dubai)
-
-ISRAEL
-
-  * Adi Nes עדי נס (b. 1966 Kiryat Gat, lives Tel Aviv)
-
-INDIA
-
-  * Anish Kapoor (b. Bombai 1954, lives London)
-  * Sudarshan Shetty
-  * Sheba Chhachhi
-  * Jitish Kallat
-  * Nikhil Chopra
-
-CHINA
-  * Tehching Hsieh 謝德慶 (b. 1950, Nanjhou, Pingtung County, Taiwan)
-  * Huang Yong Ping, (b. 1954 Xiamen, lives Paris)
-  * Cai Guo-Qiang 蔡国强 (b. 1957, Quanzhou City, Fujian Province)
-  * Yue Minjun 岳敏君 (b.1962, Heilongjiang Province, lives Beijing)
-  * Xu Bing 徐冰 (b.1955)
-  * Ai WeiWei 艾未未
-
-KOREA
-  * Lee Bul (b. 1964)
-  * Hyungkoo Lee
-
-AFRICA
-  * William Kentridge (b. 1955 Johannesburg, South Africa)
-  * Jane Alexander ( b. 1959 Johannesburg, South Africa)
-  * El Anatsui (b. 1944 Ghana, lives Nigeria)
-
-CENTRAL, SOUTH AMERICA
-  * Felix González-Torres (b. 1957 Cuba, grew up Puerto Rico, d. NY 1996)
-  * Rirkit Tiravanija ฤกษ์ฤทธิ์ ตีระวนิช (Thai b. 1961 Buenos Aires, lives New York & Berlin)
-  * Arturo Herrera (b. Caracas, Venezuela 1959, lives NY and Berlin)
-  * Gabriel Orozco ( b. 1962 Veracruz, Mexico, lives Mexico City)
 

@@ -69,8 +69,25 @@ unit_7_set = [
 ("Jean Michel Basquiat","basquiat.1981.untitled.jpg"),
 ("Barbara Kruger","kruger.1987.shop.jpg"),
 ("Cindy Sherman","sherman.1982.sundress.jpg")
-
 ]
+
+
+unit_7_set = [
+("Shadi Ghadirian",""),
+("Tala Madani",""),
+("Mona Hatoum",""),
+("Anish Kapoor",""),
+("Ai WeiWei",""),
+("Cai Guo-Qiang",""),
+("Yue Minjun",""),
+("Xu Bing",""),
+("El Anatsui",""),
+("Ernesto Neto",""),
+("Arturo Herrera",""),
+("Gabriel Orozco","")
+]
+
+
 def load_bank(unit_sets):
     """Creates a list of artists from unit lists of artists/image tuples
 
