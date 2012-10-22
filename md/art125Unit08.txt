@@ -33,7 +33,7 @@ At the end of this unit, students will be able to:
 
 In the 1990s the contemporary art scene became much less provincial, and started to look beyond American shores for good contemporary art. This not only included Europe, but the entire rest of the world. We don’t have time to go back and see what was going on everywhere for the last sixty years, but we can do a survey of contemporary artists from the other continents. 
 
-We will put our text book away for a week, and do some research directly on the internet.  I have chosen 12 artists for you to learn about, and have found some of the more fruitful links available on the web.  In the additional artists section, I have included many more artists for you to discover.  There are more that I could ask you to study in a week there, but please use your own initiative to further research the 12 we focus on, or other artists from a continent that particularly interests you.  
+We will put our text book away for a week, and do some research directly on the internet.  I have chosen 12 artists for you to learn about, and have found some of the more fruitful links available on the web.  In the additional artists section, I have included many more artists for you to discover.  There are more that I could ask you to study in a week there, but please use your own initiative to further research the 12 we focus on, or other artists from a continent that particularly interests you -- as always there is a list of additional artists at the bottom of the unit.
 
 I have picked all non-Western contemporary artists, which is a term that refers to anything that is outside of the European tradition, and usually refers to East and Southeast Asia, Africa, India, Latin America and the Middle East.  In the additional artists section I have added another whole section of European artists, all of whom are important, and hopefully some of whom will make it into the material from the rest of the course.
 
@@ -122,7 +122,7 @@ D.Sol Lewitt
 Answer: A
 POINTS: 5
 TYPE: MC
-IMAGE: $COURSE_PATH$images/ghadirian.1998-9.ghajarRadio.jpg
+IMAGE: $COURSE_PATH$images/ghadirian.1998-9.ghajarGhettoBlaster.jpg
 
 
 Q: This Artwork is by:

@@ -73,7 +73,7 @@ unit_7_set = [
 
 
 unit_7_set = [
-("Shadi Ghadirian","ghadirian.1998-9.ghajarRadio.jpg"),
+("Shadi Ghadirian","ghadirian.1998-9.ghajarGhettoBlaster.jpg"),
 ("Tala Madani","madani.2006.divingInCake.jpg"),
 ("Mona Hatoum","hatoum.2006-7.natureMortsAuxGrenades.det.jpg"),
 ("Anish Kapoor","kapoor.2004-6.cloudGate.jpg"),
