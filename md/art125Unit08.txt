@@ -234,6 +234,36 @@ POINTS: 5
 TYPE: MC
 IMAGE: $COURSE_PATH$images/orozco.2006.matrixMovil.jpg
 
+### HOW TO: Add a LINK or VIDEO to your discussion posts
+
+#### CREATING A HYPERLINK IN YOUR POST:
+
+  1.  Write out whatever words you want to make into a link, and select those words.
+  2. From the toolbar select the 'Insert/Edit Web Link' button, it looks like a globe with a chain in front of it.
+  3. In the URL field paste the web address that you want to link to.
+  4. If you want your link to appear in a new window, go to 'Target' and select 'new window'.
+  5. Press OK, you're done!
+  4. Your selection should now look like a link (underline and hover effect) and when you submit, should bring up a link to the page. 
+
+#### ADDING A VIDEO FROM YOU-TUBE:
+**Links to YouTube within the window frame don't work, you must embed YouTube videos:**
+
+  1. On the YouTube page with the video you want to share, click the 'share' button.
+  2. Click the 'embed' button, a field shows up with the embed code in an HTML "iframe"
+  3. Copy and paste all this code
+  4. In you Angel Post, in the toolbar, select the 'source'  button on the far right (it looks like a little arrow over a word document).
+  5. You are now seeing your post as HTML, paste the embed code where you want the video.
+  6. Click the 'source' button again to return to regular editing mode, the video should show up in your post.
+
+#### ADDING AN IMAGE TO YOUR POST:
+**Angel doesn't upload images off your computer, your image must already be on-line on a web server.**
+
+  1. Find an image you want on a website, and right-click on it to bring up a context menu.
+  2. Select "Copy Image URL" in Chrome, "Copy Image Location" in Firefox, or the equivalent.
+  3. In your post, in the toolbar, select the "Insert/Edit Image" button, and paste the address into the URL field.
+  4. Click OK, the image should be visible in your post.
+
+
 ### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
 Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
