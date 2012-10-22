@@ -122,3 +122,131 @@ IMAGE: $COURSE_PATH$images/sherman.1982.sundress.jpg
 ##### end generated log
 ##### total items = 50
 
+# Multiple Choice
+##### Generated: 2012-10-21 20:09:03.729454
+
+Q: This Artwork is by:
+A.Shadi Ghadirian
+B.Barnett Newman
+C.Arturo Herrera
+D.Sol Lewitt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ghadirian.1998-9.ghajarRadio.jpg
+
+
+Q: This Artwork is by:
+A.Tala Madani
+B.Barnett Newman
+C.Arturo Herrera
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/madani.2006.divingInCake.jpg
+
+
+Q: This Artwork is by:
+A.Mona Hatoum
+B.Kerry James Marshall
+C.David Smith
+D.Robert Smithson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/hatoum.2006-7.natureMortsAuxGrenades.det.jpg
+
+
+Q: This Artwork is by:
+A.Anish Kapoor
+B.Ernesto Neto
+C.Jasper Johns
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/kapoor.2004-6.cloudGate.jpg
+
+
+Q: This Artwork is by:
+A.Cai Guo-Qiang
+B.Ad Reinhardt
+C.Louise Nevelson
+D.Robert Morris
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/cai.2004.unopportuneStageOne.jpg
+
+
+Q: This Artwork is by:
+A.Yue Minjun
+B.Chuck Close
+C.Kara Walker
+D.Ernesto Neto
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/yue.2005.untitled.jpg
+
+
+Q: This Artwork is by:
+A.Xu Bing
+B.Michael Ray Charles
+C.Arshile Gorky
+D.Donald Judd
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/xu.1994.squareWordCalligraphySheep.jpg
+
+
+Q: This Artwork is by:
+A.El Anatsui
+B.Arturo Herrera
+C.Sol Lewitt
+D.Robert Smithson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/anatsui.2009.bukpaOldTown.jpg
+
+
+Q: This Artwork is by:
+A.Ernesto Neto
+B.Donald Judd
+C.Sol Lewitt
+D.Jasper Johns
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/neto.2008.wisdomOfTheParts.04.jpg
+
+
+Q: This Artwork is by:
+A.Arturo Herrera
+B.Kara Walker
+C.James Turrell
+D.Yue Minjun
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/herrera.1999.allIAsk.full.jpg
+
+
+Q: This Artwork is by:
+A.Gabriel Orozco
+B.Mona Hatoum
+C.Duane Hanson
+D.Kara Walker
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/orozco.2006.matrixMovil.jpg
+
+
+
+##### end generated log
+##### total items = 110
+

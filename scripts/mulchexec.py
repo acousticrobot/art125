@@ -73,18 +73,17 @@ unit_7_set = [
 
 
 unit_7_set = [
-("Shadi Ghadirian",""),
-("Tala Madani",""),
-("Mona Hatoum",""),
-("Anish Kapoor",""),
-("Ai WeiWei",""),
-("Cai Guo-Qiang",""),
-("Yue Minjun",""),
-("Xu Bing",""),
-("El Anatsui",""),
-("Ernesto Neto",""),
-("Arturo Herrera",""),
-("Gabriel Orozco","")
+("Shadi Ghadirian","ghadirian.1998-9.ghajarRadio.jpg"),
+("Tala Madani","madani.2006.divingInCake.jpg"),
+("Mona Hatoum","hatoum.2006-7.natureMortsAuxGrenades.det.jpg"),
+("Anish Kapoor","kapoor.2004-6.cloudGate.jpg"),
+("Cai Guo-Qiang","cai.2004.unopportuneStageOne.jpg"),
+("Yue Minjun","yue.2005.untitled.jpg"),
+("Xu Bing","xu.1994.squareWordCalligraphySheep.jpg"),
+("El Anatsui","anatsui.2009.bukpaOldTown.jpg"),
+("Ernesto Neto","neto.2008.wisdomOfTheParts.04.jpg"),
+("Arturo Herrera","herrera.1999.allIAsk.full.jpg"),
+("Gabriel Orozco","orozco.2006.matrixMovil.jpg")
 ]
 
 
