@@ -35,7 +35,7 @@ In the 1990s the contemporary art scene became much less provincial, and started
 
 We will put our text book away for a week, and do some research directly on the internet.  I have chosen 12 artists for you to learn about, and have found some of the more fruitful links available on the web.  In the additional artists section, I have included many more artists for you to discover.  There are more that I could ask you to study in a week there, but please use your own initiative to further research the 12 we focus on, or other artists from a continent that particularly interests you.  
 
-I have picked all non-Western contemporary artists, which is a term that refers to anything that is outside of the European tradition, and usually refers to East and Southeast Asia, Africa, India, Latin America and the Middle East.  In the additional artists section I have added another whole section of European artists, all 
+I have picked all non-Western contemporary artists, which is a term that refers to anything that is outside of the European tradition, and usually refers to East and Southeast Asia, Africa, India, Latin America and the Middle East.  In the additional artists section I have added another whole section of European artists, all of whom are important, and hopefully some of whom will make it into the material from the rest of the course.
 
 ### Presentations: Artist Videos (ULO 1-4)
 
@@ -80,17 +80,16 @@ Read the following links to artists reviews, interviews, and biographies.
   * [Shadi Ghadirian](http://www.saatchi-gallery.co.uk/artists/shadi_ghadirian.htm) in the Saatchi collection
   * [Shadi Ghadirian](http://www.wipnyc.org/blog/shadi-ghadirian) artist's statement 
   * [Tala Madani](http://www.saatchi-gallery.co.uk/artists/tala_madani.htm) in the Saatchi collection
-  * [Tala Madani](http://www.brooklynrail.org/2007/05/artseen/tala-madani-smoke-and-mirrors)
+  * [Tala Madani](http://www.brooklynrail.org/2007/05/artseen/tala-madani-smoke-and-mirrors) review
   * [Mona Hatoum](http://www.likeyou.com/en/node/2809) press release for exhibition
   * [Anish Kapoor](http://anishkapoor.com/668/Guggenheim--New-York-2009.html) images of installation at Guggenheim (and video on bottom of page)
   * [Anish Kapoor](http://thecreatorsproject.com/blog/luftwerks-iluminous-fieldi-lights-up-anish-kapoors-icloud-gatei) illuminated by LuftWerk's _Luminous Field_
-  * [Cai Guo-Qiang](http://magazine.wsj.com/hunter/drawing-fire/)
+  * [Cai Guo-Qiang](http://magazine.wsj.com/hunter/drawing-fire/) interview
   * [Yue Min Jun](http://www.saatchi-gallery.co.uk/artists/yue_minjun.htm) at Saatchi Gallery
-  * Xu Bing
   * [El Anatsui](http://www.art21.org/artists/el-anatsui) on Art21
   * [Arturo Herrera](http://www.moma.org/collection/artist.php?artist_id=25582) artworks owned by the MOMA
-  * [Gabriel Orozco](http://blog.art21.org/2008/09/18/gabriel-orozco-mobile-matrix/)
-  * [Gabriel Orozco](http://www.moma.org/interactives/exhibitions/2009/gabrielorozco/)
+  * [Gabriel Orozco](http://blog.art21.org/2008/09/18/gabriel-orozco-mobile-matrix/) on Ar21
+  * [Gabriel Orozco](http://www.moma.org/interactives/exhibitions/2009/gabrielorozco/) at the Moma
     
 ### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
@@ -235,17 +234,6 @@ POINTS: 5
 TYPE: MC
 IMAGE: $COURSE_PATH$images/orozco.2006.matrixMovil.jpg
 
-#### Multiple Choice Definitions
-
-Q: Define "Non-Western"
-A. 
-B. 
-C. 
-D. 
-ANSWER: A
-POINTS: 5
-TYPE: MC
-
 ### Discussion Board Question relating to slideshows and readings (ULO 1-4)
 
 Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
@@ -274,37 +262,37 @@ For your two responses due Sunday, follow your classmates links and review the m
     
 *You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, this is a larger list of artists who fit into this category*
 
-### RUSSIA
+ RUSSIA
  
  * Komar and Melamid (b. 1943 & 1945 Moscow, live New York)	
 
-### IRAN
+ IRAN
  
   * **Shadi Ghadirian** (b. 1974 Iran, lives Tehran)	
   * **Ramin Haerizadeh** (b. 1975 and lives Tehran)
   * **Tala Madani** (b. 1981 Tehran, lives Amsterdam)
 
-### IRAQ
+ IRAQ
 
   * Halim Al-Karim  (b. 1963 Naiaf, Iraq, lives Boulder)
   * Ahmed Alsoudani (b. 1975 Baghdad, Iraq, lives Berlin)
   * Hayv Kahraman, (b. 1981 Baghdad, Lives Arizona)
 
-### LEBANON
+ LEBANON
 
   * Mona Hatoum (b. 1952 Beirut, lives London)
   * Marwan Rechaoui (b. 1964 lives Beirut)
 
-### PALESTINE
+ PALESTINE
 
   * Wafa Hourani	(b. 1979 Hebron, lives Ramallah)
   * Jeffar Khaldi (Palistinian b. Lebanon 1964, lives Dubai)
 
-### ISRAEL
+ ISRAEL
 
   * Adi Nes עדי נס (b. 1966 Kiryat Gat, lives Tel Aviv)
 
-### INDIA
+ INDIA
 
   * Anish Kapoor (b. Bombai 1954, lives London)
   * Sudarshan Shetty
@@ -312,7 +300,7 @@ For your two responses due Sunday, follow your classmates links and review the m
   * Jitish Kallat
   * Nikhil Chopra
 
-### CHINA
+ CHINA
   * Tehching Hsieh 謝德慶 (b. 1950, Nanjhou, Pingtung County, Taiwan)
   * Huang Yong Ping, (b. 1954 Xiamen, lives Paris)
   * Cai Guo-Qiang 蔡国强 (b. 1957, Quanzhou City, Fujian Province)
@@ -320,24 +308,24 @@ For your two responses due Sunday, follow your classmates links and review the m
   * Xu Bing 徐冰 (b.1955)
   * Ai WeiWei 艾未未
 
-### KOREA
+ KOREA
   * Lee Bul (b. 1964)
   * Hyungkoo Lee
 
-### AFRICA
+ AFRICA
   * William Kentridge (b. 1955 Johannesburg, South Africa)
   * Jane Alexander ( b. 1959 Johannesburg, South Africa)
   * El Anatsui (b. 1944 Ghana, lives Nigeria)
   * Wangechi Mutu
 
-### CENTRAL, SOUTH AMERICA
+ CENTRAL, SOUTH AMERICA
 
   * Felix González-Torres (b. 1957 Cuba, grew up Puerto Rico, d. NY 1996)
   * Rirkit Tiravanija ฤกษ์ฤทธิ์ ตีระวนิช (Thai b. 1961 Buenos Aires, lives New York & Berlin)
   * Arturo Herrera (b. Caracas, Venezuela 1959, lives NY and Berlin)
   * Gabriel Orozco ( b. 1962 Veracruz, Mexico, lives Mexico City)
 
-### Other European Artists we haven't covered
+ Other European Artists we haven't covered
 
   * Giovanni Anselmo
   * Aligiero e Boetti
@@ -364,10 +352,7 @@ For your two responses due Sunday, follow your classmates links and review the m
 
 *You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
 
-* Film of [Joseph Beuys](http://www.youtube.com/watch?v=e5UXAqpSJDk) with the Coyote
-
-###External Links for further reading:
-
+  * Film of [Joseph Beuys](http://www.youtube.com/watch?v=e5UXAqpSJDk) with the Coyote
   * [Ramin Haerizadeh](http://www.saatchi-gallery.co.uk/artists/ramin_haerizadeh.htm) in the Saatchi collection
   * [Ramin Haerizadeh](http://www.economist.com/blogs/prospero/2010/07/ramin_and_rokni_haerizadeh) interview
   * [Ai Wei Wei](http://www.guardian.co.uk/artanddesign/2010/mar/18/ai-weiwei-turbine-hall-china) speaking about freedom of thought
@@ -379,25 +364,21 @@ For your two responses due Sunday, follow your classmates links and review the m
   * [Square Word Calligraphy](http://cdm.reed.edu/cdm4/artbooks/bing_square_calligraphy.php) digital Copy of Xu Bing’s Book
   * A Conversation with [El Anatsui](http://www.artinfo.com/news/story/34119/a-conversation-with-el-anatsui/?page=1) Interview
   * review of [Lee Bul](http://whitehotmagazine.com/articles/2008-lee-bul-fondation-cartier/1097)
-  * [Ai Wei Wei][globalFreedom] _speaking about freedom of thought_
   * [Sunflower Seeds][AiSunflower] _review of Ai Wei Wei in the Turbine Hall_
   * [Chinese Artists Profiles][ChinaArt] _from Undead Astronauts Blog_
   * [Book From The Sky][xuBingCraft] _Historian's Craft Blog on Xu Bing_
   * [Xu Bing ][xuBing]_artist's website_
   * [Square Word Calligraphy ][squareWord]_digital Copy of Xu Bing's Book_
-  * [A Conversation with El Anatsui][elAnatsui] _Interview_
+  * [A Conversation with El Anatsui][http://www.artinfo.com/news/story/34119/a-conversation-with-el-anatsui/?page=1] _Interview_
   * [review of Lee Bul][leeBull]
   * [Gabriel Orozco](http://arttattler.com/archivegabrielorozco.html) images and review
 
-
-[globalFreedom]:http://www.guardian.co.uk/artanddesign/2010/mar/18/ai-weiwei-turbine-hall-china
 [AiSunflower]:http://www.newyorker.com/online/blogs/evanosnos/2010/10/ai-weiwei-at-the-tate-turbine-hall.html
 [ChinaArt]:http://undeadastronauts.com/tag/chinese-art/
 [xuBingCraft]:http://idlethink.wordpress.com/2009/05/05/bookporn-41-books-from-heaven-books-from-earth/
 [xuBing]:http://www.xubing.com
 [squareWord]:http://cdm.reed.edu/cdm4/artbooks/bing_square_calligraphy.php
 [leeBull]:http://whitehotmagazine.com/articles/2008-lee-bul-fondation-cartier/1097          	
-[elAnatsui](http://www.artinfo.com/news/story/34119/a-conversation-with-el-anatsui/?page=1)
 
 
 
