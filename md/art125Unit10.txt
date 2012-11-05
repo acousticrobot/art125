@@ -1,17 +1,185 @@
+# Unit 10:  Abject Beauty
+  
+### Questioning the role of beauty in the Visual Arts
+
+## Unit Student Learning Objectives
+
+### Unit X:  XXX_TITLE (one week)
+
+At the end of this unit, students will be able to:
+
+  1. Identify artists and describe qualities associated with the abject arts and artist approaching difficult subject matter (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  2. Define key aspects associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  3. Question the theory and philosophy behind the movement, with emphasis on the "Young British Artists". (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
+
+
+### Artists covered:
+
+* Jake and Dinos Chapman
+* John Currin
+* Lucian Freud
+* Damien Hirst
+* Sarah Lucas
+* Marc Quinn
+* Gillian Wearing
+* Jenny Saville
+* Felix Gonzalez-Torres
+* Anna Utopia Giordano
+* Marcus Harvey
+* Paul McCarthy
+* David Wojnarowicz
+
+## Unit Student Assessments & Activities
+
+### Introduction (ULO 3-4)
+
+Way back in our introductory unit, we looked at artists who felt the need to question the role of beauty in art. This week, we return to this topic, laying out a sample of current working artists who continue this trend from  the 90's to today.
+
+Many of these artists are of a group known as the YBA, or "Young British Artists"; a name given to them when they were propelled into the spotlight with the exhibition titled [*Sensation*](http://en.wikipedia.org/wiki/Sensation_(art_exhibition)). Now mid-career established artists, at the time they were all fresh out of art school, and all tied together in the collection of Charles Saatchi.
+
+I have also added several artists who would fit this weeks focus for other reasons.  Lucian Freud, Jenny Saville, and John Currin, all three figurative painters who's talent can't be denied, but who's questioning what constitutes a beautiful painting take them in many different directions. Paul McCarthy, a West Coast Artist known for his performances and grotesque sculptures, who's work often infuses humor with the scatological. Felix Gonzales-Torres and David Wojnarowicz, both artists who died of AIDS and tackle the diffifult subject in their work.  And finally I've added a piece about Anna Utopia Giordano, not a famous artist, but one who completed a piece which questions our preception of beauty in the world of fashion and the human figure.
+
+### **Readings**: (ULO 3, 4) 
+### Author "Title"
+
+#### Introduction 
+
+There are three articles we are linking to this week, a short review of a series by Anna Utopia Giordano, a classic example of reading signs and signifiers in the work of Marcus Harvey, and an interview with artist Felix Gonzalez-Torres.
+
+#### [Anna Utopia Giordano](http://www.telegraph.co.uk/news/worldnews/europe/italy/9074356/Size-zero-Botticellis-Anna-Utopia-Giordano-Photoshops-Venus-Renaissance-masterpieces-by-Titian.html)
+
+#### [Marcus Harvey](http://www.artdesigncafe.com/marcus-harvey-myra-hindley-w)
+
+#### [Felix Gonzalez-Torres](http://www.queerculturalcenter.org/Pages/FelixGT/FelixInterv.html)
+)
+
+### Discover (ULO 1-4)
+
+Further readings and websites to look through.
+
+* [Jake & Dinos Chapman](http://www.jakeanddinoschapman.com/)
+* [John Currin](http://www.gagosian.com/artists/john-currin)
+* [Tracey Emin](http://www.traceyeminstudio.com/)
+* [Damien Hirst](http://www.damienhirst.com/)
+* [Sarah Lucas](http://www.saatchi-gallery.co.uk/aipe/sarah_lucas.htm)
+* [Marc Quinn](http://www.marcquinn.com/)
+* [Gillian Wearing](http://www.whitechapelgallery.org/exhibitions/gillian-wearing)
+* [Jenny Saville](http://employees.oneonta.edu/farberas/arth/arth200/body/saville.html)
+* [Paul Mccarthy](http://www.hauserwirth.com/artists/20/paul-mccarthy/images-clips/)
+
+
+
+### Presentations: Artist Videos (ULO 1-4)
+
+### Lucian Freud
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qtkMTG-_674" frameborder="0" allowfullscreen></iframe>
+
+### John Currin
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fGVxr7udreI" frameborder="0" allowfullscreen></iframe>
+
+### Paul McCarthy
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/76YkbsSiZk4" frameborder="0" allowfullscreen></iframe>
+
+### Felix Gonzalez-Torres and David Wajnorowicz
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4iiLMJru7SY" frameborder="0" allowfullscreen></iframe>
+
+### Damien Hirst (embedding disabled)
+
+[Damien Hirst](http://youtu.be/3tXIYBFbUjs)
+
+### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
+
+#### Identify names of XXX Artists
+
+Q: Select all the artists who are Abstract Expressionists 
+A. 
+B. 
+C. 
+D. 
+E.
+F.
+G.
+H.
+I.
+J.
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
+
+#### Identify artwork images from the slideshows
+
+run mulchexec.py
+
+Q: This is an artwork by:
+ANSWER:
+A:
+B:
+C:
+D: 
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/
+
+#### Multiple Choice Definitions
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: FB
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: SA
+
+<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
+
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
+
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+
+**First**, you will start a thread by answering the Essay question below. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the **due dates** for these posts.
+  
+#### Essay Question:
+
+Perhaps there is a line, somewhere, between artworks that are difficult but beneficial to society, and artworks that simply push for a reaction for the sake of attention.  From the artworks you viewed and researched in this unit, provide ONE example of an artwork that you believe may not be pretty but who's message is important, or perhaps even beautiful, and ONE example of an artwork that is provocative without being productive.  Back up your examples by explaining your reasoning.
+
 <!--@H [Back to Index](art125Outline) H@-->
 <!--@H [previous page](art125Unit09) H@-->
 <!--@H [next page](art125Unit11) H@-->
 
 
-* Felix Gonzalez-Torres
-* Damien Hirst
-* Marc Quinn
-* Gillian Wearing
-* Rachel Whiteread
-* Jake and Dinos Chapman
-* David Cerny
 
-* [Chapman brothers](http://www.jakeanddinoschapman.com/) website
-* Sculptures by [David Cerney](http://www.boredpanda.com/bizzare-sculptures-by-david-cerny/)
-* [Art Hoax Unites Europe in Displeasure][global1] _Sarah Lyall on David Cerny_
-[global1]: http://www.nytimes.com/2009/01/15/world/europe/15mosaic.html?partner=permalink&exprod=permalink
+
+
+
+
+
+
+
