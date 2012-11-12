@@ -1,6 +1,329 @@
+# Unit 11:  Out of the System
+  
+### Artworks outside of the White Box: 
+
+## Unit Student Learning Objectives
+
+### Unit X:  Out of the System (one week)
+
+At the end of this unit, students will be able to:
+
+  1. Identify artists and describe qualities associated with working outside of the gallery system. (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  3. Question the theory and philosophy behind the movement, and examine it's influence on the main stream art world. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
+
+### Artists covered:
+
+#### Outsider Artists
+
+Henry Darger
+Daniel Johnston
+Rammellzee
+
+### Outsider Architects
+
+Friedensreich Hundertwasser
+Heidelberg Project
+
+#### Comix
+
+Scott Mccloud
+Robert Crumb
+Art Spiegelman
+Jim Woodring
+Chris Ware
+
+#### Graffiti
+
+Margaret Kilgallen
+Barry McGee
+Bansky
+Neck Face
+
+## Unit Student Assessments & Activities
+
+### Introduction (ULO 3-4)
+
+This week we look at the art world that exists outside of the gallery and museum structure.  The three avenues we will explore are: Outsider Artists, Comix, and Graffiti. Often these art realms aren't completely excluded from the gallery system the artists we will look at have also gotten a lot of gallery attention, and these artistic styles have greatly influenced artists working within the gallery system.  Still, they are places where art exists often in fresh relief from the trends and pretensions of the main stream art world.
+
+#### Outsider Artists
+
+"Outsider art" is a term that is often used to describe artists who came to the arts outside of the usual channels of art school or training.  It's a term that is thrown around a lot, and sometimes artists with a solid academic background often capitalize on appearing to come from an outsider position.  Of all the artists this week, the one that could 100% be considered an outsider is **Henry Darger**. He lived as a janitor in almost complete isolation in Chicago, and only on his death did anyone realize he had been making artworks at night.  I've linked to a full length movie on him in the video section, but you don't have to watch the whole thing -- you can get a good idea of his life and work in the first ten of fifteen minutes.  
+
+Outsider artists are often accompanied by a reputation for mental instability.  Of course this is often a accusation towards artists in general, but if you think about the Myth of Vincent Van Gogh, this is the stereotype often enforced by outsider artists.  This is certainly the case with **Daniel Johnston**, who is equally well known in the music world as he is in the visual arts. I've linked to a trailer for the movie "The Devil and Daniel Johnston", a fascinating movie that's available on Netflix for those of you who are interested.
+
+I've included two artists in here under the term "Outsider Architects" for lack of a better title -- Austrian environmental activist, artists, and architect **Hundertwasser**, and Detroit native Tyree Guyton and his **Heidelberg Project**. We also will look briefly at the life and work of **Rammelzee**, an artist who was equally at home in the art, music and graffiti worlds of 1980's New York.
+
+#### Comix
+
+Comix, with an 'x' is a way to distinguish the small press or self published realm of underground comix from main stream action hero comics put out by large companies like Marvel or DC Comics. Starting in the late 60's, a scene of artists influenced by comic culture emerged, putting out experimental comics, often dealing with adult themes or a wry blend of humor and pornography.  As these projects became more ambitious, the graphic novel was born -- the novel length extension of the comic. One artist I want to introduce you to is **Scott Mccloud**, as much a comic historian as an artist himself. If we had more time to devote to this unit, I would have you all read [Understanding Comics](http://scottmccloud.com/2-print/1-uc/index.html), his illustrated book on understanding the visual communication inherent to all comics. I will introduce you to two of the forefathers of the contemporary comix scene: **Robert Crumb** and **Art Spiegelman**.  And we will also open a window into the world of many more comix authors: Ron Rege, Jim Woodring, Chris Ware, and Marjane Satrapi. Comix by nature translate very well into animation and film, and so many of the examples we will examine will be animations based on the work of these artists.
+
+#### Graffiti 
+
+Finally we will take a quick look at graffiti, from the West Coast artists **Margaret Kilgallen**,
+**Barry McGee**, and miscreant **Neck Face**, to British artist **Bansky**.
+
+The readings this week I've chosen to fill in two big gaps in this unit.  The first is the lack of women in the section of Comix.  I'm happy to be able to add Marjane Satrapi this year, who's graphic novel *Persephone* has proven hugely popular and spawned an animated major motion picture. But often justifiably, comics are criticized as a male dominated art that frequently objectifies women.  Less we go straight back to the sexism of the AbExers, I've included a short article outlining some women in the field.
+
+Secondly, with the exception of Ramelzee, our graffiti artists are all white, in contrast to grafitti's roots in hip hop culture.  Our second article is a British history students paper outlining the history of graffiti.
+
+### **Readings**: (ULO 3, 4) 
+### Author "Title"
+
+#### Introduction 
+
+One thing we will see, as we delve into the world of Comix, is the often rightly placed accusation that comic objectifies women and their role in society like nothing we've seen since the beginning of this course.  For the reading this week, I want us to examine 
+#### Main Points
+
+Before we begin, I want to outline the most important points to look for in this article:
+
+  1. ...
+  2. ...
+  
+#### Women in comics and the tricky art of equality
+
+[in the LA times Hero Complex](http://herocomplex.latimes.com/2012/07/21/women-in-comics-you-cant-keep-a-good-creator-down/#/0)  
+
+### Presentation: Artist Slideshows (ULO 1-4)
+
+Please watch the following slideshows:
+
+<!-- copy from index.txt -->
+
+### Presentations: Artist Videos (ULO 1-4)
+
+#### Beginnings of Pop Art:
+
+Please watch the following videos:
+
+<!-- iframe -->
+    
+### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
+
+#### Identify names of XXX Artists
+
+Q: Select all the artists who are Abstract Expressionists 
+A. 
+B. 
+C. 
+D. 
+E.
+F.
+G.
+H.
+I.
+J.
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
+
+#### Identify artwork images from the slideshows
+
+run mulchexec.py
+
+Q: This is an artwork by:
+ANSWER:
+A:
+B:
+C:
+D: 
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/
+
+#### Multiple Choice Definitions
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A,B
+POINTS: 5
+TYPE: MS
+
+Q: 
+A. 
+B. 
+C. 
+D. 
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: FB
+
+Q:
+ANSWER: 
+POINTS: 5
+TYPE: SA
+
+<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
+
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
+
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+
+**First**, you will start a thread by answering the Essay question below. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the **due dates** for these posts.
+  
+#### Essay Question:
+
+Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
+
+### Voice Thread Question
+
+Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
+
+### Additional Artists to Study (ULO 1)
+    
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
+
+  * artist a
+  * artist b
+  * ...
+
+### Optional links for further self-study (ULO 1-4)
+
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
+
+  * link a to [site a](http://example.com)
+  * link b to [site b](http://example.com)
+  * ...
+  
 <!--@H [Back to Index](art125Outline) H@-->
-<!--@H [previous page](art125Unit10) H@-->
-<!--@H [next page](art125Unit12) H@-->
+<!--@H [previous page](art125Unit01) H@-->
+<!--@H [next page](art125Unit01) H@-->
 
 
-[Evan Roth graffiti taxonomy](http://www.newrafael.com)
+
+
+
+[Rammellzee](http://www.nytimes.com/2012/02/26/arts/design/rammellzees-work-and-reputation-re-emerge.html)
+
+
+### Rammellzee
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/T52mHTpvSeA" frameborder="0" allowfullscreen></iframe>
+
+### Henry Darger
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/sRlvDKcDvsI" frameborder="0" allowfullscreen></iframe>
+
+### The Devil and Daniel Johnston trailer
+
+This is the trailer only, for full movie, go to: 
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2qtFPOxDMs4" frameborder="0" allowfullscreen></iframe>
+
+### Daniel Johnston at Home
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XUn0w24210I" frameborder="0" allowfullscreen></iframe>
+
+### Neckface 
+ 
+*(Warning: explicit language)*
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XSsDmeLr7f8" frameborder="0" allowfullscreen></iframe>
+
+### Hundertwasser
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/GzC1JzINN_Q" frameborder="0" allowfullscreen></iframe>
+
+[Hundertwasser website](http://www.hundertwasser.at/index_en.php)
+
+### Heidelberg Project
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/E6w6WGokjTU" frameborder="0" allowfullscreen></iframe>
+
+The new Discovery Channel show "Motor City Motors" created a Heidelberg-inspired car last year and took it for a test drive in October [YouTube copy]
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Oga_ywsjLX8" frameborder="0" allowfullscreen></iframe>
+
+### Heidelberg Project
+
+[Heidelberg Website](http://www.heidelberg.org/)
+
+### Barry Mcgee & Margaret Kilgallen
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3od1xKEAFY4" frameborder="0" allowfullscreen></iframe>
+
+### Margaret Kilgallen
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cAtwqY6AYsg?list=PLB6431F71D968924C&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+
+### Banksy
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/XXSg8BApBwA" frameborder="0" allowfullscreen></iframe>
+
+### Scott McCloud, comic historian
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/EeP5_65D4IQ" frameborder="0" allowfullscreen></iframe>
+
+### Art Spiegelman
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gVQcFQjupXs" frameborder="0" allowfullscreen></iframe>
+
+### Robert Crumb
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/FlT4QZchxQw" frameborder="0" allowfullscreen></iframe>
+
+### Chris Ware
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Nduv-_BOxl4" frameborder="0" allowfullscreen></iframe>
+
+### Ron Rege
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/5dV_aC5KpN8" frameborder="0" allowfullscreen></iframe>
+
+[Ron Regé jr.](http://whatthingsdo.com/authors/ron-rege-jr/)
+
+### Jim Woodring "Lobster and the Liver" trailer
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ZIhpw4u54Gc" frameborder="0" allowfullscreen></iframe>
+
+### "Visions of Frank" Japanese animation based on the work of Jim Woodring
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/brHZ69DsfQI" frameborder="0" allowfullscreen></iframe>
+
+### Marjane Satrapi author of Persepolis
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CwYgvOr2jCo" frameborder="0" allowfullscreen></iframe>
+
+## Readings
+
+[Feminism and Comics](http://herocomplex.latimes.com/2012/07/21/women-in-comics-you-cant-keep-a-good-creator-down/#/0)
+
+additional artists:
+
+  * Mark Beyer
+  * Mary Fleener
+  * Ron Rege
+  * Goseki Kojima
+  * Elizabeth Murray
+  * Matt Leines
+  * Taylor Mckimens
+  * Raymond Pettibon
+  * Chris Johanson
+  * Daniel Clowes
+  * [Marc Bell](http://www.adambaumgoldgallery.com/Bell_Marc/BellExhibTitle.htm)
+
+additional videos/links:
+
+  * [Comics for Feminists](http://feministphilosophers.wordpress.com/2012/07/17/comics-for-feminists/)
+  * [Heroine](http://feministphilosophers.wordpress.com/2012/07/17/comics-for-feminists/)
+
+  * [fat cap](http://www.fatcap.com/)
+
+
+### Beautiful Loosers
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cAtwqY6AYsg?list=PLB6431F71D968924C&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
+
+
