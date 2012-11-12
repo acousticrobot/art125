@@ -14,18 +14,18 @@ At the end of this unit, students will be able to:
 
 ### Artists covered:
 
-#### Outsider Artists
+##### Outsider Artists
 
   * Henry Darger
   * Daniel Johnston
   * Rammellzee
 
-### Outsider Architects
+#### Outsider Architects
 
   * Friedensreich Hundertwasser
   * Heidelberg Project
 
-#### Comix
+##### Comix
 
   * Scott Mccloud
   * Robert Crumb
@@ -33,7 +33,7 @@ At the end of this unit, students will be able to:
   * Jim Woodring
   * Chris Ware
 
-#### Graffiti
+##### Graffiti
 
   * Margaret Kilgallen
   * Barry McGee
