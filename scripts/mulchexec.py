@@ -72,7 +72,7 @@ unit_7_set = [
 ]
 
 
-unit_7_set = [
+unit_8_set = [
 ("Shadi Ghadirian","ghadirian.1998-9.ghajarGhettoBlaster.jpg"),
 ("Tala Madani","madani.2006.divingInCake.jpg"),
 ("Mona Hatoum","hatoum.2006-7.natureMortsAuxGrenades.det.jpg"),
@@ -86,6 +86,19 @@ unit_7_set = [
 ("Gabriel Orozco","orozco.2006.matrixMovil.jpg")
 ]
 
+unit_11_set = [
+("Daniel Johnston","ghadirian.1998-9.ghajarGhettoBlaster.jpg"),
+("Heidelberg Project","madani.2006.divingInCake.jpg"),
+("Robert Crumb","hatoum.2006-7.natureMortsAuxGrenades.det.jpg"),
+("Art Spiegelman","kapoor.2004-6.cloudGate.jpg"),
+("Jim Woodring","cai.2004.unopportuneStageOne.jpg"),
+("Margaret Kilgallen","yue.2005.untitled.jpg"),
+("Barry McGee","xu.1994.squareWordCalligraphySheep.jpg"),
+("Bansky","anatsui.2009.bukpaOldTown.jpg"),
+("Friedensreich Hundertwasser","neto.2008.wisdomOfTheParts.04.jpg"),
+("Henry Darger","herrera.1999.allIAsk.full.jpg"),
+("Rammellzee","orozco.2006.matrixMovil.jpg")
+]
 
 def load_bank(unit_sets):
     """Creates a list of artists from unit lists of artists/image tuples

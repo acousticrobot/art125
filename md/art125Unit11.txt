@@ -65,152 +65,24 @@ Finally we will take a quick look at graffiti, from the West Coast artists **Mar
 
 The readings this week I've chosen to fill in two big gaps in this unit.  The first is the lack of women in the section of Comix.  I'm happy to be able to add Marjane Satrapi this year, who's graphic novel *Persephone* has proven hugely popular and spawned an animated major motion picture. But often justifiably, comics are criticized as a male dominated art that frequently objectifies women.  Less we go straight back to the sexism of the AbExers, I've included a short article outlining some women in the field.
 
-Secondly, with the exception of Ramelzee, our graffiti artists are all white, in contrast to grafitti's roots in hip hop culture.  Our second article is a British history students paper outlining the history of graffiti.
+Secondly, with the exception of Ramelzee, our graffiti artists are all white, in contrast to grafitti's roots in the latino and African American youth cultures.  Our second article is a British history students paper outlining the history of graffiti.
 
 ### **Readings**: (ULO 3, 4) 
-### Author "Title"
 
-#### Introduction 
+### Pamela Dennant "Urban Expression, Urban Assault, Urban Wildstyle, New York City Graffiti"
 
-One thing we will see, as we delve into the world of Comix, is the often rightly placed accusation that comic objectifies women and their role in society like nothing we've seen since the beginning of this course.  For the reading this week, I want us to examine 
-#### Main Points
+[from Hip Hop Network](http://www.hiphop-network.com/articles/graffitiarticles/emergenceofnycitygraffiti.asp)
 
-Before we begin, I want to outline the most important points to look for in this article:
-
-  1. ...
-  2. ...
   
 #### Women in comics and the tricky art of equality
 
-[in the LA times Hero Complex](http://herocomplex.latimes.com/2012/07/21/women-in-comics-you-cant-keep-a-good-creator-down/#/0)  
-
-### Presentation: Artist Slideshows (ULO 1-4)
-
-Please watch the following slideshows:
-
-<!-- copy from index.txt -->
+[Fom the LA times Hero Complex](http://herocomplex.latimes.com/2012/07/21/women-in-comics-you-cant-keep-a-good-creator-down/#/0)  
 
 ### Presentations: Artist Videos (ULO 1-4)
 
 #### Beginnings of Pop Art:
 
 Please watch the following videos:
-
-<!-- iframe -->
-    
-### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
-
-#### Identify names of XXX Artists
-
-Q: Select all the artists who are Abstract Expressionists 
-A. 
-B. 
-C. 
-D. 
-E.
-F.
-G.
-H.
-I.
-J.
-ANSWER: A,B,C,D,E
-POINTS: 5
-TYPE: MS
-
-#### Identify artwork images from the slideshows
-
-run mulchexec.py
-
-Q: This is an artwork by:
-ANSWER:
-A:
-B:
-C:
-D: 
-POINTS: 5
-TYPE: MC
-IMAGE: http://jonathangabel.com/images/art125/
-
-#### Multiple Choice Definitions
-
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A,B
-POINTS: 5
-TYPE: MS
-
-Q: 
-A. 
-B. 
-C. 
-D. 
-ANSWER: A
-POINTS: 5
-TYPE: MC
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: FB
-
-Q:
-ANSWER: 
-POINTS: 5
-TYPE: SA
-
-<!-- MC = Multiple Choice, TF = True/False, MS = Multiple Select, SA = Short Answer, FB = Fill in the blank(s), FM = Fill in the blank(s) shared answers, ES = Essay, OI = Off-line Item -->
-
-### Discussion Board Question relating to slideshows and readings (ULO 1-4)
-
-Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
-
-**First**, you will start a thread by answering the Essay question below. 
-
-**Then** you will reply to at least two (2) other students posts to get the discussion going.  
-
-Please make sure you meet the **due dates** for these posts.
-  
-#### Essay Question:
-
-Please copy one line from Greenberg's article "Modernist Painting".  Then write a paragraph in which you examine how it applies to the work of one of the artists you learned about in the slide presentations.  Pick one of these artist: Hans Hofmann, Arshile Gorky, Jackson Pollock, Franz Kline, Robert Motherwell, Willem De Kooning, Marc Rothko, Barnett Newman, Ad Reinhardt, Clifford Still, Helen Frankenthaler, Morris Louis.
-
-### Voice Thread Question
-
-Here is another painting by Hans Hoffman.  Describe how he used what he calls the "push and pull" of the composition to create space in the painting.
-
-### Additional Artists to Study (ULO 1)
-    
-*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
-
-  * artist a
-  * artist b
-  * ...
-
-### Optional links for further self-study (ULO 1-4)
-
-*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
-
-  * link a to [site a](http://example.com)
-  * link b to [site b](http://example.com)
-  * ...
-  
-<!--@H [Back to Index](art125Outline) H@-->
-<!--@H [previous page](art125Unit01) H@-->
-<!--@H [next page](art125Unit01) H@-->
-
-
-
-
-
-[Rammellzee](http://www.nytimes.com/2012/02/26/arts/design/rammellzees-work-and-reputation-re-emerge.html)
-
-
-### Rammellzee
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/T52mHTpvSeA" frameborder="0" allowfullscreen></iframe>
 
 ### Henry Darger
 
@@ -226,11 +98,9 @@ This is the trailer only, for full movie, go to:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/XUn0w24210I" frameborder="0" allowfullscreen></iframe>
 
-### Neckface 
- 
-*(Warning: explicit language)*
+### Rammellzee
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/XSsDmeLr7f8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/T52mHTpvSeA" frameborder="0" allowfullscreen></iframe>
 
 ### Hundertwasser
 
@@ -262,6 +132,12 @@ The new Discovery Channel show "Motor City Motors" created a Heidelberg-inspired
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/XXSg8BApBwA" frameborder="0" allowfullscreen></iframe>
 
+### Neckface 
+ 
+*(Warning: explicit language)*
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XSsDmeLr7f8" frameborder="0" allowfullscreen></iframe>
+
 ### Scott McCloud, comic historian
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/EeP5_65D4IQ" frameborder="0" allowfullscreen></iframe>
@@ -282,7 +158,7 @@ The new Discovery Channel show "Motor City Motors" created a Heidelberg-inspired
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/5dV_aC5KpN8" frameborder="0" allowfullscreen></iframe>
 
-[Ron Regé jr.](http://whatthingsdo.com/authors/ron-rege-jr/)
+More of the Art of [Ron Rege](http://whatthingsdo.com/authors/ron-rege-jr/)
 
 ### Jim Woodring "Lobster and the Liver" trailer
 
@@ -295,35 +171,162 @@ The new Discovery Channel show "Motor City Motors" created a Heidelberg-inspired
 ### Marjane Satrapi author of Persepolis
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/CwYgvOr2jCo" frameborder="0" allowfullscreen></iframe>
+    
+### Interactive activities: artwork identification, and terminology (multiple chances, self assess)(ULO 1, 2)
 
-## Readings
+#### Identify names of XXX Artists
 
-[Feminism and Comics](http://herocomplex.latimes.com/2012/07/21/women-in-comics-you-cant-keep-a-good-creator-down/#/0)
+Q: Select all the artists who are Outsider Artists 
+A. Henry Darger
+B. Daniel Johnston
+C. Rammellzee
+D. Friedensreich Hundertwasser
+E. Tyree Guyton (Heidelberg Project)
+F. Arshile Gorky
+G. Chuck Close
+H. Xu Bing
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
 
-additional artists:
+Q: Select all the comix artists
+A. Scott Mccloud
+B. Robert Crumb
+C. Art Spiegelman
+D. Jim Woodring
+E. Chris Ware
+F. Jean Michel Basquiat
+G. Robert Morris
+H. Jeff Koons
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
 
-  * Mark Beyer
-  * Mary Fleener
-  * Ron Rege
-  * Goseki Kojima
-  * Elizabeth Murray
-  * Matt Leines
-  * Taylor Mckimens
-  * Raymond Pettibon
-  * Chris Johanson
-  * Daniel Clowes
+Q: Select all the artists who are Graffiti Artists 
+A. Margaret Kilgallen
+B. Barry McGee
+C. Bansky
+D. Neck Face
+E. Kerry James Marshall
+F. Arturo Herrera
+G. Shadi Ghadirian
+H. James Turrell
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
+
+#### Identify artwork images from the slideshows
+
+run mulchexec.py
+
+Q: This is an artwork by:
+ANSWER:
+A:
+B:
+C:
+D: 
+POINTS: 5
+TYPE: MC
+IMAGE: http://jonathangabel.com/images/art125/
+
+#### Multiple Choice Definitions
+
+Q: Define "comix"
+A. Limited print or small press runs of experimental comics often focusing on adult themes.
+B. Merging image and text into unified visual signifiers, such as Lichtenstein's "Wham!"
+C. Graphic publications focusing on the exploits of superheroes.
+D. Religious pamphlets, usually illustrated for an audience with poor reading skills.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define "graphic novel"
+A. Longer length comics presented in book form.
+B. A sexually explicit genre of novel like "Anna Karenina" or "Lolita"
+C. Gallery shows of narrative work that extends through the entire exhibition.
+D. Graffiti pieces spanning multiple train cars.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: Define "Throw-Ups"
+A. Large quick graffiti tags, usually done with bubble letters and 2 colors.
+B. Stencil graffiti attached to a wall and quickly sprayed.
+C. Large, nauseating, billboard sized artworks meant to offend.
+D. Wheat-pasted temporary artworks on public buildings.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: What is a "fat cap"?
+A. Large diameter spray can nozzles used by graffiti artists to quickly spray large areas of color.
+B. A high rolling artists who makes big expensive artworks that sell for large amounts.
+C. The blunt-end marker used by comic artists to fill in background blacks.
+D. The onion domes used by architect Hundertwasser to cap off his towers.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+Q: What is an "outsider artist"?
+A. An artist with unique personal vision without formal training or who works outside of the artistic establishment.
+B. An art movement of the 60's and 70's focusing on large scale environmental artworks.
+C. Artists who's moral depravity or psychological state cause them to be excluded from the art world.
+D. An artists who only becomes famous after they have died.
+ANSWER: A
+POINTS: 5
+TYPE: MC
+
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
+
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+
+**First**, you will start a thread by answering the Essay question below. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.  
+
+Please make sure you meet the **due dates** for these posts.
+  
+#### Essay Question:
+
+*This response follows the same format as unit 8.*
+
+**First:**
+
+Pick one of the artists from this unit (either one that was featured, mentioned in the readings or extra artists list, or one who you believe would fit into this unit) and do a little research on your own.  Find another interview, blog entry, images of artworks, video or the like on line.
+
+**Then:**
+
+Write a quick summary of what you found and why you liked it. INCLUDE A LINK IN YOUR RESPONSE, so we can also see what it is you found. (To add a link, highlight the word or words you want to make a link, then click on the globe/chainlink image.  Copy and paste the web address into the popup window in the field lables URL).
+
+**Responses:**
+
+For your two responses due Sunday, follow your classmates links and review the material they presented.  Then add your own response to the material.
+
+### Additional Artists to Study (ULO 1)
+    
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these artists could also fit into this category*
+
+* Mark Beyer
+* Mary Fleener
+* Ron Rege
+* Goseki Kojima
+* Elizabeth Murray
+* Matt Leines
+* Taylor Mckimens
+* Raymond Pettibon
+* Chris Johanson
+* Daniel Clowes
+
+### Optional links for further self-study (ULO 1-4)
+
+*You will not be tested on the following material, but if you are interested in studying further anything we discussed this week, these links are a good place to start:*
+
+  * Reemergence of [Rammellzee](http://www.nytimes.com/2012/02/26/arts/design/rammellzees-work-and-reputation-re-emerge.html)
   * [Marc Bell](http://www.adambaumgoldgallery.com/Bell_Marc/BellExhibTitle.htm)
-
-additional videos/links:
-
   * [Comics for Feminists](http://feministphilosophers.wordpress.com/2012/07/17/comics-for-feminists/)
   * [Heroine](http://feministphilosophers.wordpress.com/2012/07/17/comics-for-feminists/)
-
   * [fat cap](http://www.fatcap.com/)
 
-
-### Beautiful Loosers
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/cAtwqY6AYsg?list=PLB6431F71D968924C&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
-
-
+<!--@H [Back to Index](art125Outline) H@-->
+<!--@H [previous page](art125Unit01) H@-->
+<!--@H [next page](art125Unit01) H@-->
