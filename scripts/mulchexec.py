@@ -87,17 +87,17 @@ unit_8_set = [
 ]
 
 unit_11_set = [
-("Daniel Johnston","ghadirian.1998-9.ghajarGhettoBlaster.jpg"),
-("Heidelberg Project","madani.2006.divingInCake.jpg"),
-("Robert Crumb","hatoum.2006-7.natureMortsAuxGrenades.det.jpg"),
-("Art Spiegelman","kapoor.2004-6.cloudGate.jpg"),
-("Jim Woodring","cai.2004.unopportuneStageOne.jpg"),
-("Margaret Kilgallen","yue.2005.untitled.jpg"),
-("Barry McGee","xu.1994.squareWordCalligraphySheep.jpg"),
-("Bansky","anatsui.2009.bukpaOldTown.jpg"),
-("Friedensreich Hundertwasser","neto.2008.wisdomOfTheParts.04.jpg"),
-("Henry Darger","herrera.1999.allIAsk.full.jpg"),
-("Rammellzee","orozco.2006.matrixMovil.jpg")
+("Daniel Johnston","johnston.1990s.untitled.2.jpg"),
+("Heidelberg Project","heidelbergProject.1986.detail1.jpg"),
+("Robert Crumb","crumb.1986.selfPortriat.jpg"),
+("Art Spiegelman","spiegelman.1991.maus.jpg"),
+("Jim Woodring","woodring.2001.frank.jpg"),
+("Margaret Kilgallen","kilgallen.1999.sloe.jpg"),
+("Barry McGee","mcgee.1990s.mural.jpg"),
+("Bansky","banksy.1900s.abeLincoln.2.jpg"),
+("Friedensreich Hundertwasser","hundertwasser.1985.buildingInLowengasse.jpg"),
+("Henry Darger","darger.1900s.vivianGirls.hanging.jpg"),
+("Rammellzee","rammellzee.1980s.lettersRacers.1.jpg")
 ]
 
 def load_bank(unit_sets):
@@ -174,5 +174,5 @@ def make_exam(bank_set):
     make_mulch(exam_bank,[exam_bank])
     
 
-make_mulch(unit_7_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set,unit_7_set])
+make_mulch(unit_11_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set,unit_7_set,unit_8_set,unit_11_set])
 #make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])

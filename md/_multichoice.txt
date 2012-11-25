@@ -250,3 +250,131 @@ IMAGE: $COURSE_PATH$images/orozco.2006.matrixMovil.jpg
 ##### end generated log
 ##### total items = 110
 
+# Multiple Choice
+##### Generated: 2012-11-13 13:37:40.097868
+
+Q: This Artwork is by:
+A.Daniel Johnston
+B.Tala Madani
+C.Heidelberg Project
+D.Barry McGee
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/johnston.1990s.untitled.2.jpg
+
+
+Q: This Artwork is by:
+A.Heidelberg Project
+B.Duane Hanson
+C.Richard Serra
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/heidelbergProject.1986.detail1.jpg
+
+
+Q: This Artwork is by:
+A.Robert Crumb
+B.Jackson Pollock
+C.Heidelberg Project
+D.Jeff Koons
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/crumb.1986.selfPortriat.jpg
+
+
+Q: This Artwork is by:
+A.Art Spiegelman
+B.Richard Serra
+C.Dan Flavin
+D.Cindy Sherman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/spiegelman.1991.maus.jpg
+
+
+Q: This Artwork is by:
+A.Jim Woodring
+B.Cai Guo-Qiang
+C.Michael Ray Charles
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/woodring.2001.frank.jpg
+
+
+Q: This Artwork is by:
+A.Margaret Kilgallen
+B.Richard Serra
+C.Claes Oldenburg
+D.Barnett Newman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/kilgallen.1999.sloe.jpg
+
+
+Q: This Artwork is by:
+A.Barry McGee
+B.Yue Minjun
+C.Jasper Johns
+D.Mona Hatoum
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/mcgee.1990s.mural.jpg
+
+
+Q: This Artwork is by:
+A.Bansky
+B.Louise Nevelson
+C.Richard Serra
+D.Dan Flavin
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/banksy.1900s.abeLincoln.2.jpg
+
+
+Q: This Artwork is by:
+A.Friedensreich Hundertwasser
+B.Xu Bing
+C.Chuck Close
+D.Mona Hatoum
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/hundertwasser.1985.buildingInLowengasse.jpg
+
+
+Q: This Artwork is by:
+A.Henry Darger
+B.Art Spiegelman
+C.Willem De Kooning
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/darger.1900s.vivianGirls.hanging.jpg
+
+
+Q: This Artwork is by:
+A.Rammellzee
+B.Ana Mendieta
+C.Barry McGee
+D.Friedensreich Hundertwasser
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/rammellzee.1980s.lettersRacers.1.jpg
+
+
+
+##### end generated log
+##### total items = 110
+
