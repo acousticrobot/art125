@@ -100,6 +100,19 @@ unit_11_set = [
 ("Rammellzee","rammellzee.1980s.lettersRacers.1.jpg")
 ]
 
+
+unit_12_set = [
+("Gordon Parks","parks.1900s.childrenWithDollLarge.jpg"),
+("William Eggleston","eggleston.1965-74.dustBells.cafesign.jpg"),
+("Bernd and Hilla Becher","becher.1960c.largeSteelStorageTank.jpg"),
+("Edward Burtynsky","burtynsky.2007.albertaOilSands.1.jpg"),
+("Thomas Demand","demand.2007.yellowcake.embassy7.jpg"),
+("Cindy Sherman","sherman.1982.sundress.jpg"),
+("Erwin Wurm","wurm.1999-2000.oneMinuteSculptures.stapler.jpg"),
+("Roni Horn","horn.1994-96.youAreTheWeather.jpg")
+]
+
+
 def load_bank(unit_sets):
     """Creates a list of artists from unit lists of artists/image tuples
 
@@ -174,5 +187,5 @@ def make_exam(bank_set):
     make_mulch(exam_bank,[exam_bank])
     
 
-make_mulch(unit_11_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set,unit_7_set,unit_8_set,unit_11_set])
+make_mulch(unit_12_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set,unit_7_set,unit_8_set,unit_11_set,unit_12_set])
 #make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])

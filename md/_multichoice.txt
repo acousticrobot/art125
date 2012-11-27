@@ -378,3 +378,98 @@ IMAGE: $COURSE_PATH$images/rammellzee.1980s.lettersRacers.1.jpg
 ##### end generated log
 ##### total items = 110
 
+# Multiple Choice
+##### Generated: 2012-11-27 08:07:15.633594
+
+Q: This Artwork is by:
+A.Gordon Parks
+B.Art Spiegelman
+C.Robert Crumb
+D.Gabriel Orozco
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/parks.1900s.childrenWithDollLarge.jpg
+
+
+Q: This Artwork is by:
+A.William Eggleston
+B.Jenny Holzer
+C.Gabriel Orozco
+D.Anish Kapoor
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/eggleston.1965-74.dustBells.cafesign.jpg
+
+
+Q: This Artwork is by:
+A.Bernd and Hilla Becher
+B.Louise Nevelson
+C.Cindy Sherman
+D.Helen Frankenthaler
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/becher.1960c.largeSteelStorageTank.jpg
+
+
+Q: This Artwork is by:
+A.Edward Burtynsky
+B.Cai Guo-Qiang
+C.Robert Smithson
+D.Chuck Close
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/burtynsky.2007.albertaOilSands.1.jpg
+
+
+Q: This Artwork is by:
+A.Thomas Demand
+B.Donald Judd
+C.Barbara Kruger
+D.Heidelberg Project
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/demand.2007.yellowcake.embassy7.jpg
+
+
+Q: This Artwork is by:
+A.Cindy Sherman
+B.Cai Guo-Qiang
+C.Edward Burtynsky
+D.Richard Hamilton
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/sherman.1982.sundress.jpg
+
+
+Q: This Artwork is by:
+A.Erwin Wurm
+B.Helen Frankenthaler
+C.Shadi Ghadirian
+D.Barnett Newman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/wurm.1999-2000.oneMinuteSculptures.stapler.jpg
+
+
+Q: This Artwork is by:
+A.Roni Horn
+B.James Rosenquist
+C.Andy Warhol
+D.Cindy Sherman
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/horn.1994-96.youAreTheWeather.jpg
+
+
+
+##### end generated log
+##### total items = 80
+
