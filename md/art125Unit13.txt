@@ -1,41 +1,141 @@
-### artists
+# Unit 13: Video, New Media and Web Art 
+  
+### The Subtitle
 
-  * Jenny Holzer
-  * Paul Pfeiffer
+## Unit Student Learning Objectives
+
+### Unit X:  XXX_TITLE (one week)
+
+At the end of this unit, students will be able to:
+
+  1. Identify artists and describe qualities associated with Video, New Media, and Web Art (Course Goals: 1,2,4,5, GE: 1,4,6,7, Core skills: A, D, E)
+  2. Define key terms associated with these movements and artists (Course Goals: 1,2,4 GE: 1,4,6,7, core skills: A, D, E)
+  3. Question the theory and philosophy behind the movement, with emphasis on the role of technology. (Course Goals: 2,3,4,5,6 GE: 1,4,6,7,9 core skills: A, B, C, E, F, G)
+
+
+### Artists covered:
+
+
+#### Video and New Media Artists:
+
+  * Nam Jun Paik
   * Stelarc
+  * Jenny Holzer
+  * Bill Viola
+  * Janet Cardiff
 
+#### Net Artists:
+  * Cyriak
+  * Mr. Doob
+  * Evan Roth
+  * Rafael Rubinstein
 
-<!--@H [Back to Index](art125Outline) H@-->
-<!--@H [previous page](art125Unit12) H@-->
+#### On Line Galleries:
 
+  * Today and Tomorrow
+  * The End of Being
 
-http://www.smore.com/clippy-js
+## Unit Student Assessments & Activities
 
-http://djspooky.com/imaginaryapp/
+### Introduction (ULO 3-4)
 
-http://cyriak.co.uk/blog/
+Congratulations! You've made it through the class, and into the last unit. This weeks lesson is fairly light, to give you a change to start reviewing for the final exam. But we will be looking into something quite exciting for this class, considering we're learning about art on line.  That's right: digital artists of several varieties.  It has become more and more common for musuems such as the MoMa to put on exhibitions focusing on new media.  Honestly, I can say that I find many of these shows annoying, because I don't see the point of going to a museum to see art that exists on the internet -- just put toghether a virtual gallery for exhibition.
 
-http://www.zeutch.com/cool/animated-banksy-41171
+That is exactly what I have tried to do for you here this week.  I have broken this class into three main areas of focus: Video and New Media, Internet Art, and On Line Galleries. 
 
-[Making the Water Move: Techno-Historic Limits in the Game Aesthetics of Myst and Doom](http://gamestudies.org/0801/articles/hutch)
+#### Video and New Media
 
-[Game Aesthetic History](http://smartech.gatech.edu/handle/1853/34419)
+Surprisingly, video art is one of the harder things for me to show in this class, both on line and when I teach it in person.  This has to do a lot with the simple fact that if good quality reproductions of video art are available to watch, then the artist has nothing left to sell! So finding example of good video on line is often difficult.  There is one artist, Paul Pfeiffer, who I would have liked to introduce you to this week, but since no good examples are available, he got the axe.
 
-[networked book](http://networkedbook.org/)
+That beeing said, we still have several interesting artists we can explore.  I have a short video and text reading about one of the pioneers of video art for you, *Nam Jun Paik*.  His work spans all the way back to the beginnings of video, and you can put him back into the earliest performance artists and happenings we read about at the beginning of the course.  Another artists whose work has spanned many decades is *Stelarc*, part artist and part mad scientist.
 
-http://mrdoob.com/
+Next we get into a couple artists well known in the 80's: *Jenny Holzer*, and *Bill Viola*.  *Bill Viola* is probably the most classical example of a video artist I have to show you, and luckily there are several good quality videos out there to watch.  I have chosen two, a short piece taken from a larger work called *I Do Not Know What It Is I Am Like* from 1986, and a longer video where he discusses his newer work in the context of old masters. *Jenny Holzer*, as you know already, became know initially for her work with text, and followed with unique methods of displaying these texts, such as electronic billboards.  This week we will hear her discuss this work in more detail.
 
-[Evan Roth](http://www.evan-roth.com/)
-[New Raphael](http://www.newrafael.com)
+Lastly you will be reading about Janet Cardiff, initially an artists who worked with sound, and discover some of the more interesting things she has done superimposing video and sound within a real environment.
 
+#### Net Artists
 
-on line galleries:
+Making artwork who's home is on the Internet is so new, I can't say who will be remembered in five or ten years from now.  But I've put together a collection of links to some of the more interesting projects out there that I'm keeping an eye on.
 
-http://www.todayandtomorrow.net/
-http://theendofbeing.com/
+#### On Line Galleries
 
-youtube:
+Before we part ways, I want to point you to some resources for exploring contemporary art further on line.  Every day new blogs and virtual galleries are popping up on line, great places to view art across the world.  We no longer have the monolithic voices of critics like Greenberg. Instead, for every Greenberg, there are dozens of blogs by hobbyist critics to view.  Some artists even take the roll of YouTube art critique to the level of performance art.  I will leave you this week with one such video by Hennessey Youngman, a video performance art, critiquing performance art.  Talk about meta.
+
+### **Readings**: (ULO 3, 4) 
+
+### Author "Title"
+#### A short reading on artist Nam Jun Paik
+[Nam Jun Paik](http://www.slate.com/articles/news_and_politics/obit/2006/02/nam_june_paik.html)
+
+#### Janet Cardiff in the New York Times
+
+Make sure you explore the multimedia link to see her work
+
+[Janet Cardiff](http://www.nytimes.com/2012/07/29/magazine/janet-cardiff-george-bures-miller-and-the-power-of-sound.html)
+
+### Presentations: Artist Videos (ULO 1-4)
+
+#### Nam June Paik
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/rGi9EQTgs-0" frameborder="0" allowfullscreen></iframe>
+
+#### Jenny Holzer
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CxrxnPLmqEs" frameborder="0" allowfullscreen></iframe>
+
+#### Bill Viola
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/qs5nShDSkeU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/GQuSYsFMMt4" frameborder="0" allowfullscreen></iframe>
 
 ### Stelarc:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/Pz-UgQdHYIc" frameborder="0" allowfullscreen></iframe>
+
+### Hennessey Youngman
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/FjaKtx_dN78" frameborder="0" allowfullscreen></iframe>
+
+### Presentation: Artist Websites (ULO 1-4)
+
+Please explore the following websites: 
+
+  * [Cyriak](http://cyriak.co.uk/blog/)
+  * [Mr Doob](http://mrdoob.com/)
+  * [Evan Roth](http://www.evan-roth.com/)
+  * [Rafael Rosendaal](http://www.newrafael.com)
+  * [Animated Banksy](http://www.zeutch.com/cool/animated-banksy-41171)
+  * [Today and Tomorrow](www.todayandtomorrow.net/)
+  * [The End of Being](http://theendofbeing.com/)
+  * A list of the[Top 20 or so Art Blogs](http://lucian.uchicago.edu/blogs/vrc/2008/02/06/top-20-or-so-art-blogs/) 
+
+#### Identify names of XXX Artists
+
+
+
+Q: Select all the artists who are New Media Artists
+A: Nam Jun Paik
+B. Stelarc
+C. Jenny Holzer
+D. Bill Viola
+E. Janet Cardiff
+F. Rammellzee
+G. Erwin Wurm
+H. El Anatsui
+ANSWER: A,B,C,D,E
+POINTS: 5
+TYPE: MS
+
+### Discussion Board Question relating to slideshows and readings (ULO 1-4)
+
+Now that you have become familiar with the artists and concepts presented in this unit, it is time to start making connections.  Here is your chance to apply what you learned in the readings to some of the artwork you have seen. 
+
+**Then** you will reply to at least two (2) other students posts to get the discussion going.
+
+Please make sure you meet the **due dates** for these posts.
+  
+#### Essay Question:
+
+We are living in a time where it is too soon to even say what an internet artist is, or what is internet art, but there are certainly many sites and artists out there who could qualify.  Please share with the group something that you have discovered out on the web that you consider internet art, and explain why you think it is worthy of being considered art, based on work we have studied so far in this course.
+

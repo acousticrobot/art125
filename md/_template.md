@@ -1,4 +1,4 @@
-# Unit X:  The Title
+# Unit X: The title 
   
 ### The Subtitle
 
