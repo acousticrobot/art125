@@ -469,7 +469,3 @@ TYPE: MC
 IMAGE: $COURSE_PATH$images/horn.1994-96.youAreTheWeather.jpg
 
 
-
-##### end generated log
-##### total items = 80
-

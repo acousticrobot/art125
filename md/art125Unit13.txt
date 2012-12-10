@@ -1,6 +1,6 @@
 # Unit 13: Video, New Media and Web Art 
   
-### The Subtitle
+### Art on the Edge of Technology
 
 ## Unit Student Learning Objectives
 
@@ -115,7 +115,7 @@ Please explore the following websites:
 
 
 Q: Select all the artists who are New Media Artists
-A: Nam Jun Paik
+A. Nam Jun Paik
 B. Stelarc
 C. Jenny Holzer
 D. Bill Viola
