@@ -188,5 +188,5 @@ def make_exam(bank_set):
     
 
 #make_mulch(unit_12_set,[unit_2_set,unit_3_set,unit_4_set,unit_5_set,unit_7_set,unit_8_set,unit_11_set,unit_12_set])
-#make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])
-make_exam([unit_7_set,unit_8_set,unit_11_set,unit_12_set])
+make_exam([unit_2_set,unit_3_set,unit_4_set,unit_5_set])
+#make_exam([unit_7_set,unit_8_set,unit_11_set,unit_12_set])

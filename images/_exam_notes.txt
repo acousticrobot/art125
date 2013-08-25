@@ -1,0 +1,86 @@
+# Exam Images Key:
+##### Generated: 2012-12-10 19:41:15.173436
+
+dekooning.1950.woman1.jpg --> qrxbbavatj.jpg
+frankenthaler.1963.canal.jpg --> senaxragun.jpg
+gorky.1944.theLiverIsTheCocksComb.jpg --> tbexlgurYv.jpg
+hofmann.1962.sanctum.jpg --> ubsznaafna.jpg
+louis.1959.saraband.jpg --> ybhvffneno.jpg
+newman.1948.onement.jpg --> arjznabarz.jpg
+pollock.1950.autumnRhythm.jpg --> cbyybpxnhg.jpg
+reinhardt.1960-66.abstractPainting.jpg --> ervauneqgn.jpg
+rothko.1957.orangeAndYellow.jpg --> ebguxbbena.jpg
+johns.1954.flag.jpg --> wbuafsynt.jpg
+hamilton.1956.justWhatIsItEtc.jpg --> unzvygbawh.jpg
+lichtenstein.1963.whaam.jpg --> yvpugrafgr.jpg
+oldenburg.1962.floorCake.jpg --> byqraohets.jpg
+rauschenberg.55-9.monogram.jpg --> enhfpuraor.jpg
+rosenquist.1964-5.f111.detail2.jpg --> ebfradhvfg.jpg
+warhol.1962.marilynDyptych.jpg --> jneubyznev.jpg
+close.1967.bigSelfPortrait.jpg --> pybfrovtFr.jpg
+hanson.1970.supermarketShopper.jpg --> unafbafhcr.jpg
+smith.1964.cubiXIX.jpg --> fzvguphovK.jpg
+nevelson.1958.skyCathedral.2.jpg --> ariryfbafx.jpg
+judd.1968.1900s.jpg --> whqq1900f.jpg
+flavin.1977.untitled.inhonorharoldjoachim.jpg --> synivahagv.jpg
+stella.1962.grandCairo.jpg --> fgryyntena.jpg
+lewitt.60s.123454321.jpg --> yrjvgg1234.jpg
+morris.1961.boxForStanding.empty.jpg --> zbeevfobkS.jpg
+smithson.1970.spiralJetty.jpg --> fzvgufbafc.jpg
+serra.2006.band.jpg --> freenonaq.jpg
+turrell.77-2002.rodenCratersEye.jpg --> gheeryyebq.jpg
+chicago.74-9.dinnerParty.jpg --> puvpntbqva.jpg
+schneemann.1975.interiorScroll.jpg --> fpuarrznaa.jpg
+mendieta.1977.treeOfLife.jpg --> zraqvrgnge.jpg
+wilson.1991.guardedView.jpg --> jvyfbathne.jpg
+walker.1994c.girlAndMan.jpg --> jnyxretvey.jpg
+weems.2008.theAssasinationOfMedgarMalcolmAndMartin.jpg --> jrrzfgurNf.jpg
+charles.1994.beware.jpg --> puneyrforj.jpg
+marshall.1992.couldThisBeLove.jpg --> znefunyypb.jpg
+
+##### end generated log
+##### total items = 36
+
+# Bash Commands for file rename:
+##### Generated: 2012-12-10 19:41:15.223735
+
+cp dekooning.1950.woman1.jpg _exam/qrxbbavatj.jpg
+cp frankenthaler.1963.canal.jpg _exam/senaxragun.jpg
+cp gorky.1944.theLiverIsTheCocksComb.jpg _exam/tbexlgurYv.jpg
+cp hofmann.1962.sanctum.jpg _exam/ubsznaafna.jpg
+cp louis.1959.saraband.jpg _exam/ybhvffneno.jpg
+cp newman.1948.onement.jpg _exam/arjznabarz.jpg
+cp pollock.1950.autumnRhythm.jpg _exam/cbyybpxnhg.jpg
+cp reinhardt.1960-66.abstractPainting.jpg _exam/ervauneqgn.jpg
+cp rothko.1957.orangeAndYellow.jpg _exam/ebguxbbena.jpg
+cp johns.1954.flag.jpg _exam/wbuafsynt.jpg
+cp hamilton.1956.justWhatIsItEtc.jpg _exam/unzvygbawh.jpg
+cp lichtenstein.1963.whaam.jpg _exam/yvpugrafgr.jpg
+cp oldenburg.1962.floorCake.jpg _exam/byqraohets.jpg
+cp rauschenberg.55-9.monogram.jpg _exam/enhfpuraor.jpg
+cp rosenquist.1964-5.f111.detail2.jpg _exam/ebfradhvfg.jpg
+cp warhol.1962.marilynDyptych.jpg _exam/jneubyznev.jpg
+cp close.1967.bigSelfPortrait.jpg _exam/pybfrovtFr.jpg
+cp hanson.1970.supermarketShopper.jpg _exam/unafbafhcr.jpg
+cp smith.1964.cubiXIX.jpg _exam/fzvguphovK.jpg
+cp nevelson.1958.skyCathedral.2.jpg _exam/ariryfbafx.jpg
+cp judd.1968.1900s.jpg _exam/whqq1900f.jpg
+cp flavin.1977.untitled.inhonorharoldjoachim.jpg _exam/synivahagv.jpg
+cp stella.1962.grandCairo.jpg _exam/fgryyntena.jpg
+cp lewitt.60s.123454321.jpg _exam/yrjvgg1234.jpg
+cp morris.1961.boxForStanding.empty.jpg _exam/zbeevfobkS.jpg
+cp smithson.1970.spiralJetty.jpg _exam/fzvgufbafc.jpg
+cp serra.2006.band.jpg _exam/freenonaq.jpg
+cp turrell.77-2002.rodenCratersEye.jpg _exam/gheeryyebq.jpg
+cp chicago.74-9.dinnerParty.jpg _exam/puvpntbqva.jpg
+cp schneemann.1975.interiorScroll.jpg _exam/fpuarrznaa.jpg
+cp mendieta.1977.treeOfLife.jpg _exam/zraqvrgnge.jpg
+cp wilson.1991.guardedView.jpg _exam/jvyfbathne.jpg
+cp walker.1994c.girlAndMan.jpg _exam/jnyxretvey.jpg
+cp weems.2008.theAssasinationOfMedgarMalcolmAndMartin.jpg _exam/jrrzfgurNf.jpg
+cp charles.1994.beware.jpg _exam/puneyrforj.jpg
+cp marshall.1992.couldThisBeLove.jpg _exam/znefunyypb.jpg
+
+##### end generated log
+##### total items = 36
+

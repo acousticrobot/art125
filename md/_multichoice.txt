@@ -469,3 +469,406 @@ TYPE: MC
 IMAGE: $COURSE_PATH$images/horn.1994-96.youAreTheWeather.jpg
 
 
+# Multiple Choice
+##### Generated: 2012-12-10 19:41:15.274077
+
+Q: This Artwork is by:
+A.Willem De Kooning
+B.Donald Judd
+C.Kara Walker
+D.Jasper Johns
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/qrxbbavatj.jpg
+
+
+Q: This Artwork is by:
+A.Helen Frankenthaler
+B.James Rosenquist
+C.Chuck Close
+D.Judy Chicago
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/senaxragun.jpg
+
+
+Q: This Artwork is by:
+A.Arshile Gorky
+B.Roy Lichtenstein
+C.James Turrell
+D.James Rosenquist
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/tbexlgurYv.jpg
+
+
+Q: This Artwork is by:
+A.Hans Hofmann
+B.Roy Lichtenstein
+C.Barnett Newman
+D.Claes Oldenburg
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ubsznaafna.jpg
+
+
+Q: This Artwork is by:
+A.Morris Louis
+B.Kerry James Marshall
+C.Jackson Pollock
+D.Robert Rauschenberg
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ybhvffneno.jpg
+
+
+Q: This Artwork is by:
+A.Barnett Newman
+B.Ad Reinhardt
+C.James Rosenquist
+D.Donald Judd
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/arjznabarz.jpg
+
+
+Q: This Artwork is by:
+A.Jackson Pollock
+B.Michael Ray Charles
+C.Kara Walker
+D.Carolee Schneemann
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/cbyybpxnhg.jpg
+
+
+Q: This Artwork is by:
+A.Ad Reinhardt
+B.Duane Hanson
+C.Jackson Pollock
+D.Jasper Johns
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ervauneqgn.jpg
+
+
+Q: This Artwork is by:
+A.Marc Rothko
+B.Ad Reinhardt
+C.James Turrell
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ebguxbbena.jpg
+
+
+Q: This Artwork is by:
+A.Jasper Johns
+B.Robert Morris
+C.Kerry James Marshall
+D.James Turrell
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/wbuafsynt.jpg
+
+
+Q: This Artwork is by:
+A.Richard Hamilton
+B.Dan Flavin
+C.Kara Walker
+D.Ad Reinhardt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/unzvygbawh.jpg
+
+
+Q: This Artwork is by:
+A.Roy Lichtenstein
+B.Jackson Pollock
+C.Duane Hanson
+D.Frank Stella
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/yvpugrafgr.jpg
+
+
+Q: This Artwork is by:
+A.Claes Oldenburg
+B.Jasper Johns
+C.Jackson Pollock
+D.Michael Ray Charles
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/byqraohets.jpg
+
+
+Q: This Artwork is by:
+A.Robert Rauschenberg
+B.Duane Hanson
+C.Barnett Newman
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/enhfpuraor.jpg
+
+
+Q: This Artwork is by:
+A.James Rosenquist
+B.Frank Stella
+C.Jasper Johns
+D.Robert Rauschenberg
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ebfradhvfg.jpg
+
+
+Q: This Artwork is by:
+A.Andy Warhol
+B.Carolee Schneemann
+C.Chuck Close
+D.Roy Lichtenstein
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/jneubyznev.jpg
+
+
+Q: This Artwork is by:
+A.Chuck Close
+B.Duane Hanson
+C.James Turrell
+D.Kara Walker
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/pybfrovtFr.jpg
+
+
+Q: This Artwork is by:
+A.Duane Hanson
+B.Carolee Schneemann
+C.James Turrell
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/unafbafhcr.jpg
+
+
+Q: This Artwork is by:
+A.David Smith
+B.Chuck Close
+C.Andy Warhol
+D.Arshile Gorky
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/fzvguphovK.jpg
+
+
+Q: This Artwork is by:
+A.Louise Nevelson
+B.Andy Warhol
+C.Robert Morris
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/ariryfbafx.jpg
+
+
+Q: This Artwork is by:
+A.Donald Judd
+B.Jasper Johns
+C.Judy Chicago
+D.Robert Rauschenberg
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/whqq1900f.jpg
+
+
+Q: This Artwork is by:
+A.Dan Flavin
+B.Louise Nevelson
+C.Fred Wilson
+D.Sol Lewitt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/synivahagv.jpg
+
+
+Q: This Artwork is by:
+A.Frank Stella
+B.Robert Morris
+C.Duane Hanson
+D.Robert Smithson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/fgryyntena.jpg
+
+
+Q: This Artwork is by:
+A.Sol Lewitt
+B.Judy Chicago
+C.Duane Hanson
+D.Robert Morris
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/yrjvgg1234.jpg
+
+
+Q: This Artwork is by:
+A.Robert Morris
+B.Carolee Schneemann
+C.Robert Rauschenberg
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/zbeevfobkS.jpg
+
+
+Q: This Artwork is by:
+A.Robert Smithson
+B.Helen Frankenthaler
+C.Donald Judd
+D.Fred Wilson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/fzvgufbafc.jpg
+
+
+Q: This Artwork is by:
+A.Richard Serra
+B.Arshile Gorky
+C.James Turrell
+D.Duane Hanson
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/freenonaq.jpg
+
+
+Q: This Artwork is by:
+A.James Turrell
+B.Robert Smithson
+C.Louise Nevelson
+D.Robert Morris
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/gheeryyebq.jpg
+
+
+Q: This Artwork is by:
+A.Judy Chicago
+B.Donald Judd
+C.Roy Lichtenstein
+D.Michael Ray Charles
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/puvpntbqva.jpg
+
+
+Q: This Artwork is by:
+A.Carolee Schneemann
+B.Fred Wilson
+C.Marc Rothko
+D.Richard Serra
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/fpuarrznaa.jpg
+
+
+Q: This Artwork is by:
+A.Ana Mendieta
+B.Ad Reinhardt
+C.James Rosenquist
+D.Donald Judd
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/zraqvrgnge.jpg
+
+
+Q: This Artwork is by:
+A.Fred Wilson
+B.Dan Flavin
+C.James Rosenquist
+D.Ad Reinhardt
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/jvyfbathne.jpg
+
+
+Q: This Artwork is by:
+A.Kara Walker
+B.Marc Rothko
+C.Andy Warhol
+D.Richard Hamilton
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/jnyxretvey.jpg
+
+
+Q: This Artwork is by:
+A.Carrie Mae Weems
+B.Frank Stella
+C.Robert Morris
+D.Jackson Pollock
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/jrrzfgurNf.jpg
+
+
+Q: This Artwork is by:
+A.Michael Ray Charles
+B.Donald Judd
+C.Willem De Kooning
+D.Ana Mendieta
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/puneyrforj.jpg
+
+
+Q: This Artwork is by:
+A.Kerry James Marshall
+B.David Smith
+C.Roy Lichtenstein
+D.Willem De Kooning
+Answer: A
+POINTS: 5
+TYPE: MC
+IMAGE: $COURSE_PATH$images/znefunyypb.jpg
+
+
+
+##### end generated log
+##### total items = 360
+

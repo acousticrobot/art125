@@ -202,7 +202,7 @@ F.Kara Walker
 G.Judy Chicago
 H.Robert Morris
 I.Ad Reinhardt
-ANSWER: A,B,C,D,E
+ANSWER: A,B,C,D,E,F
 POINTS: 5
 TYPE: MS
 
